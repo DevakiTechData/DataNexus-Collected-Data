@@ -1,0 +1,1001 @@
+Event_ID,Event_Name,Event_Type,Organizer,Event_Date,Category,Location_City,Location_State
+1,Alumni Meetup Fight,Alumni Meetup,Business School,2023-01-28,University,Rochester,NY
+2,Alumni Meetup Director,Alumni Meetup,SLU Alumni Association,2024-03-09,Employer,Naperville,IL
+3,Career Fair Community,Career Fair,Employer Relations,2025-11-29,Employer,Detroit,MI
+4,Hackathon Along,Hackathon,Business School,2017-09-05,University,Tucson,AZ
+5,Hackathon Win,Hackathon,Computer Science Dept.,2021-04-30,Employer,Savannah,GA
+6,Employer Info Session Firm,Employer Info Session,Business School,2023-12-09,Employer,Redmond,WA
+7,Hackathon Increase,Hackathon,Computer Science Dept.,2017-05-31,Employer,Chicago,IL
+8,Alumni Meetup Couple,Alumni Meetup,External Employer,2022-03-22,University,Harrisburg,PA
+9,Webinar Raise,Webinar,Business School,2020-08-14,University,Somerville,MA
+10,Career Fair About,Career Fair,Business School,2017-11-13,University,Scottsdale,AZ
+11,Webinar Enter,Webinar,External Employer,2018-06-09,University,Columbus,OH
+12,Employer Info Session Sound,Employer Info Session,Business School,2022-12-10,University,Springfield,MO
+13,Webinar Compare,Webinar,SLU Alumni Association,2023-05-03,University,Pittsburgh,PA
+14,Alumni Meetup Work,Alumni Meetup,SLU Alumni Association,2021-02-17,Employer,Raleigh,NC
+15,Hackathon Face,Hackathon,SLU Alumni Association,2019-04-04,University,Chesterfield,MO
+16,Employer Info Session Cup,Employer Info Session,External Employer,2018-08-27,Employer,Plano,TX
+17,Seminar Defense,Seminar,Computer Science Dept.,2018-12-01,University,Redmond,WA
+18,Seminar Pass,Seminar,External Employer,2021-11-10,Employer,Harrisburg,PA
+19,Webinar Brother,Webinar,Employer Relations,2020-02-09,University,Clayton,MO
+20,Seminar Hope,Seminar,SLU Career Services,2015-03-23,Employer,Columbus,OH
+21,Alumni Meetup National,Alumni Meetup,SLU Alumni Association,2025-01-13,University,Columbia,MO
+22,Employer Info Session Heavy,Employer Info Session,Business School,2018-10-01,Employer,Tucson,AZ
+23,Hackathon Around,Hackathon,SLU Alumni Association,2019-03-20,Employer,Columbus,OH
+24,Employer Info Session Politics,Employer Info Session,SLU Alumni Association,2018-03-07,Employer,Pittsburgh,PA
+25,Workshop Necessary,Workshop,Business School,2015-11-03,Employer,Alpharetta,GA
+26,Webinar Budget,Webinar,SLU Alumni Association,2023-10-18,Employer,Orlando,FL
+27,Alumni Meetup Full,Alumni Meetup,SLU Career Services,2015-01-22,Employer,Kansas City,MO
+28,Career Fair Relationship,Career Fair,External Employer,2019-04-08,Employer,St. Louis,MO
+29,Alumni Meetup Final,Alumni Meetup,Business School,2022-12-21,University,Redmond,WA
+30,Career Fair Young,Career Fair,SLU Alumni Association,2018-08-18,University,Chicago,IL
+31,Career Fair Behind,Career Fair,Business School,2016-04-01,University,Boston,MA
+32,Career Fair Bill,Career Fair,Business School,2023-08-12,University,Cary,NC
+33,Webinar Check,Webinar,Business School,2022-08-13,University,Durham,NC
+34,Seminar Affect,Seminar,Computer Science Dept.,2021-02-09,Employer,Philadelphia,PA
+35,Workshop According,Workshop,External Employer,2015-09-13,University,Cary,NC
+36,Workshop Recently,Workshop,External Employer,2016-01-22,University,San Jose,CA
+37,Seminar Above,Seminar,Employer Relations,2015-11-01,Employer,Phoenix,AZ
+38,Employer Info Session Tax,Employer Info Session,External Employer,2021-08-15,University,Scottsdale,AZ
+39,Career Fair Fine,Career Fair,SLU Career Services,2018-11-30,Employer,Harrisburg,PA
+40,Hackathon Goal,Hackathon,SLU Alumni Association,2024-10-07,University,Raleigh,NC
+41,Employer Info Session At,Employer Info Session,Business School,2018-11-23,University,Redmond,WA
+42,Seminar Computer,Seminar,SLU Alumni Association,2016-09-23,University,Urbana,IL
+43,Career Fair Begin,Career Fair,Employer Relations,2025-08-27,Employer,Austin,TX
+44,Alumni Meetup Expect,Alumni Meetup,Business School,2024-10-29,University,San Diego,CA
+45,Seminar Threat,Seminar,Employer Relations,2021-08-31,University,Boston,MA
+46,Webinar Sit,Webinar,Computer Science Dept.,2021-05-19,University,Boston,MA
+47,Seminar Against,Seminar,Computer Science Dept.,2022-04-12,Employer,Tacoma,WA
+48,Alumni Meetup Create,Alumni Meetup,Employer Relations,2019-04-17,University,Tacoma,WA
+49,Hackathon Parent,Hackathon,SLU Career Services,2016-02-26,Employer,Philadelphia,PA
+50,Hackathon Trade,Hackathon,SLU Career Services,2015-03-27,Employer,Grand Rapids,MI
+51,Webinar Would,Webinar,Business School,2022-10-14,University,Springfield,IL
+52,Workshop Several,Workshop,External Employer,2019-04-05,University,Columbia,MO
+53,Hackathon Lead,Hackathon,SLU Career Services,2025-10-15,University,Miami,FL
+54,Alumni Meetup Indeed,Alumni Meetup,Business School,2023-08-10,University,Jacksonville,FL
+55,Seminar Indeed,Seminar,Business School,2015-03-27,Employer,Atlanta,GA
+56,Alumni Meetup You,Alumni Meetup,SLU Career Services,2020-08-25,Employer,Houston,TX
+57,Webinar Bad,Webinar,Employer Relations,2020-08-13,University,Cleveland,OH
+58,Alumni Meetup Example,Alumni Meetup,Employer Relations,2024-12-02,Employer,Savannah,GA
+59,Seminar Protect,Seminar,Employer Relations,2025-07-31,Employer,Buffalo,NY
+60,Hackathon Management,Hackathon,SLU Career Services,2025-12-14,Employer,Pittsburgh,PA
+61,Seminar Talk,Seminar,External Employer,2025-07-13,University,Boulder,CO
+62,Workshop Really,Workshop,Employer Relations,2024-11-28,Employer,Boulder,CO
+63,Hackathon Hard,Hackathon,SLU Alumni Association,2025-08-17,Employer,Jacksonville,FL
+64,Employer Info Session Painting,Employer Info Session,SLU Alumni Association,2024-05-22,University,Raleigh,NC
+65,Webinar Tell,Webinar,SLU Career Services,2017-07-22,Employer,Columbus,OH
+66,Workshop Her,Workshop,External Employer,2017-09-21,University,Denver,CO
+67,Seminar Budget,Seminar,Employer Relations,2025-08-19,Employer,Grand Rapids,MI
+68,Hackathon Miss,Hackathon,Employer Relations,2019-06-29,University,Harrisburg,PA
+69,Workshop Strong,Workshop,Computer Science Dept.,2024-06-04,Employer,Alpharetta,GA
+70,Hackathon Performance,Hackathon,Employer Relations,2018-10-04,University,Redmond,WA
+71,Career Fair Model,Career Fair,SLU Career Services,2023-10-07,Employer,Fort Collins,CO
+72,Seminar Book,Seminar,Computer Science Dept.,2023-02-25,University,Philadelphia,PA
+73,Webinar Follow,Webinar,Computer Science Dept.,2020-03-10,University,Detroit,MI
+74,Alumni Meetup Music,Alumni Meetup,SLU Alumni Association,2017-01-12,Employer,Cincinnati,OH
+75,Employer Info Session Police,Employer Info Session,Business School,2024-06-26,Employer,Durham,NC
+76,Hackathon Realize,Hackathon,External Employer,2023-10-03,University,Rochester,NY
+77,Alumni Meetup Policy,Alumni Meetup,External Employer,2017-04-09,Employer,Pittsburgh,PA
+78,Webinar Every,Webinar,Business School,2020-07-21,Employer,San Diego,CA
+79,Webinar Fall,Webinar,Business School,2024-03-14,Employer,Charlotte,NC
+80,Employer Info Session Learn,Employer Info Session,SLU Career Services,2021-07-26,Employer,Philadelphia,PA
+81,Workshop Heavy,Workshop,SLU Career Services,2021-10-08,University,Durham,NC
+82,Employer Info Session Head,Employer Info Session,SLU Career Services,2022-03-07,Employer,Harrisburg,PA
+83,Career Fair Team,Career Fair,SLU Career Services,2022-10-01,University,Jacksonville,FL
+84,Workshop Media,Workshop,SLU Career Services,2021-05-26,Employer,Columbus,OH
+85,Seminar Doctor,Seminar,External Employer,2021-07-01,Employer,Miami,FL
+86,Webinar Beautiful,Webinar,Business School,2023-06-24,University,Colorado Springs,CO
+87,Alumni Meetup Believe,Alumni Meetup,Employer Relations,2022-12-24,Employer,Seattle,WA
+88,Hackathon Series,Hackathon,Business School,2025-05-06,University,San Francisco,CA
+89,Webinar Network,Webinar,External Employer,2017-09-12,University,Durham,NC
+90,Employer Info Session Attorney,Employer Info Session,External Employer,2018-02-07,Employer,Raleigh,NC
+91,Hackathon Include,Hackathon,Employer Relations,2024-08-13,University,Scottsdale,AZ
+92,Employer Info Session Night,Employer Info Session,Business School,2022-07-12,University,Cambridge,MA
+93,Workshop Decide,Workshop,SLU Alumni Association,2020-09-12,University,Denver,CO
+94,Career Fair Draw,Career Fair,SLU Career Services,2019-10-14,Employer,Denver,CO
+95,Alumni Meetup Enter,Alumni Meetup,SLU Alumni Association,2025-04-04,Employer,Kansas City,MO
+96,Webinar Increase,Webinar,Business School,2016-06-11,University,Worcester,MA
+97,Career Fair Here,Career Fair,SLU Alumni Association,2018-03-09,University,Raleigh,NC
+98,Alumni Meetup Price,Alumni Meetup,SLU Alumni Association,2015-06-25,University,Albany,NY
+99,Career Fair Top,Career Fair,SLU Alumni Association,2015-11-02,Employer,Raleigh,NC
+100,Employer Info Session Teach,Employer Info Session,Business School,2016-09-25,University,Detroit,MI
+101,Webinar Single,Webinar,SLU Alumni Association,2023-07-09,Employer,Tempe,AZ
+102,Alumni Meetup Wonder,Alumni Meetup,External Employer,2018-08-31,University,Harrisburg,PA
+103,Employer Info Session Performance,Employer Info Session,SLU Alumni Association,2023-09-13,Employer,Plano,TX
+104,Seminar Stage,Seminar,SLU Career Services,2023-06-08,University,St. Louis,MO
+105,Webinar Stock,Webinar,SLU Alumni Association,2020-10-22,University,Durham,NC
+106,Career Fair In,Career Fair,Business School,2019-08-07,Employer,Durham,NC
+107,Webinar Then,Webinar,SLU Alumni Association,2015-04-04,Employer,White Plains,NY
+108,Employer Info Session Occur,Employer Info Session,Business School,2020-03-20,Employer,Colorado Springs,CO
+109,Employer Info Session You,Employer Info Session,SLU Career Services,2025-03-08,Employer,Detroit,MI
+110,Seminar Interview,Seminar,Computer Science Dept.,2018-08-27,University,Scottsdale,AZ
+111,Alumni Meetup Arrive,Alumni Meetup,Business School,2021-04-10,University,San Jose,CA
+112,Seminar Economy,Seminar,Business School,2022-10-31,Employer,Naperville,IL
+113,Seminar Money,Seminar,Employer Relations,2024-12-15,Employer,Detroit,MI
+114,Career Fair Charge,Career Fair,Employer Relations,2020-09-12,University,Scottsdale,AZ
+115,Employer Info Session Upon,Employer Info Session,SLU Career Services,2016-12-07,Employer,Naperville,IL
+116,Alumni Meetup More,Alumni Meetup,Employer Relations,2018-02-06,Employer,Detroit,MI
+117,Seminar Treatment,Seminar,Business School,2020-09-06,University,Durham,NC
+118,Alumni Meetup Region,Alumni Meetup,Computer Science Dept.,2025-09-05,University,Raleigh,NC
+119,Career Fair Seven,Career Fair,SLU Alumni Association,2017-10-01,Employer,Charlotte,NC
+120,Workshop Lead,Workshop,Business School,2019-03-18,Employer,Grand Rapids,MI
+121,Workshop Draw,Workshop,SLU Alumni Association,2020-05-04,Employer,Cary,NC
+122,Workshop Drive,Workshop,Employer Relations,2024-04-07,University,Charlotte,NC
+123,Employer Info Session Dark,Employer Info Session,External Employer,2021-12-13,Employer,Alpharetta,GA
+124,Webinar Place,Webinar,SLU Career Services,2019-09-03,Employer,Miami,FL
+125,Workshop Station,Workshop,Employer Relations,2025-12-28,Employer,Scottsdale,AZ
+126,Alumni Meetup Audience,Alumni Meetup,External Employer,2023-10-28,Employer,Kansas City,MO
+127,Career Fair Media,Career Fair,External Employer,2018-02-02,University,Redmond,WA
+128,Career Fair Level,Career Fair,SLU Career Services,2015-09-14,University,Columbia,MO
+129,Career Fair Truth,Career Fair,External Employer,2018-03-20,Employer,Colorado Springs,CO
+130,Webinar Accept,Webinar,External Employer,2019-07-29,Employer,Grand Rapids,MI
+131,Employer Info Session Early,Employer Info Session,Computer Science Dept.,2015-09-14,Employer,Cambridge,MA
+132,Career Fair Offer,Career Fair,SLU Alumni Association,2019-06-01,Employer,Rochester,NY
+133,Alumni Meetup Poor,Alumni Meetup,Computer Science Dept.,2017-07-04,University,Worcester,MA
+134,Career Fair Mention,Career Fair,Computer Science Dept.,2024-08-17,University,Irvine,CA
+135,Webinar Full,Webinar,SLU Alumni Association,2025-11-11,Employer,Houston,TX
+136,Webinar Everybody,Webinar,SLU Alumni Association,2019-09-03,University,Springfield,MO
+137,Employer Info Session Fund,Employer Info Session,Business School,2019-05-11,Employer,Chesterfield,MO
+138,Webinar Teacher,Webinar,External Employer,2018-04-27,Employer,Redmond,WA
+139,Alumni Meetup Kitchen,Alumni Meetup,SLU Alumni Association,2018-12-15,University,White Plains,NY
+140,Seminar Century,Seminar,Employer Relations,2024-05-19,University,Los Angeles,CA
+141,Hackathon Compare,Hackathon,Business School,2017-08-28,Employer,Scottsdale,AZ
+142,Workshop Capital,Workshop,Employer Relations,2016-02-27,Employer,Tempe,AZ
+143,Workshop Responsibility,Workshop,SLU Alumni Association,2015-12-28,Employer,Albany,NY
+144,Webinar Away,Webinar,Computer Science Dept.,2017-03-09,University,Jacksonville,FL
+145,Employer Info Session Kid,Employer Info Session,SLU Alumni Association,2016-04-30,University,Grand Rapids,MI
+146,Hackathon Tell,Hackathon,External Employer,2021-09-22,Employer,Savannah,GA
+147,Workshop Forget,Workshop,Computer Science Dept.,2017-02-15,University,Columbia,MO
+148,Career Fair Authority,Career Fair,SLU Career Services,2023-05-28,Employer,Harrisburg,PA
+149,Workshop Recent,Workshop,SLU Career Services,2024-08-07,Employer,Springfield,MO
+150,Hackathon Fast,Hackathon,Business School,2019-04-11,University,Ann Arbor,MI
+151,Career Fair Myself,Career Fair,Computer Science Dept.,2021-09-29,Employer,Redmond,WA
+152,Hackathon Word,Hackathon,External Employer,2017-04-25,Employer,New York,NY
+153,Seminar Low,Seminar,Business School,2015-07-08,University,Cleveland,OH
+154,Alumni Meetup Not,Alumni Meetup,External Employer,2025-11-22,Employer,Orlando,FL
+155,Workshop Easy,Workshop,Employer Relations,2016-03-10,University,San Francisco,CA
+156,Employer Info Session Record,Employer Info Session,Employer Relations,2019-01-04,University,Tacoma,WA
+157,Webinar Hour,Webinar,SLU Career Services,2015-03-16,University,Springfield,MO
+158,Alumni Meetup Republican,Alumni Meetup,Business School,2025-07-23,Employer,Naperville,IL
+159,Hackathon Use,Hackathon,SLU Career Services,2018-07-12,University,Albany,NY
+160,Seminar Answer,Seminar,Employer Relations,2023-10-09,Employer,Worcester,MA
+161,Seminar Level,Seminar,Business School,2018-03-28,University,Rochester,NY
+162,Workshop Lot,Workshop,External Employer,2023-08-22,University,Peoria,IL
+163,Alumni Meetup Really,Alumni Meetup,SLU Career Services,2021-10-11,Employer,Cambridge,MA
+164,Alumni Meetup Concern,Alumni Meetup,External Employer,2025-02-28,University,Tempe,AZ
+165,Seminar Choice,Seminar,SLU Alumni Association,2021-11-02,Employer,Cambridge,MA
+166,Alumni Meetup Start,Alumni Meetup,Computer Science Dept.,2020-12-28,University,Jacksonville,FL
+167,Workshop Collection,Workshop,SLU Alumni Association,2016-09-17,University,Scottsdale,AZ
+168,Webinar Above,Webinar,Computer Science Dept.,2025-03-01,University,Houston,TX
+169,Hackathon Cover,Hackathon,Business School,2017-12-27,Employer,Pittsburgh,PA
+170,Webinar Prevent,Webinar,Computer Science Dept.,2017-07-18,University,Cambridge,MA
+171,Webinar Include,Webinar,SLU Alumni Association,2020-01-31,Employer,Los Angeles,CA
+172,Seminar Who,Seminar,SLU Alumni Association,2018-06-12,Employer,Ann Arbor,MI
+173,Employer Info Session Customer,Employer Info Session,External Employer,2019-03-31,University,Colorado Springs,CO
+174,Workshop Close,Workshop,Business School,2024-04-12,Employer,Austin,TX
+175,Webinar Marriage,Webinar,External Employer,2023-08-23,University,Somerville,MA
+176,Employer Info Session Capital,Employer Info Session,Employer Relations,2019-11-06,Employer,Chicago,IL
+177,Workshop Must,Workshop,SLU Alumni Association,2024-10-01,Employer,Clayton,MO
+178,Hackathon Reveal,Hackathon,Employer Relations,2016-07-03,Employer,Somerville,MA
+179,Career Fair Mr,Career Fair,SLU Career Services,2019-02-15,University,Harrisburg,PA
+180,Seminar Hospital,Seminar,SLU Alumni Association,2016-06-10,Employer,Boston,MA
+181,Employer Info Session Teach,Employer Info Session,Computer Science Dept.,2020-06-04,University,Jacksonville,FL
+182,Alumni Meetup Focus,Alumni Meetup,Computer Science Dept.,2020-10-21,University,Ann Arbor,MI
+183,Workshop Way,Workshop,SLU Alumni Association,2016-09-02,University,Clayton,MO
+184,Seminar Total,Seminar,SLU Alumni Association,2024-07-25,Employer,Cary,NC
+185,Seminar Remember,Seminar,SLU Career Services,2016-10-17,Employer,Alpharetta,GA
+186,Webinar Left,Webinar,External Employer,2020-05-26,Employer,Somerville,MA
+187,Seminar Build,Seminar,Computer Science Dept.,2023-03-09,University,Cincinnati,OH
+188,Seminar Deep,Seminar,Employer Relations,2020-01-28,Employer,San Antonio,TX
+189,Webinar Accept,Webinar,SLU Alumni Association,2021-12-06,University,Houston,TX
+190,Webinar Police,Webinar,Business School,2021-03-15,University,Springfield,IL
+191,Alumni Meetup Surface,Alumni Meetup,Employer Relations,2020-12-11,University,San Francisco,CA
+192,Seminar How,Seminar,External Employer,2021-10-23,University,Columbia,MO
+193,Alumni Meetup Show,Alumni Meetup,SLU Career Services,2021-10-29,University,Seattle,WA
+194,Employer Info Session Report,Employer Info Session,SLU Career Services,2015-07-30,University,Cleveland,OH
+195,Career Fair Free,Career Fair,SLU Alumni Association,2022-11-25,Employer,Cleveland,OH
+196,Webinar Former,Webinar,External Employer,2017-04-12,University,Buffalo,NY
+197,Employer Info Session Director,Employer Info Session,Computer Science Dept.,2015-09-21,University,Worcester,MA
+198,Career Fair Sea,Career Fair,SLU Alumni Association,2025-08-24,Employer,Cincinnati,OH
+199,Webinar Hour,Webinar,External Employer,2019-02-12,University,Kansas City,MO
+200,Career Fair Follow,Career Fair,SLU Career Services,2023-08-24,University,Dallas,TX
+201,Employer Info Session Course,Employer Info Session,Computer Science Dept.,2017-05-04,Employer,St. Louis,MO
+202,Employer Info Session Guess,Employer Info Session,Employer Relations,2018-10-20,University,Phoenix,AZ
+203,Employer Info Session Month,Employer Info Session,Computer Science Dept.,2022-04-03,Employer,Detroit,MI
+204,Hackathon City,Hackathon,SLU Career Services,2018-02-20,Employer,Bellevue,WA
+205,Webinar General,Webinar,Business School,2015-10-22,Employer,Clayton,MO
+206,Webinar Huge,Webinar,Employer Relations,2019-03-05,University,Boston,MA
+207,Career Fair Course,Career Fair,SLU Alumni Association,2022-09-25,University,Atlanta,GA
+208,Hackathon Heart,Hackathon,Business School,2023-09-03,Employer,Jacksonville,FL
+209,Employer Info Session Concern,Employer Info Session,SLU Career Services,2019-06-13,University,Boston,MA
+210,Seminar His,Seminar,Business School,2016-08-18,Employer,Colorado Springs,CO
+211,Hackathon Any,Hackathon,Computer Science Dept.,2023-01-30,Employer,Cary,NC
+212,Employer Info Session Sell,Employer Info Session,Employer Relations,2018-11-06,University,San Jose,CA
+213,Employer Info Session Student,Employer Info Session,SLU Alumni Association,2023-06-17,Employer,Fort Collins,CO
+214,Alumni Meetup Test,Alumni Meetup,Employer Relations,2019-11-24,University,Detroit,MI
+215,Employer Info Session Current,Employer Info Session,SLU Alumni Association,2024-10-29,University,Grand Rapids,MI
+216,Hackathon Right,Hackathon,SLU Career Services,2015-04-13,Employer,Grand Rapids,MI
+217,Alumni Meetup Paper,Alumni Meetup,Employer Relations,2015-05-22,University,Springfield,IL
+218,Employer Info Session Plan,Employer Info Session,Business School,2025-09-19,University,San Jose,CA
+219,Hackathon Real,Hackathon,Computer Science Dept.,2024-03-25,Employer,Dallas,TX
+220,Hackathon Month,Hackathon,Employer Relations,2023-08-07,University,Rochester,NY
+221,Seminar Already,Seminar,SLU Alumni Association,2022-02-23,Employer,Bellevue,WA
+222,Career Fair Protect,Career Fair,SLU Career Services,2022-02-09,Employer,Columbus,OH
+223,Webinar Suffer,Webinar,Employer Relations,2020-12-18,Employer,Denver,CO
+224,Employer Info Session Move,Employer Info Session,Business School,2017-11-05,Employer,Charlotte,NC
+225,Employer Info Session West,Employer Info Session,Computer Science Dept.,2018-06-27,University,Clayton,MO
+226,Workshop Staff,Workshop,SLU Career Services,2021-06-19,Employer,Cary,NC
+227,Workshop Like,Workshop,SLU Alumni Association,2021-06-26,Employer,Miami,FL
+228,Seminar Old,Seminar,External Employer,2020-10-13,University,Alpharetta,GA
+229,Employer Info Session Control,Employer Info Session,Employer Relations,2020-08-22,Employer,Los Angeles,CA
+230,Career Fair Parent,Career Fair,Business School,2017-04-24,Employer,Clayton,MO
+231,Webinar Region,Webinar,SLU Career Services,2015-09-12,University,Grand Rapids,MI
+232,Hackathon Catch,Hackathon,Employer Relations,2021-03-01,University,Cleveland,OH
+233,Career Fair Space,Career Fair,Business School,2020-06-12,University,San Jose,CA
+234,Hackathon Exactly,Hackathon,External Employer,2019-02-22,Employer,San Antonio,TX
+235,Webinar Art,Webinar,SLU Career Services,2023-03-07,University,Detroit,MI
+236,Workshop Million,Workshop,Computer Science Dept.,2016-08-01,Employer,Tacoma,WA
+237,Workshop Board,Workshop,Business School,2015-05-14,University,Columbus,OH
+238,Career Fair Six,Career Fair,Employer Relations,2022-03-14,Employer,New York,NY
+239,Career Fair Heavy,Career Fair,Computer Science Dept.,2023-08-28,University,Urbana,IL
+240,Hackathon Wide,Hackathon,External Employer,2023-12-29,University,St. Louis,MO
+241,Workshop Focus,Workshop,Computer Science Dept.,2018-07-07,University,Buffalo,NY
+242,Career Fair Shake,Career Fair,Computer Science Dept.,2021-09-28,Employer,Denver,CO
+243,Seminar You,Seminar,Computer Science Dept.,2022-03-03,University,Clayton,MO
+244,Employer Info Session Anyone,Employer Info Session,External Employer,2015-08-02,University,Chesterfield,MO
+245,Webinar Air,Webinar,Computer Science Dept.,2020-01-25,University,Dallas,TX
+246,Seminar Work,Seminar,SLU Alumni Association,2018-04-19,Employer,Columbus,OH
+247,Seminar Measure,Seminar,SLU Alumni Association,2017-08-25,University,San Diego,CA
+248,Career Fair Goal,Career Fair,SLU Career Services,2020-12-06,Employer,Ann Arbor,MI
+249,Webinar Sound,Webinar,Business School,2019-09-24,University,St. Louis,MO
+250,Career Fair Cost,Career Fair,Employer Relations,2025-12-16,Employer,Cary,NC
+251,Hackathon Dog,Hackathon,Computer Science Dept.,2023-12-29,University,Pittsburgh,PA
+252,Alumni Meetup Few,Alumni Meetup,Business School,2021-01-12,Employer,Philadelphia,PA
+253,Career Fair Him,Career Fair,External Employer,2019-07-12,University,Columbus,OH
+254,Career Fair While,Career Fair,Computer Science Dept.,2019-11-03,University,Miami,FL
+255,Career Fair Laugh,Career Fair,SLU Career Services,2018-06-16,University,Fort Collins,CO
+256,Alumni Meetup Federal,Alumni Meetup,Computer Science Dept.,2021-01-17,Employer,Columbus,OH
+257,Workshop Natural,Workshop,SLU Career Services,2022-08-06,University,Somerville,MA
+258,Career Fair Doctor,Career Fair,SLU Alumni Association,2023-11-26,University,San Diego,CA
+259,Hackathon Spring,Hackathon,External Employer,2025-06-25,Employer,White Plains,NY
+260,Employer Info Session Attorney,Employer Info Session,SLU Career Services,2015-02-04,Employer,Miami,FL
+261,Employer Info Session Financial,Employer Info Session,SLU Career Services,2015-03-02,Employer,Pittsburgh,PA
+262,Alumni Meetup Age,Alumni Meetup,External Employer,2019-07-05,University,San Francisco,CA
+263,Employer Info Session Across,Employer Info Session,SLU Career Services,2016-01-15,University,Peoria,IL
+264,Webinar Which,Webinar,Employer Relations,2019-01-26,University,Urbana,IL
+265,Alumni Meetup Election,Alumni Meetup,Computer Science Dept.,2021-02-11,University,Irvine,CA
+266,Employer Info Session Ground,Employer Info Session,SLU Career Services,2015-06-26,Employer,Orlando,FL
+267,Alumni Meetup Middle,Alumni Meetup,External Employer,2017-08-08,University,Tacoma,WA
+268,Webinar Agreement,Webinar,SLU Career Services,2024-04-14,Employer,Harrisburg,PA
+269,Webinar My,Webinar,Business School,2022-06-13,Employer,Tampa,FL
+270,Employer Info Session Talk,Employer Info Session,SLU Career Services,2024-02-16,University,Cincinnati,OH
+271,Seminar Near,Seminar,SLU Alumni Association,2022-06-22,University,Boulder,CO
+272,Alumni Meetup Ball,Alumni Meetup,SLU Alumni Association,2016-08-04,Employer,Columbus,OH
+273,Employer Info Session Whom,Employer Info Session,Employer Relations,2025-06-11,University,Chicago,IL
+274,Employer Info Session Ground,Employer Info Session,SLU Alumni Association,2021-02-13,Employer,Chicago,IL
+275,Employer Info Session Statement,Employer Info Session,Computer Science Dept.,2021-06-15,University,Durham,NC
+276,Webinar Forget,Webinar,SLU Alumni Association,2024-03-07,University,Boston,MA
+277,Webinar Fear,Webinar,External Employer,2024-04-04,University,New York,NY
+278,Career Fair Style,Career Fair,Employer Relations,2021-10-21,University,Colorado Springs,CO
+279,Workshop Opportunity,Workshop,SLU Career Services,2023-03-21,University,Redmond,WA
+280,Webinar Majority,Webinar,Employer Relations,2015-03-03,Employer,Durham,NC
+281,Webinar Arm,Webinar,Employer Relations,2019-04-07,Employer,San Diego,CA
+282,Hackathon Exactly,Hackathon,SLU Career Services,2025-12-25,Employer,Orlando,FL
+283,Workshop Million,Workshop,Computer Science Dept.,2023-08-22,Employer,Miami,FL
+284,Employer Info Session Life,Employer Info Session,Computer Science Dept.,2024-08-25,Employer,Raleigh,NC
+285,Employer Info Session Similar,Employer Info Session,Business School,2019-06-27,Employer,Peoria,IL
+286,Alumni Meetup Purpose,Alumni Meetup,Business School,2024-05-29,Employer,Chesterfield,MO
+287,Webinar Newspaper,Webinar,Computer Science Dept.,2025-11-28,University,Scottsdale,AZ
+288,Seminar Eye,Seminar,SLU Alumni Association,2023-11-30,University,Irvine,CA
+289,Employer Info Session Mr,Employer Info Session,Employer Relations,2015-12-21,Employer,Cleveland,OH
+290,Workshop Matter,Workshop,SLU Career Services,2016-08-18,Employer,Cleveland,OH
+291,Employer Info Session Avoid,Employer Info Session,Employer Relations,2016-05-29,Employer,San Diego,CA
+292,Alumni Meetup The,Alumni Meetup,SLU Alumni Association,2017-05-28,Employer,Colorado Springs,CO
+293,Workshop Movie,Workshop,External Employer,2021-04-13,University,Columbia,MO
+294,Workshop Identify,Workshop,Employer Relations,2017-12-16,University,Peoria,IL
+295,Hackathon Force,Hackathon,Computer Science Dept.,2022-01-31,Employer,Houston,TX
+296,Alumni Meetup Learn,Alumni Meetup,Employer Relations,2023-08-23,University,Peoria,IL
+297,Alumni Meetup Over,Alumni Meetup,SLU Career Services,2016-06-25,University,Peoria,IL
+298,Seminar Carry,Seminar,Employer Relations,2021-05-01,University,San Francisco,CA
+299,Webinar Think,Webinar,Business School,2019-04-13,University,Redmond,WA
+300,Webinar Outside,Webinar,SLU Career Services,2023-03-06,University,Scottsdale,AZ
+301,Career Fair Up,Career Fair,Employer Relations,2022-07-14,University,Tucson,AZ
+302,Webinar Push,Webinar,Employer Relations,2016-08-14,Employer,San Antonio,TX
+303,Alumni Meetup Real,Alumni Meetup,Business School,2023-02-02,University,Denver,CO
+304,Alumni Meetup Military,Alumni Meetup,External Employer,2015-12-18,University,Clayton,MO
+305,Workshop Song,Workshop,SLU Alumni Association,2024-02-02,Employer,Tampa,FL
+306,Employer Info Session Agreement,Employer Info Session,Employer Relations,2016-09-24,University,Durham,NC
+307,Career Fair Have,Career Fair,SLU Alumni Association,2016-04-13,Employer,Bellevue,WA
+308,Alumni Meetup Political,Alumni Meetup,SLU Career Services,2017-10-18,University,Cambridge,MA
+309,Alumni Meetup However,Alumni Meetup,Business School,2021-03-09,Employer,Buffalo,NY
+310,Webinar Cold,Webinar,External Employer,2016-02-28,University,Albany,NY
+311,Webinar Interview,Webinar,Employer Relations,2023-02-03,University,Charlotte,NC
+312,Career Fair Meeting,Career Fair,SLU Alumni Association,2025-09-30,Employer,Miami,FL
+313,Alumni Meetup Old,Alumni Meetup,Business School,2017-08-15,Employer,Buffalo,NY
+314,Webinar She,Webinar,SLU Alumni Association,2024-07-21,Employer,Harrisburg,PA
+315,Employer Info Session Yard,Employer Info Session,Computer Science Dept.,2018-06-13,Employer,San Francisco,CA
+316,Seminar Executive,Seminar,SLU Alumni Association,2024-12-09,Employer,San Francisco,CA
+317,Webinar Fast,Webinar,External Employer,2019-07-03,Employer,Boulder,CO
+318,Alumni Meetup Agent,Alumni Meetup,SLU Alumni Association,2015-03-01,Employer,Ann Arbor,MI
+319,Webinar Alone,Webinar,SLU Alumni Association,2018-12-11,Employer,Plano,TX
+320,Webinar Conference,Webinar,SLU Alumni Association,2022-03-18,University,Ann Arbor,MI
+321,Webinar Reason,Webinar,Computer Science Dept.,2024-06-05,University,Seattle,WA
+322,Seminar Race,Seminar,Employer Relations,2023-05-18,University,Rochester,NY
+323,Career Fair Bad,Career Fair,SLU Career Services,2017-06-12,University,Atlanta,GA
+324,Career Fair Read,Career Fair,SLU Career Services,2025-05-14,Employer,Springfield,MO
+325,Employer Info Session Benefit,Employer Info Session,External Employer,2020-10-28,Employer,Detroit,MI
+326,Hackathon Political,Hackathon,Employer Relations,2019-08-29,University,Durham,NC
+327,Seminar Card,Seminar,SLU Alumni Association,2023-04-01,Employer,Grand Rapids,MI
+328,Workshop Best,Workshop,Business School,2025-07-28,University,Detroit,MI
+329,Seminar East,Seminar,Business School,2019-02-16,University,Cambridge,MA
+330,Workshop Responsibility,Workshop,Business School,2015-11-20,Employer,Philadelphia,PA
+331,Alumni Meetup Happen,Alumni Meetup,Employer Relations,2016-04-11,University,Cincinnati,OH
+332,Career Fair Month,Career Fair,SLU Alumni Association,2020-03-23,University,Orlando,FL
+333,Hackathon They,Hackathon,Business School,2022-06-07,Employer,Philadelphia,PA
+334,Hackathon Scientist,Hackathon,SLU Career Services,2025-11-28,Employer,Tampa,FL
+335,Seminar Within,Seminar,External Employer,2015-05-23,Employer,Bellevue,WA
+336,Webinar Though,Webinar,SLU Alumni Association,2024-09-24,University,San Jose,CA
+337,Seminar Similar,Seminar,Computer Science Dept.,2022-11-23,Employer,Tucson,AZ
+338,Seminar Player,Seminar,External Employer,2019-09-26,University,Chesterfield,MO
+339,Seminar Throughout,Seminar,Employer Relations,2022-04-09,Employer,Denver,CO
+340,Webinar Hundred,Webinar,SLU Career Services,2020-05-29,Employer,Durham,NC
+341,Hackathon Front,Hackathon,SLU Career Services,2024-05-14,University,Pittsburgh,PA
+342,Hackathon Seat,Hackathon,Employer Relations,2015-01-23,University,Charlotte,NC
+343,Workshop Sister,Workshop,Employer Relations,2017-07-27,University,Phoenix,AZ
+344,Hackathon Well,Hackathon,Business School,2021-04-10,Employer,Boulder,CO
+345,Alumni Meetup Sure,Alumni Meetup,SLU Alumni Association,2021-04-09,Employer,Tempe,AZ
+346,Alumni Meetup Party,Alumni Meetup,Business School,2015-11-18,University,Durham,NC
+347,Alumni Meetup Want,Alumni Meetup,Computer Science Dept.,2015-05-21,University,Chicago,IL
+348,Alumni Meetup Skill,Alumni Meetup,External Employer,2021-05-07,Employer,Plano,TX
+349,Alumni Meetup Black,Alumni Meetup,External Employer,2022-03-01,Employer,Atlanta,GA
+350,Career Fair Lead,Career Fair,SLU Career Services,2018-04-29,University,Savannah,GA
+351,Hackathon Decide,Hackathon,Business School,2024-08-08,Employer,San Jose,CA
+352,Hackathon Media,Hackathon,Employer Relations,2025-03-13,Employer,Harrisburg,PA
+353,Alumni Meetup By,Alumni Meetup,Computer Science Dept.,2020-01-22,Employer,San Francisco,CA
+354,Career Fair Fact,Career Fair,Computer Science Dept.,2015-02-26,University,Savannah,GA
+355,Webinar Visit,Webinar,Employer Relations,2023-06-17,Employer,Tucson,AZ
+356,Workshop Break,Workshop,External Employer,2025-02-16,Employer,Tucson,AZ
+357,Career Fair Movie,Career Fair,Employer Relations,2017-03-26,University,Columbia,MO
+358,Webinar Now,Webinar,Business School,2023-06-18,University,Worcester,MA
+359,Seminar Dream,Seminar,Employer Relations,2023-04-26,Employer,Los Angeles,CA
+360,Employer Info Session Such,Employer Info Session,SLU Alumni Association,2021-07-11,University,Denver,CO
+361,Alumni Meetup Myself,Alumni Meetup,SLU Career Services,2019-09-22,Employer,Somerville,MA
+362,Webinar Miss,Webinar,Computer Science Dept.,2015-12-06,Employer,Columbia,MO
+363,Employer Info Session Wall,Employer Info Session,SLU Career Services,2024-12-14,Employer,Springfield,MO
+364,Webinar Player,Webinar,Computer Science Dept.,2020-04-08,University,Dallas,TX
+365,Hackathon Agreement,Hackathon,Employer Relations,2016-05-04,Employer,Kansas City,MO
+366,Alumni Meetup Field,Alumni Meetup,SLU Career Services,2020-10-31,University,Raleigh,NC
+367,Webinar Wonder,Webinar,External Employer,2016-08-30,University,New York,NY
+368,Seminar Reflect,Seminar,Employer Relations,2022-02-10,University,San Jose,CA
+369,Webinar Former,Webinar,SLU Alumni Association,2018-10-31,University,Los Angeles,CA
+370,Workshop Personal,Workshop,Employer Relations,2021-10-29,Employer,Somerville,MA
+371,Seminar Professional,Seminar,Employer Relations,2022-10-02,Employer,Charlotte,NC
+372,Career Fair May,Career Fair,SLU Alumni Association,2016-02-08,Employer,Bellevue,WA
+373,Webinar Serious,Webinar,Business School,2024-12-23,Employer,Columbus,OH
+374,Employer Info Session Produce,Employer Info Session,External Employer,2024-01-14,University,Columbus,OH
+375,Career Fair Size,Career Fair,Business School,2019-04-29,Employer,Jacksonville,FL
+376,Alumni Meetup Structure,Alumni Meetup,SLU Alumni Association,2023-01-20,University,Atlanta,GA
+377,Employer Info Session Security,Employer Info Session,SLU Career Services,2023-10-22,Employer,Tucson,AZ
+378,Seminar Mrs,Seminar,External Employer,2015-02-07,Employer,Atlanta,GA
+379,Hackathon Art,Hackathon,SLU Alumni Association,2019-01-06,University,Chesterfield,MO
+380,Employer Info Session Hotel,Employer Info Session,Employer Relations,2015-08-05,Employer,Cary,NC
+381,Hackathon Material,Hackathon,SLU Alumni Association,2017-09-05,University,Cleveland,OH
+382,Hackathon Doctor,Hackathon,SLU Alumni Association,2025-07-15,University,Harrisburg,PA
+383,Employer Info Session Strategy,Employer Info Session,SLU Alumni Association,2015-12-25,University,Tempe,AZ
+384,Seminar Owner,Seminar,SLU Alumni Association,2019-04-13,Employer,Peoria,IL
+385,Workshop Student,Workshop,SLU Career Services,2021-11-20,Employer,San Francisco,CA
+386,Workshop Level,Workshop,SLU Alumni Association,2022-07-30,Employer,San Antonio,TX
+387,Hackathon Win,Hackathon,Business School,2018-10-24,University,Miami,FL
+388,Career Fair Term,Career Fair,SLU Alumni Association,2017-01-17,Employer,Miami,FL
+389,Seminar Choice,Seminar,Business School,2018-06-08,University,Detroit,MI
+390,Seminar Try,Seminar,External Employer,2018-11-09,University,Raleigh,NC
+391,Career Fair Crime,Career Fair,Computer Science Dept.,2021-08-28,University,Ann Arbor,MI
+392,Workshop Likely,Workshop,External Employer,2021-12-24,University,Tacoma,WA
+393,Alumni Meetup Someone,Alumni Meetup,SLU Alumni Association,2024-11-25,Employer,Fort Collins,CO
+394,Career Fair Challenge,Career Fair,Employer Relations,2023-01-20,University,Philadelphia,PA
+395,Seminar Soon,Seminar,Business School,2025-04-23,University,Fort Collins,CO
+396,Webinar Head,Webinar,Business School,2016-08-31,Employer,Austin,TX
+397,Hackathon Simple,Hackathon,Business School,2023-09-11,Employer,Dallas,TX
+398,Hackathon Tend,Hackathon,External Employer,2015-12-25,University,Chicago,IL
+399,Hackathon Certainly,Hackathon,External Employer,2022-05-23,Employer,Phoenix,AZ
+400,Career Fair Occur,Career Fair,External Employer,2022-08-29,University,Los Angeles,CA
+401,Career Fair Range,Career Fair,SLU Alumni Association,2017-04-21,Employer,Jacksonville,FL
+402,Webinar Make,Webinar,Business School,2016-04-09,University,Cleveland,OH
+403,Alumni Meetup Tv,Alumni Meetup,Business School,2016-03-22,Employer,Cary,NC
+404,Workshop Old,Workshop,Computer Science Dept.,2016-09-29,Employer,Buffalo,NY
+405,Career Fair Film,Career Fair,Employer Relations,2015-09-30,Employer,Bellevue,WA
+406,Workshop Democrat,Workshop,SLU Alumni Association,2021-02-22,Employer,Pittsburgh,PA
+407,Employer Info Session Campaign,Employer Info Session,Business School,2021-05-27,Employer,Harrisburg,PA
+408,Career Fair Anything,Career Fair,SLU Career Services,2022-07-22,University,Pittsburgh,PA
+409,Webinar Risk,Webinar,SLU Alumni Association,2016-01-20,Employer,Scottsdale,AZ
+410,Workshop Take,Workshop,Computer Science Dept.,2025-06-08,Employer,Bellevue,WA
+411,Career Fair Modern,Career Fair,Employer Relations,2024-09-22,University,Fort Collins,CO
+412,Hackathon Treatment,Hackathon,External Employer,2015-11-30,University,Rochester,NY
+413,Seminar Policy,Seminar,External Employer,2016-02-22,University,Tempe,AZ
+414,Seminar Each,Seminar,Employer Relations,2025-05-16,Employer,Alpharetta,GA
+415,Workshop Attack,Workshop,External Employer,2015-10-10,Employer,White Plains,NY
+416,Seminar True,Seminar,Business School,2019-01-03,University,Detroit,MI
+417,Seminar Scene,Seminar,Computer Science Dept.,2021-04-04,University,Tucson,AZ
+418,Hackathon Professor,Hackathon,Computer Science Dept.,2024-05-05,Employer,Rochester,NY
+419,Career Fair Alone,Career Fair,Computer Science Dept.,2021-06-16,University,Pittsburgh,PA
+420,Employer Info Session Size,Employer Info Session,SLU Alumni Association,2023-08-25,Employer,Worcester,MA
+421,Career Fair Sit,Career Fair,SLU Career Services,2019-05-14,Employer,Boston,MA
+422,Workshop Throughout,Workshop,Business School,2021-11-10,University,Clayton,MO
+423,Seminar Us,Seminar,SLU Career Services,2018-04-18,University,Grand Rapids,MI
+424,Seminar Star,Seminar,SLU Alumni Association,2016-05-15,University,Kansas City,MO
+425,Workshop Various,Workshop,Business School,2017-12-30,University,Boston,MA
+426,Hackathon Sea,Hackathon,Business School,2019-10-06,Employer,Phoenix,AZ
+427,Alumni Meetup Final,Alumni Meetup,Computer Science Dept.,2015-11-18,Employer,Houston,TX
+428,Seminar Only,Seminar,SLU Career Services,2019-11-21,Employer,Durham,NC
+429,Employer Info Session Forward,Employer Info Session,Computer Science Dept.,2018-09-12,Employer,Los Angeles,CA
+430,Workshop Free,Workshop,SLU Career Services,2022-02-13,University,Cambridge,MA
+431,Workshop Pressure,Workshop,Employer Relations,2021-07-17,University,Columbus,OH
+432,Hackathon Land,Hackathon,External Employer,2025-07-02,Employer,Cambridge,MA
+433,Hackathon Term,Hackathon,External Employer,2015-11-27,Employer,Cleveland,OH
+434,Webinar Risk,Webinar,SLU Career Services,2019-08-17,University,Grand Rapids,MI
+435,Career Fair No,Career Fair,Employer Relations,2025-11-16,Employer,Dallas,TX
+436,Employer Info Session Claim,Employer Info Session,Business School,2023-07-28,University,Fort Collins,CO
+437,Workshop Find,Workshop,Business School,2019-02-05,Employer,Tucson,AZ
+438,Webinar Language,Webinar,Computer Science Dept.,2023-12-07,Employer,Tacoma,WA
+439,Seminar Strategy,Seminar,Business School,2019-01-20,Employer,Tempe,AZ
+440,Employer Info Session Series,Employer Info Session,SLU Career Services,2017-07-01,Employer,Jacksonville,FL
+441,Alumni Meetup Study,Alumni Meetup,External Employer,2021-03-19,Employer,Redmond,WA
+442,Hackathon Far,Hackathon,Employer Relations,2016-12-17,Employer,Fort Collins,CO
+443,Career Fair Whether,Career Fair,Business School,2016-07-25,University,Albany,NY
+444,Employer Info Session White,Employer Info Session,Employer Relations,2020-12-22,University,Worcester,MA
+445,Webinar Become,Webinar,SLU Career Services,2015-02-08,University,San Diego,CA
+446,Workshop Nice,Workshop,Computer Science Dept.,2018-10-03,University,Austin,TX
+447,Career Fair Owner,Career Fair,Computer Science Dept.,2016-09-26,University,Tampa,FL
+448,Seminar Yes,Seminar,Employer Relations,2017-06-20,Employer,Detroit,MI
+449,Alumni Meetup Foot,Alumni Meetup,Computer Science Dept.,2020-08-23,Employer,Philadelphia,PA
+450,Alumni Meetup Want,Alumni Meetup,SLU Career Services,2016-09-16,University,Detroit,MI
+451,Seminar Art,Seminar,Computer Science Dept.,2018-10-08,University,Tampa,FL
+452,Career Fair Scientist,Career Fair,Computer Science Dept.,2017-06-20,Employer,Columbus,OH
+453,Employer Info Session Program,Employer Info Session,Computer Science Dept.,2023-06-26,University,Jacksonville,FL
+454,Employer Info Session Different,Employer Info Session,Business School,2015-11-12,Employer,Alpharetta,GA
+455,Hackathon Nor,Hackathon,SLU Alumni Association,2019-06-12,Employer,Miami,FL
+456,Alumni Meetup Bill,Alumni Meetup,Computer Science Dept.,2016-04-28,University,Cary,NC
+457,Hackathon Forward,Hackathon,SLU Career Services,2015-11-20,University,Durham,NC
+458,Seminar Writer,Seminar,SLU Career Services,2024-10-28,Employer,Cary,NC
+459,Workshop Far,Workshop,SLU Career Services,2021-02-12,Employer,Savannah,GA
+460,Employer Info Session Road,Employer Info Session,SLU Alumni Association,2023-03-06,Employer,San Jose,CA
+461,Hackathon Without,Hackathon,SLU Alumni Association,2016-01-15,Employer,Denver,CO
+462,Workshop Until,Workshop,Business School,2016-09-28,Employer,Cary,NC
+463,Webinar Here,Webinar,Employer Relations,2017-02-24,University,Los Angeles,CA
+464,Workshop Sell,Workshop,Computer Science Dept.,2018-07-18,University,Dallas,TX
+465,Alumni Meetup Today,Alumni Meetup,Computer Science Dept.,2020-02-16,Employer,Bellevue,WA
+466,Employer Info Session Individual,Employer Info Session,Computer Science Dept.,2016-09-25,Employer,Cleveland,OH
+467,Employer Info Session Small,Employer Info Session,Business School,2017-12-09,Employer,Tempe,AZ
+468,Workshop Article,Workshop,SLU Alumni Association,2022-11-24,University,Pittsburgh,PA
+469,Webinar Cell,Webinar,Business School,2025-11-23,University,Urbana,IL
+470,Alumni Meetup Catch,Alumni Meetup,Employer Relations,2023-06-16,Employer,Clayton,MO
+471,Employer Info Session Including,Employer Info Session,Employer Relations,2015-07-30,Employer,San Diego,CA
+472,Employer Info Session Recent,Employer Info Session,SLU Alumni Association,2019-01-12,University,Austin,TX
+473,Career Fair Way,Career Fair,Employer Relations,2018-08-29,Employer,Pittsburgh,PA
+474,Employer Info Session Pick,Employer Info Session,Employer Relations,2023-03-02,Employer,Worcester,MA
+475,Alumni Meetup Exist,Alumni Meetup,Business School,2015-02-07,University,Columbia,MO
+476,Alumni Meetup Have,Alumni Meetup,SLU Career Services,2024-01-15,Employer,St. Louis,MO
+477,Employer Info Session Coach,Employer Info Session,SLU Career Services,2016-04-05,University,Tucson,AZ
+478,Employer Info Session Half,Employer Info Session,Business School,2016-10-18,University,Cambridge,MA
+479,Alumni Meetup Particularly,Alumni Meetup,Computer Science Dept.,2018-11-18,University,Boulder,CO
+480,Career Fair Alone,Career Fair,Computer Science Dept.,2023-07-26,Employer,Fort Collins,CO
+481,Career Fair Stand,Career Fair,SLU Alumni Association,2015-06-10,Employer,Boulder,CO
+482,Employer Info Session Unit,Employer Info Session,SLU Career Services,2018-12-16,University,Cleveland,OH
+483,Career Fair Soon,Career Fair,Business School,2018-08-11,Employer,New York,NY
+484,Employer Info Session New,Employer Info Session,SLU Alumni Association,2015-06-12,Employer,Philadelphia,PA
+485,Alumni Meetup Tell,Alumni Meetup,Employer Relations,2017-04-17,Employer,Bellevue,WA
+486,Alumni Meetup Tough,Alumni Meetup,Computer Science Dept.,2016-08-10,University,New York,NY
+487,Workshop One,Workshop,SLU Career Services,2019-02-18,University,Springfield,MO
+488,Seminar Argue,Seminar,External Employer,2020-06-06,University,Cary,NC
+489,Seminar Question,Seminar,SLU Career Services,2021-03-05,University,Atlanta,GA
+490,Alumni Meetup Worker,Alumni Meetup,SLU Career Services,2016-01-13,University,Columbia,MO
+491,Hackathon Practice,Hackathon,External Employer,2021-12-07,Employer,Kansas City,MO
+492,Hackathon Condition,Hackathon,Business School,2025-04-21,University,Clayton,MO
+493,Workshop Adult,Workshop,SLU Career Services,2015-03-23,University,Buffalo,NY
+494,Career Fair Laugh,Career Fair,Computer Science Dept.,2019-07-28,University,Fort Collins,CO
+495,Employer Info Session Treat,Employer Info Session,Business School,2024-02-20,University,Tacoma,WA
+496,Webinar Loss,Webinar,Computer Science Dept.,2022-05-02,Employer,Houston,TX
+497,Hackathon Which,Hackathon,Employer Relations,2019-12-23,Employer,Grand Rapids,MI
+498,Seminar Term,Seminar,Employer Relations,2024-06-20,University,Urbana,IL
+499,Employer Info Session Final,Employer Info Session,SLU Alumni Association,2017-05-11,Employer,Savannah,GA
+500,Alumni Meetup Style,Alumni Meetup,SLU Alumni Association,2017-11-23,Employer,Columbus,OH
+501,Career Fair Theory,Career Fair,Business School,2021-04-06,Employer,Worcester,MA
+502,Workshop Magazine,Workshop,SLU Career Services,2016-12-05,University,Durham,NC
+503,Employer Info Session Eight,Employer Info Session,External Employer,2025-03-19,University,Detroit,MI
+504,Seminar Magazine,Seminar,Employer Relations,2019-02-13,University,Worcester,MA
+505,Workshop Kind,Workshop,External Employer,2025-05-31,Employer,Tacoma,WA
+506,Hackathon West,Hackathon,SLU Career Services,2018-10-27,University,Springfield,IL
+507,Career Fair Individual,Career Fair,Computer Science Dept.,2019-12-16,Employer,Scottsdale,AZ
+508,Seminar Natural,Seminar,SLU Career Services,2024-06-03,University,Tacoma,WA
+509,Seminar Six,Seminar,Employer Relations,2022-05-20,University,Buffalo,NY
+510,Alumni Meetup Weight,Alumni Meetup,SLU Alumni Association,2016-09-01,University,New York,NY
+511,Employer Info Session Option,Employer Info Session,SLU Alumni Association,2015-04-21,Employer,Columbus,OH
+512,Webinar Several,Webinar,SLU Alumni Association,2025-01-19,University,Irvine,CA
+513,Webinar Girl,Webinar,Employer Relations,2022-09-21,Employer,Columbus,OH
+514,Seminar Structure,Seminar,SLU Career Services,2025-03-06,Employer,Kansas City,MO
+515,Webinar They,Webinar,SLU Career Services,2020-06-10,Employer,Cleveland,OH
+516,Seminar Home,Seminar,External Employer,2025-03-27,Employer,White Plains,NY
+517,Career Fair I,Career Fair,Employer Relations,2021-04-28,Employer,Grand Rapids,MI
+518,Employer Info Session Hospital,Employer Info Session,Business School,2022-08-09,Employer,Chicago,IL
+519,Webinar Recognize,Webinar,SLU Alumni Association,2015-10-07,University,Detroit,MI
+520,Career Fair Contain,Career Fair,SLU Career Services,2020-05-12,Employer,Detroit,MI
+521,Alumni Meetup Cold,Alumni Meetup,SLU Career Services,2016-01-14,University,Boston,MA
+522,Hackathon Public,Hackathon,SLU Alumni Association,2018-03-17,University,Cincinnati,OH
+523,Alumni Meetup Director,Alumni Meetup,External Employer,2015-02-14,University,Alpharetta,GA
+524,Seminar System,Seminar,SLU Career Services,2015-09-03,University,Boulder,CO
+525,Employer Info Session One,Employer Info Session,Business School,2018-01-28,University,Tucson,AZ
+526,Alumni Meetup Onto,Alumni Meetup,Computer Science Dept.,2025-03-26,University,White Plains,NY
+527,Webinar Notice,Webinar,Employer Relations,2016-03-25,University,Tacoma,WA
+528,Hackathon Need,Hackathon,Computer Science Dept.,2023-03-21,University,Cincinnati,OH
+529,Career Fair Local,Career Fair,Business School,2023-08-08,University,Charlotte,NC
+530,Seminar Shoulder,Seminar,Business School,2023-08-05,Employer,Cleveland,OH
+531,Alumni Meetup Four,Alumni Meetup,SLU Career Services,2023-02-02,University,Charlotte,NC
+532,Workshop American,Workshop,Business School,2018-08-08,University,Alpharetta,GA
+533,Hackathon Very,Hackathon,SLU Career Services,2023-02-21,University,Atlanta,GA
+534,Career Fair Along,Career Fair,SLU Alumni Association,2017-06-17,University,Cincinnati,OH
+535,Workshop Back,Workshop,External Employer,2018-10-11,Employer,Denver,CO
+536,Alumni Meetup Alone,Alumni Meetup,Employer Relations,2021-03-06,University,Cambridge,MA
+537,Employer Info Session Offer,Employer Info Session,SLU Career Services,2018-09-07,University,Cleveland,OH
+538,Hackathon Purpose,Hackathon,External Employer,2020-05-17,University,Atlanta,GA
+539,Webinar Us,Webinar,SLU Career Services,2017-07-25,University,Irvine,CA
+540,Seminar Friend,Seminar,Employer Relations,2015-04-21,University,New York,NY
+541,Webinar Behind,Webinar,Computer Science Dept.,2024-06-23,University,New York,NY
+542,Employer Info Session Always,Employer Info Session,SLU Alumni Association,2017-05-21,University,Naperville,IL
+543,Career Fair You,Career Fair,SLU Alumni Association,2020-06-08,Employer,Springfield,IL
+544,Webinar Trade,Webinar,External Employer,2017-09-30,Employer,Philadelphia,PA
+545,Employer Info Session Six,Employer Info Session,SLU Career Services,2024-12-22,University,Houston,TX
+546,Hackathon Direction,Hackathon,Business School,2016-01-14,University,Buffalo,NY
+547,Alumni Meetup Law,Alumni Meetup,SLU Career Services,2023-09-07,Employer,Redmond,WA
+548,Workshop Pick,Workshop,Employer Relations,2025-10-29,University,Fort Collins,CO
+549,Workshop Material,Workshop,External Employer,2021-03-27,Employer,Buffalo,NY
+550,Hackathon Will,Hackathon,SLU Alumni Association,2019-05-27,University,White Plains,NY
+551,Alumni Meetup Style,Alumni Meetup,Business School,2015-02-13,Employer,Albany,NY
+552,Seminar The,Seminar,External Employer,2024-09-05,Employer,Houston,TX
+553,Webinar Skin,Webinar,Business School,2019-07-25,University,Philadelphia,PA
+554,Career Fair Industry,Career Fair,Business School,2021-02-17,University,Tacoma,WA
+555,Career Fair His,Career Fair,SLU Career Services,2020-05-25,Employer,Grand Rapids,MI
+556,Webinar Capital,Webinar,Computer Science Dept.,2022-03-21,Employer,White Plains,NY
+557,Webinar Their,Webinar,SLU Alumni Association,2015-05-14,Employer,Atlanta,GA
+558,Alumni Meetup North,Alumni Meetup,SLU Alumni Association,2018-08-26,Employer,Denver,CO
+559,Employer Info Session Just,Employer Info Session,SLU Career Services,2015-01-12,Employer,Atlanta,GA
+560,Workshop Close,Workshop,Computer Science Dept.,2020-05-04,University,Cary,NC
+561,Workshop Speech,Workshop,Computer Science Dept.,2018-06-13,Employer,Naperville,IL
+562,Workshop Care,Workshop,Computer Science Dept.,2018-01-19,University,Orlando,FL
+563,Webinar Worker,Webinar,Business School,2015-03-20,Employer,Boston,MA
+564,Seminar Rule,Seminar,SLU Career Services,2022-02-16,Employer,Redmond,WA
+565,Alumni Meetup Available,Alumni Meetup,Computer Science Dept.,2016-08-19,Employer,Tempe,AZ
+566,Hackathon Maintain,Hackathon,Employer Relations,2016-07-27,Employer,Columbus,OH
+567,Alumni Meetup Fight,Alumni Meetup,External Employer,2020-09-19,University,Fort Collins,CO
+568,Webinar Provide,Webinar,SLU Career Services,2015-11-28,Employer,Austin,TX
+569,Webinar Little,Webinar,Business School,2019-05-05,Employer,Ann Arbor,MI
+570,Hackathon House,Hackathon,External Employer,2017-12-07,University,Miami,FL
+571,Career Fair Lawyer,Career Fair,SLU Alumni Association,2020-10-25,University,Worcester,MA
+572,Alumni Meetup Piece,Alumni Meetup,SLU Alumni Association,2025-08-11,University,Tucson,AZ
+573,Seminar Major,Seminar,SLU Career Services,2023-12-19,Employer,Miami,FL
+574,Seminar Type,Seminar,Employer Relations,2021-09-22,University,Springfield,MO
+575,Alumni Meetup Because,Alumni Meetup,Employer Relations,2024-06-09,Employer,Austin,TX
+576,Employer Info Session Run,Employer Info Session,External Employer,2021-08-23,Employer,Cary,NC
+577,Hackathon View,Hackathon,Business School,2023-01-02,University,Clayton,MO
+578,Alumni Meetup Ball,Alumni Meetup,SLU Career Services,2025-05-17,Employer,Tacoma,WA
+579,Webinar Exactly,Webinar,SLU Alumni Association,2015-11-01,University,Fort Collins,CO
+580,Career Fair It,Career Fair,SLU Alumni Association,2016-01-22,University,Orlando,FL
+581,Career Fair Cell,Career Fair,SLU Career Services,2018-05-08,Employer,Tempe,AZ
+582,Employer Info Session Success,Employer Info Session,Business School,2025-09-04,University,Jacksonville,FL
+583,Workshop Theory,Workshop,SLU Alumni Association,2024-03-30,Employer,Pittsburgh,PA
+584,Webinar Keep,Webinar,Business School,2021-08-20,Employer,Ann Arbor,MI
+585,Workshop Necessary,Workshop,Computer Science Dept.,2016-11-17,Employer,Somerville,MA
+586,Alumni Meetup Environment,Alumni Meetup,SLU Career Services,2022-01-26,Employer,Tampa,FL
+587,Hackathon Magazine,Hackathon,Computer Science Dept.,2016-06-13,University,Tucson,AZ
+588,Alumni Meetup Both,Alumni Meetup,Employer Relations,2024-02-17,University,Tucson,AZ
+589,Seminar Force,Seminar,External Employer,2022-08-19,University,Savannah,GA
+590,Webinar Room,Webinar,Computer Science Dept.,2023-08-13,Employer,Durham,NC
+591,Employer Info Session Age,Employer Info Session,SLU Alumni Association,2019-04-10,Employer,Harrisburg,PA
+592,Employer Info Session Physical,Employer Info Session,Computer Science Dept.,2020-09-28,University,Clayton,MO
+593,Hackathon Performance,Hackathon,SLU Alumni Association,2022-01-09,Employer,Tucson,AZ
+594,Career Fair That,Career Fair,External Employer,2022-02-01,Employer,Houston,TX
+595,Career Fair Either,Career Fair,Computer Science Dept.,2018-06-21,University,Philadelphia,PA
+596,Employer Info Session Play,Employer Info Session,Business School,2018-05-19,Employer,Dallas,TX
+597,Hackathon Wind,Hackathon,External Employer,2016-07-27,Employer,Springfield,MO
+598,Seminar Practice,Seminar,External Employer,2017-05-06,University,Grand Rapids,MI
+599,Employer Info Session Chair,Employer Info Session,SLU Career Services,2015-02-26,Employer,Chesterfield,MO
+600,Webinar Still,Webinar,SLU Career Services,2025-11-09,Employer,Cary,NC
+601,Employer Info Session General,Employer Info Session,SLU Career Services,2021-05-03,University,Durham,NC
+602,Webinar Huge,Webinar,External Employer,2017-05-04,Employer,Miami,FL
+603,Career Fair Someone,Career Fair,Employer Relations,2024-09-08,University,Charlotte,NC
+604,Career Fair Eye,Career Fair,SLU Alumni Association,2019-10-11,Employer,Cary,NC
+605,Seminar Become,Seminar,Employer Relations,2015-04-18,Employer,Springfield,MO
+606,Hackathon Traditional,Hackathon,Business School,2017-12-29,University,Irvine,CA
+607,Employer Info Session Thank,Employer Info Session,Business School,2019-12-08,University,St. Louis,MO
+608,Alumni Meetup Something,Alumni Meetup,Employer Relations,2020-02-24,Employer,Durham,NC
+609,Career Fair Watch,Career Fair,Business School,2021-05-16,University,Cambridge,MA
+610,Hackathon Husband,Hackathon,Employer Relations,2025-07-08,Employer,Tempe,AZ
+611,Alumni Meetup Return,Alumni Meetup,Computer Science Dept.,2021-04-26,University,Atlanta,GA
+612,Seminar Feeling,Seminar,External Employer,2024-12-12,Employer,Seattle,WA
+613,Alumni Meetup Recently,Alumni Meetup,External Employer,2025-10-23,Employer,Austin,TX
+614,Employer Info Session Every,Employer Info Session,SLU Career Services,2019-07-18,University,Atlanta,GA
+615,Workshop Be,Workshop,Business School,2015-11-17,University,Tucson,AZ
+616,Alumni Meetup Debate,Alumni Meetup,Computer Science Dept.,2015-05-19,University,Rochester,NY
+617,Alumni Meetup Must,Alumni Meetup,Employer Relations,2021-05-05,University,Philadelphia,PA
+618,Webinar She,Webinar,SLU Alumni Association,2022-08-02,Employer,Kansas City,MO
+619,Webinar Community,Webinar,SLU Alumni Association,2015-08-05,Employer,Alpharetta,GA
+620,Workshop Career,Workshop,Business School,2024-12-29,Employer,San Francisco,CA
+621,Workshop Life,Workshop,Employer Relations,2024-12-04,University,Harrisburg,PA
+622,Employer Info Session Magazine,Employer Info Session,External Employer,2018-10-22,Employer,Cincinnati,OH
+623,Seminar Company,Seminar,External Employer,2024-06-23,Employer,Rochester,NY
+624,Alumni Meetup Develop,Alumni Meetup,Computer Science Dept.,2018-05-16,Employer,Harrisburg,PA
+625,Alumni Meetup Today,Alumni Meetup,Employer Relations,2017-03-27,Employer,Irvine,CA
+626,Alumni Meetup Coach,Alumni Meetup,Computer Science Dept.,2017-12-10,Employer,San Jose,CA
+627,Career Fair Rock,Career Fair,SLU Alumni Association,2022-02-24,Employer,San Diego,CA
+628,Hackathon Head,Hackathon,External Employer,2016-03-29,University,Seattle,WA
+629,Career Fair Degree,Career Fair,Business School,2021-09-02,University,Springfield,IL
+630,Seminar Order,Seminar,Business School,2015-10-09,Employer,Clayton,MO
+631,Career Fair Teach,Career Fair,SLU Career Services,2022-11-16,Employer,Alpharetta,GA
+632,Workshop Rule,Workshop,Employer Relations,2015-01-16,University,Durham,NC
+633,Webinar Third,Webinar,External Employer,2016-10-24,University,Boulder,CO
+634,Workshop Company,Workshop,SLU Career Services,2020-05-05,Employer,Chicago,IL
+635,Webinar Appear,Webinar,SLU Alumni Association,2019-01-07,University,San Diego,CA
+636,Alumni Meetup Long,Alumni Meetup,Computer Science Dept.,2016-07-02,University,Columbus,OH
+637,Webinar Movement,Webinar,Computer Science Dept.,2017-04-15,University,Ann Arbor,MI
+638,Hackathon Look,Hackathon,Employer Relations,2022-03-15,Employer,Springfield,MO
+639,Employer Info Session Through,Employer Info Session,SLU Alumni Association,2017-07-31,Employer,Jacksonville,FL
+640,Seminar While,Seminar,SLU Alumni Association,2019-10-07,University,San Diego,CA
+641,Hackathon Treatment,Hackathon,Employer Relations,2023-09-13,Employer,Pittsburgh,PA
+642,Webinar Sense,Webinar,SLU Alumni Association,2023-05-28,University,Tampa,FL
+643,Seminar Start,Seminar,SLU Career Services,2021-04-17,University,Cleveland,OH
+644,Webinar What,Webinar,SLU Alumni Association,2020-02-29,University,Worcester,MA
+645,Webinar Opportunity,Webinar,Computer Science Dept.,2024-05-07,University,Tacoma,WA
+646,Seminar Full,Seminar,Business School,2020-09-18,University,Clayton,MO
+647,Workshop Civil,Workshop,Employer Relations,2021-01-25,Employer,Colorado Springs,CO
+648,Webinar Agency,Webinar,SLU Alumni Association,2025-05-04,University,Tempe,AZ
+649,Seminar Station,Seminar,Business School,2025-04-22,University,Durham,NC
+650,Workshop Here,Workshop,SLU Alumni Association,2023-11-17,University,Worcester,MA
+651,Seminar Along,Seminar,Computer Science Dept.,2020-04-18,Employer,Tacoma,WA
+652,Workshop The,Workshop,SLU Career Services,2025-07-23,Employer,White Plains,NY
+653,Workshop Wide,Workshop,SLU Career Services,2025-05-20,Employer,Cary,NC
+654,Alumni Meetup Story,Alumni Meetup,Employer Relations,2016-06-05,University,White Plains,NY
+655,Hackathon Later,Hackathon,Business School,2020-02-16,Employer,Raleigh,NC
+656,Hackathon Require,Hackathon,Business School,2025-08-25,Employer,Harrisburg,PA
+657,Webinar Space,Webinar,SLU Alumni Association,2019-11-16,Employer,Raleigh,NC
+658,Hackathon Brother,Hackathon,SLU Alumni Association,2025-12-16,University,Tucson,AZ
+659,Webinar Assume,Webinar,Computer Science Dept.,2023-01-08,Employer,Cleveland,OH
+660,Webinar Participant,Webinar,External Employer,2022-05-03,University,Kansas City,MO
+661,Alumni Meetup Father,Alumni Meetup,Business School,2020-01-21,Employer,Savannah,GA
+662,Webinar Reach,Webinar,External Employer,2021-08-19,University,Dallas,TX
+663,Career Fair Voice,Career Fair,SLU Career Services,2022-09-14,University,Pittsburgh,PA
+664,Workshop Interview,Workshop,SLU Alumni Association,2016-07-18,University,Austin,TX
+665,Hackathon Add,Hackathon,Business School,2019-08-12,Employer,Boston,MA
+666,Workshop Adult,Workshop,Business School,2017-12-08,University,Ann Arbor,MI
+667,Workshop Thus,Workshop,External Employer,2019-07-02,Employer,Atlanta,GA
+668,Career Fair Yourself,Career Fair,Employer Relations,2023-02-21,Employer,San Francisco,CA
+669,Workshop Design,Workshop,Employer Relations,2022-04-06,University,Tucson,AZ
+670,Workshop Determine,Workshop,Computer Science Dept.,2017-06-07,University,Orlando,FL
+671,Workshop Trade,Workshop,SLU Career Services,2022-12-08,University,New York,NY
+672,Webinar Rest,Webinar,SLU Career Services,2017-10-05,University,Rochester,NY
+673,Webinar Office,Webinar,External Employer,2025-04-11,University,Jacksonville,FL
+674,Career Fair Course,Career Fair,Computer Science Dept.,2025-06-22,University,Colorado Springs,CO
+675,Hackathon Information,Hackathon,Computer Science Dept.,2023-09-17,Employer,Tempe,AZ
+676,Alumni Meetup Term,Alumni Meetup,SLU Alumni Association,2023-11-08,University,Rochester,NY
+677,Webinar Life,Webinar,Employer Relations,2023-03-14,University,Ann Arbor,MI
+678,Workshop Check,Workshop,Employer Relations,2019-12-31,University,Peoria,IL
+679,Workshop Item,Workshop,External Employer,2021-04-07,Employer,Phoenix,AZ
+680,Career Fair Operation,Career Fair,Employer Relations,2017-04-19,University,Denver,CO
+681,Alumni Meetup Guess,Alumni Meetup,SLU Career Services,2016-06-05,University,Fort Collins,CO
+682,Employer Info Session Charge,Employer Info Session,Employer Relations,2023-10-09,Employer,Colorado Springs,CO
+683,Hackathon Effort,Hackathon,Business School,2023-10-30,University,Pittsburgh,PA
+684,Career Fair Total,Career Fair,Employer Relations,2024-08-05,University,Miami,FL
+685,Seminar Unit,Seminar,Computer Science Dept.,2020-09-10,University,Columbus,OH
+686,Workshop Eight,Workshop,SLU Alumni Association,2023-12-17,University,Chesterfield,MO
+687,Seminar Exactly,Seminar,Employer Relations,2015-10-01,Employer,Charlotte,NC
+688,Employer Info Session Mother,Employer Info Session,External Employer,2022-11-13,Employer,Charlotte,NC
+689,Alumni Meetup Control,Alumni Meetup,Computer Science Dept.,2015-04-12,University,Raleigh,NC
+690,Webinar Modern,Webinar,Business School,2018-08-04,Employer,Naperville,IL
+691,Seminar Accept,Seminar,Computer Science Dept.,2016-09-01,Employer,Detroit,MI
+692,Webinar Put,Webinar,Business School,2024-09-03,University,Bellevue,WA
+693,Alumni Meetup About,Alumni Meetup,Business School,2015-07-24,University,Fort Collins,CO
+694,Webinar Pull,Webinar,SLU Alumni Association,2018-04-28,University,Columbus,OH
+695,Hackathon Television,Hackathon,Employer Relations,2024-05-13,University,Columbus,OH
+696,Alumni Meetup Order,Alumni Meetup,Computer Science Dept.,2023-05-05,Employer,Tucson,AZ
+697,Webinar Effort,Webinar,Business School,2019-06-01,University,Colorado Springs,CO
+698,Employer Info Session Box,Employer Info Session,Employer Relations,2019-02-05,Employer,Rochester,NY
+699,Workshop Away,Workshop,External Employer,2015-03-18,University,Los Angeles,CA
+700,Alumni Meetup Heart,Alumni Meetup,Computer Science Dept.,2015-07-07,Employer,Boulder,CO
+701,Alumni Meetup Particularly,Alumni Meetup,SLU Career Services,2017-08-07,Employer,Tempe,AZ
+702,Employer Info Session Something,Employer Info Session,Computer Science Dept.,2025-10-28,Employer,Alpharetta,GA
+703,Alumni Meetup Member,Alumni Meetup,Business School,2015-02-16,University,Los Angeles,CA
+704,Employer Info Session Soldier,Employer Info Session,Computer Science Dept.,2015-12-21,University,Buffalo,NY
+705,Employer Info Session Author,Employer Info Session,Employer Relations,2023-02-11,University,Cleveland,OH
+706,Career Fair Indeed,Career Fair,External Employer,2019-04-25,Employer,St. Louis,MO
+707,Alumni Meetup Beyond,Alumni Meetup,Business School,2020-07-11,Employer,Detroit,MI
+708,Seminar Something,Seminar,Business School,2016-01-25,University,Durham,NC
+709,Workshop Ever,Workshop,SLU Career Services,2019-05-12,Employer,Boulder,CO
+710,Career Fair Clearly,Career Fair,Business School,2016-07-27,University,Boulder,CO
+711,Webinar Late,Webinar,Business School,2024-10-13,Employer,Fort Collins,CO
+712,Seminar Stay,Seminar,SLU Alumni Association,2017-04-27,University,Rochester,NY
+713,Hackathon Employee,Hackathon,SLU Alumni Association,2019-03-04,Employer,Savannah,GA
+714,Webinar Many,Webinar,SLU Alumni Association,2015-06-10,University,Ann Arbor,MI
+715,Webinar Think,Webinar,External Employer,2023-05-29,Employer,Worcester,MA
+716,Webinar Beat,Webinar,Employer Relations,2018-01-27,University,Worcester,MA
+717,Workshop Miss,Workshop,External Employer,2023-08-17,University,Dallas,TX
+718,Career Fair Game,Career Fair,SLU Career Services,2015-03-08,University,Irvine,CA
+719,Webinar Ready,Webinar,Employer Relations,2023-11-21,Employer,Philadelphia,PA
+720,Workshop Region,Workshop,External Employer,2021-01-30,University,New York,NY
+721,Webinar Offer,Webinar,SLU Alumni Association,2015-05-29,University,Atlanta,GA
+722,Employer Info Session Indeed,Employer Info Session,External Employer,2018-11-24,University,Detroit,MI
+723,Employer Info Session State,Employer Info Session,Computer Science Dept.,2021-03-05,Employer,Savannah,GA
+724,Alumni Meetup Especially,Alumni Meetup,Business School,2018-12-26,University,Scottsdale,AZ
+725,Workshop Hand,Workshop,SLU Alumni Association,2015-04-12,University,Chicago,IL
+726,Career Fair Move,Career Fair,Employer Relations,2015-05-28,Employer,Cambridge,MA
+727,Webinar Prepare,Webinar,Employer Relations,2015-12-10,Employer,Buffalo,NY
+728,Employer Info Session Finally,Employer Info Session,SLU Alumni Association,2016-08-09,University,Clayton,MO
+729,Hackathon Suggest,Hackathon,Business School,2018-11-13,Employer,Rochester,NY
+730,Webinar Candidate,Webinar,SLU Career Services,2025-12-31,University,Dallas,TX
+731,Employer Info Session Bill,Employer Info Session,Employer Relations,2016-02-25,University,San Francisco,CA
+732,Alumni Meetup Garden,Alumni Meetup,SLU Alumni Association,2024-03-31,University,Clayton,MO
+733,Seminar Same,Seminar,Business School,2015-06-30,Employer,Rochester,NY
+734,Alumni Meetup Society,Alumni Meetup,Computer Science Dept.,2023-10-22,Employer,Naperville,IL
+735,Workshop Human,Workshop,Computer Science Dept.,2022-03-25,Employer,Columbus,OH
+736,Webinar Exist,Webinar,Employer Relations,2017-08-10,Employer,Seattle,WA
+737,Employer Info Session Detail,Employer Info Session,Employer Relations,2018-10-16,University,Raleigh,NC
+738,Workshop Central,Workshop,Business School,2025-05-13,Employer,Tacoma,WA
+739,Workshop Ready,Workshop,SLU Alumni Association,2021-05-02,Employer,Grand Rapids,MI
+740,Hackathon Need,Hackathon,SLU Alumni Association,2023-09-19,Employer,Houston,TX
+741,Career Fair Large,Career Fair,External Employer,2015-12-31,Employer,Chesterfield,MO
+742,Workshop Job,Workshop,Employer Relations,2019-12-29,Employer,Grand Rapids,MI
+743,Workshop Support,Workshop,External Employer,2021-03-16,University,Dallas,TX
+744,Employer Info Session Yard,Employer Info Session,Business School,2019-07-17,University,Boulder,CO
+745,Webinar Soon,Webinar,SLU Alumni Association,2023-01-18,University,Jacksonville,FL
+746,Employer Info Session Party,Employer Info Session,External Employer,2020-03-17,Employer,Alpharetta,GA
+747,Workshop Or,Workshop,SLU Alumni Association,2018-12-17,University,Savannah,GA
+748,Alumni Meetup Option,Alumni Meetup,SLU Alumni Association,2019-03-12,Employer,Boston,MA
+749,Webinar Full,Webinar,SLU Career Services,2019-08-05,University,Atlanta,GA
+750,Hackathon Girl,Hackathon,Computer Science Dept.,2021-11-10,Employer,San Francisco,CA
+751,Seminar Identify,Seminar,SLU Alumni Association,2019-10-30,Employer,Philadelphia,PA
+752,Hackathon Activity,Hackathon,SLU Alumni Association,2018-12-17,University,Charlotte,NC
+753,Seminar Stand,Seminar,Business School,2021-10-01,University,Tacoma,WA
+754,Workshop Administration,Workshop,Employer Relations,2024-06-06,University,Cincinnati,OH
+755,Seminar Available,Seminar,External Employer,2023-01-11,Employer,Cambridge,MA
+756,Workshop Bad,Workshop,Business School,2020-04-13,Employer,Springfield,IL
+757,Employer Info Session Thousand,Employer Info Session,SLU Career Services,2016-11-08,University,Boulder,CO
+758,Seminar Hand,Seminar,Business School,2022-05-24,Employer,Urbana,IL
+759,Seminar Determine,Seminar,External Employer,2022-08-02,University,San Francisco,CA
+760,Alumni Meetup Industry,Alumni Meetup,Employer Relations,2020-07-25,University,Columbus,OH
+761,Hackathon Age,Hackathon,External Employer,2015-12-29,University,Seattle,WA
+762,Webinar Degree,Webinar,Employer Relations,2015-07-28,Employer,Philadelphia,PA
+763,Hackathon Couple,Hackathon,Business School,2024-07-17,Employer,Savannah,GA
+764,Webinar Hard,Webinar,SLU Career Services,2025-07-01,University,Cary,NC
+765,Webinar Yourself,Webinar,Employer Relations,2025-11-13,University,Plano,TX
+766,Employer Info Session Nor,Employer Info Session,SLU Career Services,2024-07-02,University,Detroit,MI
+767,Webinar Camera,Webinar,Business School,2023-06-08,University,Grand Rapids,MI
+768,Career Fair Author,Career Fair,Employer Relations,2015-04-29,Employer,San Francisco,CA
+769,Workshop Different,Workshop,SLU Career Services,2020-08-24,Employer,Clayton,MO
+770,Webinar Democratic,Webinar,Computer Science Dept.,2024-12-03,University,Seattle,WA
+771,Seminar Any,Seminar,SLU Alumni Association,2023-09-15,Employer,Atlanta,GA
+772,Career Fair Marriage,Career Fair,Employer Relations,2017-12-12,Employer,White Plains,NY
+773,Alumni Meetup Fish,Alumni Meetup,SLU Alumni Association,2022-10-22,Employer,White Plains,NY
+774,Workshop Area,Workshop,External Employer,2016-12-23,University,Miami,FL
+775,Hackathon Me,Hackathon,SLU Alumni Association,2023-06-30,Employer,Cary,NC
+776,Seminar West,Seminar,SLU Alumni Association,2022-05-24,Employer,Albany,NY
+777,Hackathon Such,Hackathon,Computer Science Dept.,2015-07-07,Employer,Boulder,CO
+778,Career Fair Sing,Career Fair,SLU Alumni Association,2016-09-03,Employer,St. Louis,MO
+779,Seminar Strategy,Seminar,SLU Career Services,2022-11-07,University,Rochester,NY
+780,Career Fair Affect,Career Fair,SLU Alumni Association,2017-05-07,University,Atlanta,GA
+781,Workshop Team,Workshop,SLU Alumni Association,2018-11-02,University,Buffalo,NY
+782,Webinar Approach,Webinar,SLU Alumni Association,2024-06-25,Employer,Atlanta,GA
+783,Employer Info Session Later,Employer Info Session,Business School,2025-05-07,Employer,Durham,NC
+784,Seminar Stage,Seminar,Employer Relations,2015-05-22,Employer,Colorado Springs,CO
+785,Alumni Meetup Energy,Alumni Meetup,Employer Relations,2021-03-21,University,Worcester,MA
+786,Hackathon Environment,Hackathon,SLU Career Services,2017-10-17,University,Cleveland,OH
+787,Hackathon Claim,Hackathon,Employer Relations,2021-01-17,University,Alpharetta,GA
+788,Alumni Meetup Friend,Alumni Meetup,External Employer,2025-12-03,University,Naperville,IL
+789,Employer Info Session Nature,Employer Info Session,Computer Science Dept.,2018-11-16,University,Boulder,CO
+790,Career Fair Miss,Career Fair,SLU Career Services,2018-02-05,University,Philadelphia,PA
+791,Alumni Meetup Evidence,Alumni Meetup,External Employer,2021-02-10,University,Plano,TX
+792,Hackathon Everyone,Hackathon,External Employer,2016-08-09,Employer,San Francisco,CA
+793,Employer Info Session Paper,Employer Info Session,Business School,2018-02-23,University,Somerville,MA
+794,Hackathon Leader,Hackathon,Business School,2017-10-03,University,Springfield,MO
+795,Workshop How,Workshop,SLU Alumni Association,2017-02-01,Employer,Philadelphia,PA
+796,Career Fair Over,Career Fair,External Employer,2019-10-26,Employer,Worcester,MA
+797,Employer Info Session Wish,Employer Info Session,Employer Relations,2015-12-10,Employer,Austin,TX
+798,Hackathon Value,Hackathon,Computer Science Dept.,2023-07-23,University,Chicago,IL
+799,Career Fair Model,Career Fair,External Employer,2023-02-05,Employer,Atlanta,GA
+800,Workshop Teacher,Workshop,Computer Science Dept.,2025-05-07,Employer,Bellevue,WA
+801,Workshop Really,Workshop,Computer Science Dept.,2022-08-15,Employer,Columbus,OH
+802,Employer Info Session Day,Employer Info Session,SLU Alumni Association,2019-09-23,University,Boston,MA
+803,Webinar Church,Webinar,SLU Alumni Association,2021-08-01,Employer,Charlotte,NC
+804,Career Fair Carry,Career Fair,SLU Alumni Association,2018-05-25,University,San Diego,CA
+805,Webinar Environment,Webinar,Business School,2016-09-28,Employer,Philadelphia,PA
+806,Alumni Meetup Consider,Alumni Meetup,External Employer,2018-01-22,Employer,Miami,FL
+807,Employer Info Session Production,Employer Info Session,SLU Career Services,2022-03-29,Employer,Redmond,WA
+808,Hackathon Audience,Hackathon,Employer Relations,2015-01-26,Employer,Boulder,CO
+809,Workshop Street,Workshop,SLU Alumni Association,2018-04-02,Employer,Boulder,CO
+810,Employer Info Session Method,Employer Info Session,Employer Relations,2016-07-05,University,Plano,TX
+811,Seminar Because,Seminar,SLU Alumni Association,2024-07-23,University,Colorado Springs,CO
+812,Career Fair Plant,Career Fair,Computer Science Dept.,2024-05-08,Employer,Tucson,AZ
+813,Alumni Meetup Tough,Alumni Meetup,SLU Career Services,2015-09-13,Employer,Harrisburg,PA
+814,Employer Info Session Teacher,Employer Info Session,Employer Relations,2022-05-01,Employer,White Plains,NY
+815,Employer Info Session Eight,Employer Info Session,Employer Relations,2018-07-05,University,Bellevue,WA
+816,Career Fair Above,Career Fair,SLU Alumni Association,2023-01-22,Employer,Ann Arbor,MI
+817,Hackathon Dog,Hackathon,Employer Relations,2021-04-02,University,Orlando,FL
+818,Alumni Meetup Wall,Alumni Meetup,Business School,2019-12-14,Employer,San Jose,CA
+819,Career Fair Ask,Career Fair,External Employer,2022-01-16,Employer,Fort Collins,CO
+820,Webinar Level,Webinar,External Employer,2025-06-18,Employer,Bellevue,WA
+821,Webinar Around,Webinar,SLU Alumni Association,2025-09-23,Employer,Chicago,IL
+822,Webinar Society,Webinar,SLU Career Services,2025-09-05,Employer,Charlotte,NC
+823,Seminar Think,Seminar,SLU Alumni Association,2022-02-26,University,Seattle,WA
+824,Seminar Agent,Seminar,Computer Science Dept.,2015-11-21,University,Cleveland,OH
+825,Hackathon Whatever,Hackathon,SLU Alumni Association,2018-12-05,Employer,Colorado Springs,CO
+826,Hackathon Eight,Hackathon,Employer Relations,2020-06-09,Employer,Somerville,MA
+827,Seminar Executive,Seminar,External Employer,2016-04-30,University,Raleigh,NC
+828,Alumni Meetup Night,Alumni Meetup,External Employer,2020-10-04,Employer,San Jose,CA
+829,Webinar Weight,Webinar,SLU Alumni Association,2018-05-13,Employer,Colorado Springs,CO
+830,Career Fair Name,Career Fair,Business School,2020-08-21,Employer,Worcester,MA
+831,Workshop Himself,Workshop,Business School,2021-11-21,University,San Diego,CA
+832,Seminar Safe,Seminar,Employer Relations,2025-08-29,University,Springfield,MO
+833,Webinar Size,Webinar,SLU Alumni Association,2020-12-16,Employer,Tempe,AZ
+834,Hackathon Enough,Hackathon,External Employer,2022-07-11,University,Irvine,CA
+835,Alumni Meetup Continue,Alumni Meetup,Computer Science Dept.,2024-04-18,University,Phoenix,AZ
+836,Career Fair Share,Career Fair,SLU Career Services,2017-04-06,Employer,San Jose,CA
+837,Seminar Marriage,Seminar,Business School,2018-05-04,University,Columbus,OH
+838,Workshop Instead,Workshop,Computer Science Dept.,2015-12-27,Employer,Boulder,CO
+839,Employer Info Session Rich,Employer Info Session,Business School,2018-05-02,Employer,Chicago,IL
+840,Career Fair Field,Career Fair,Employer Relations,2024-10-20,University,St. Louis,MO
+841,Webinar Behavior,Webinar,SLU Career Services,2024-08-12,Employer,Durham,NC
+842,Career Fair President,Career Fair,Business School,2024-03-01,University,Phoenix,AZ
+843,Career Fair Together,Career Fair,Employer Relations,2021-03-21,University,Ann Arbor,MI
+844,Webinar Wait,Webinar,Business School,2023-06-07,Employer,Savannah,GA
+845,Hackathon Effect,Hackathon,Computer Science Dept.,2021-08-31,University,Miami,FL
+846,Seminar Staff,Seminar,SLU Career Services,2024-04-05,University,St. Louis,MO
+847,Alumni Meetup Whom,Alumni Meetup,Business School,2016-03-06,Employer,Boulder,CO
+848,Hackathon None,Hackathon,External Employer,2021-12-11,University,Kansas City,MO
+849,Webinar Century,Webinar,SLU Career Services,2017-04-23,University,Peoria,IL
+850,Alumni Meetup Then,Alumni Meetup,Computer Science Dept.,2023-05-14,University,Alpharetta,GA
+851,Employer Info Session Activity,Employer Info Session,SLU Alumni Association,2021-04-26,Employer,Tempe,AZ
+852,Alumni Meetup Common,Alumni Meetup,Computer Science Dept.,2019-01-17,University,Seattle,WA
+853,Webinar Off,Webinar,Computer Science Dept.,2018-07-13,Employer,Springfield,MO
+854,Career Fair House,Career Fair,External Employer,2017-02-18,Employer,Urbana,IL
+855,Alumni Meetup City,Alumni Meetup,Employer Relations,2020-10-06,Employer,White Plains,NY
+856,Workshop Interest,Workshop,Business School,2023-11-30,University,Jacksonville,FL
+857,Webinar Generation,Webinar,Computer Science Dept.,2020-12-14,University,Savannah,GA
+858,Seminar Tv,Seminar,SLU Alumni Association,2024-01-06,University,Orlando,FL
+859,Seminar Find,Seminar,Computer Science Dept.,2016-03-27,University,Cincinnati,OH
+860,Employer Info Session Herself,Employer Info Session,SLU Career Services,2018-11-18,University,Atlanta,GA
+861,Workshop Door,Workshop,Employer Relations,2021-06-21,University,Austin,TX
+862,Hackathon Easy,Hackathon,External Employer,2025-01-14,University,San Antonio,TX
+863,Alumni Meetup Our,Alumni Meetup,Employer Relations,2017-08-16,Employer,Somerville,MA
+864,Webinar Success,Webinar,SLU Career Services,2022-08-02,University,Cincinnati,OH
+865,Career Fair Including,Career Fair,External Employer,2016-08-22,University,Phoenix,AZ
+866,Hackathon Including,Hackathon,Computer Science Dept.,2020-01-18,Employer,Tempe,AZ
+867,Employer Info Session Accept,Employer Info Session,Business School,2023-10-12,Employer,Columbus,OH
+868,Alumni Meetup Benefit,Alumni Meetup,External Employer,2022-04-17,Employer,Rochester,NY
+869,Workshop Apply,Workshop,Business School,2017-12-08,University,Los Angeles,CA
+870,Employer Info Session Lose,Employer Info Session,Employer Relations,2025-10-22,Employer,Urbana,IL
+871,Seminar Pick,Seminar,External Employer,2022-06-05,Employer,White Plains,NY
+872,Seminar Test,Seminar,SLU Career Services,2021-11-12,University,Austin,TX
+873,Webinar Option,Webinar,SLU Alumni Association,2022-11-24,Employer,Dallas,TX
+874,Workshop Fact,Workshop,SLU Alumni Association,2024-05-26,Employer,San Francisco,CA
+875,Workshop Live,Workshop,Business School,2018-05-30,Employer,Urbana,IL
+876,Career Fair Out,Career Fair,Business School,2025-09-14,University,San Diego,CA
+877,Workshop Nor,Workshop,Computer Science Dept.,2015-08-11,University,Detroit,MI
+878,Webinar Common,Webinar,SLU Career Services,2021-12-23,Employer,Tempe,AZ
+879,Employer Info Session Financial,Employer Info Session,Business School,2018-04-06,Employer,Orlando,FL
+880,Career Fair Attack,Career Fair,Business School,2023-09-30,University,Tempe,AZ
+881,Workshop Art,Workshop,Business School,2019-08-12,University,Pittsburgh,PA
+882,Workshop Five,Workshop,Business School,2021-01-18,Employer,Seattle,WA
+883,Workshop These,Workshop,SLU Career Services,2019-03-09,University,Cambridge,MA
+884,Workshop Federal,Workshop,SLU Career Services,2016-09-17,Employer,Plano,TX
+885,Hackathon Trade,Hackathon,External Employer,2021-08-26,University,San Diego,CA
+886,Employer Info Session Eight,Employer Info Session,External Employer,2025-11-01,Employer,Boulder,CO
+887,Alumni Meetup Book,Alumni Meetup,External Employer,2024-02-22,Employer,Tacoma,WA
+888,Hackathon Almost,Hackathon,Employer Relations,2019-05-24,Employer,Naperville,IL
+889,Webinar And,Webinar,External Employer,2020-06-30,Employer,Cleveland,OH
+890,Career Fair Beat,Career Fair,Employer Relations,2016-10-18,University,Miami,FL
+891,Seminar Talk,Seminar,SLU Alumni Association,2025-06-26,University,Orlando,FL
+892,Seminar Prepare,Seminar,Business School,2020-06-13,University,Alpharetta,GA
+893,Alumni Meetup Become,Alumni Meetup,External Employer,2016-09-20,University,Pittsburgh,PA
+894,Alumni Meetup Look,Alumni Meetup,Employer Relations,2022-09-15,Employer,Buffalo,NY
+895,Employer Info Session Dog,Employer Info Session,Employer Relations,2015-12-24,University,Boulder,CO
+896,Alumni Meetup Interest,Alumni Meetup,Computer Science Dept.,2015-02-15,University,Durham,NC
+897,Hackathon Stop,Hackathon,Employer Relations,2024-12-13,Employer,Tucson,AZ
+898,Hackathon Of,Hackathon,External Employer,2021-04-19,Employer,Charlotte,NC
+899,Seminar Down,Seminar,Computer Science Dept.,2016-02-15,Employer,Seattle,WA
+900,Alumni Meetup Outside,Alumni Meetup,SLU Career Services,2015-08-14,Employer,Miami,FL
+901,Workshop Type,Workshop,Employer Relations,2015-01-14,University,Somerville,MA
+902,Alumni Meetup Even,Alumni Meetup,External Employer,2020-12-03,University,Orlando,FL
+903,Seminar Anything,Seminar,Computer Science Dept.,2016-11-29,Employer,Ann Arbor,MI
+904,Employer Info Session Effort,Employer Info Session,Business School,2025-11-13,University,Los Angeles,CA
+905,Hackathon Mind,Hackathon,External Employer,2016-06-18,University,Tempe,AZ
+906,Workshop Rather,Workshop,Business School,2021-07-28,Employer,Tacoma,WA
+907,Career Fair Into,Career Fair,Computer Science Dept.,2019-09-24,University,Harrisburg,PA
+908,Workshop Yes,Workshop,Employer Relations,2017-05-11,University,Plano,TX
+909,Seminar Ahead,Seminar,SLU Alumni Association,2025-07-07,University,Cincinnati,OH
+910,Hackathon Blue,Hackathon,Employer Relations,2018-02-15,Employer,New York,NY
+911,Seminar Ability,Seminar,External Employer,2025-06-29,Employer,Philadelphia,PA
+912,Hackathon Hold,Hackathon,SLU Alumni Association,2023-10-03,Employer,Atlanta,GA
+913,Employer Info Session Offer,Employer Info Session,Computer Science Dept.,2022-04-21,University,Charlotte,NC
+914,Seminar Effort,Seminar,External Employer,2023-05-18,University,Plano,TX
+915,Employer Info Session Become,Employer Info Session,SLU Career Services,2022-12-27,Employer,Somerville,MA
+916,Alumni Meetup Card,Alumni Meetup,SLU Career Services,2019-01-13,University,Urbana,IL
+917,Career Fair Away,Career Fair,SLU Alumni Association,2022-11-28,Employer,Worcester,MA
+918,Seminar Year,Seminar,Business School,2018-10-07,Employer,Somerville,MA
+919,Webinar Size,Webinar,Computer Science Dept.,2020-05-16,Employer,San Francisco,CA
+920,Hackathon Activity,Hackathon,Computer Science Dept.,2015-12-03,University,Cincinnati,OH
+921,Seminar Animal,Seminar,SLU Alumni Association,2016-08-13,Employer,Cambridge,MA
+922,Workshop Traditional,Workshop,External Employer,2015-06-11,University,Seattle,WA
+923,Workshop Ball,Workshop,SLU Alumni Association,2021-10-31,Employer,Durham,NC
+924,Webinar Newspaper,Webinar,SLU Alumni Association,2016-06-30,Employer,Columbus,OH
+925,Seminar Human,Seminar,Business School,2023-09-30,Employer,New York,NY
+926,Alumni Meetup Imagine,Alumni Meetup,Business School,2018-11-10,University,Houston,TX
+927,Workshop Medical,Workshop,SLU Career Services,2016-08-15,University,Orlando,FL
+928,Webinar Six,Webinar,Computer Science Dept.,2017-05-29,University,Boston,MA
+929,Webinar Read,Webinar,SLU Alumni Association,2017-09-30,Employer,Detroit,MI
+930,Career Fair Ground,Career Fair,SLU Career Services,2023-09-28,University,Denver,CO
+931,Alumni Meetup Half,Alumni Meetup,Employer Relations,2016-06-23,University,Chesterfield,MO
+932,Employer Info Session Month,Employer Info Session,SLU Career Services,2020-01-13,Employer,Los Angeles,CA
+933,Career Fair High,Career Fair,Employer Relations,2023-04-27,University,San Diego,CA
+934,Workshop Either,Workshop,Computer Science Dept.,2022-12-12,Employer,Springfield,MO
+935,Workshop Significant,Workshop,SLU Career Services,2024-05-02,Employer,Seattle,WA
+936,Employer Info Session Ago,Employer Info Session,SLU Alumni Association,2017-01-25,Employer,White Plains,NY
+937,Webinar Trial,Webinar,SLU Alumni Association,2020-03-23,University,St. Louis,MO
+938,Employer Info Session Someone,Employer Info Session,SLU Career Services,2017-04-18,Employer,Houston,TX
+939,Seminar Many,Seminar,Computer Science Dept.,2017-03-13,University,Scottsdale,AZ
+940,Employer Info Session Able,Employer Info Session,Business School,2015-02-15,University,Albany,NY
+941,Workshop Meet,Workshop,Computer Science Dept.,2021-04-08,Employer,Charlotte,NC
+942,Webinar Even,Webinar,SLU Career Services,2019-03-26,Employer,Savannah,GA
+943,Career Fair Step,Career Fair,SLU Alumni Association,2017-08-12,University,Plano,TX
+944,Alumni Meetup Right,Alumni Meetup,SLU Career Services,2018-08-24,University,Grand Rapids,MI
+945,Employer Info Session Account,Employer Info Session,Computer Science Dept.,2018-10-03,Employer,Cambridge,MA
+946,Seminar Whole,Seminar,Computer Science Dept.,2015-09-25,Employer,San Francisco,CA
+947,Career Fair Key,Career Fair,External Employer,2016-11-11,Employer,Irvine,CA
+948,Workshop Hit,Workshop,Employer Relations,2017-06-11,University,Buffalo,NY
+949,Workshop Expert,Workshop,Employer Relations,2022-04-23,Employer,Boulder,CO
+950,Webinar Despite,Webinar,Employer Relations,2023-08-12,University,San Jose,CA
+951,Webinar Must,Webinar,SLU Career Services,2019-07-29,University,Durham,NC
+952,Seminar Keep,Seminar,SLU Career Services,2023-05-03,Employer,Chicago,IL
+953,Workshop Especially,Workshop,Employer Relations,2024-11-15,Employer,Durham,NC
+954,Seminar Face,Seminar,Computer Science Dept.,2016-10-23,University,Seattle,WA
+955,Hackathon However,Hackathon,SLU Career Services,2018-05-01,Employer,Jacksonville,FL
+956,Employer Info Session Today,Employer Info Session,Business School,2020-12-06,Employer,Bellevue,WA
+957,Alumni Meetup Bag,Alumni Meetup,External Employer,2021-12-19,University,Tampa,FL
+958,Webinar Business,Webinar,External Employer,2016-01-22,Employer,Kansas City,MO
+959,Alumni Meetup Process,Alumni Meetup,External Employer,2024-12-10,University,Worcester,MA
+960,Webinar Finally,Webinar,Employer Relations,2018-04-03,University,Boston,MA
+961,Workshop Want,Workshop,Computer Science Dept.,2025-08-25,University,Chicago,IL
+962,Seminar Writer,Seminar,SLU Career Services,2023-02-01,Employer,Dallas,TX
+963,Hackathon Always,Hackathon,External Employer,2025-10-30,University,Durham,NC
+964,Seminar Little,Seminar,SLU Alumni Association,2022-12-03,Employer,Detroit,MI
+965,Hackathon Smile,Hackathon,Employer Relations,2017-08-27,University,Philadelphia,PA
+966,Employer Info Session Environment,Employer Info Session,Employer Relations,2019-06-19,University,Plano,TX
+967,Alumni Meetup Way,Alumni Meetup,External Employer,2023-01-25,Employer,Cambridge,MA
+968,Workshop Adult,Workshop,Computer Science Dept.,2024-12-19,University,Tempe,AZ
+969,Alumni Meetup Hotel,Alumni Meetup,SLU Alumni Association,2021-09-18,University,Naperville,IL
+970,Alumni Meetup Respond,Alumni Meetup,External Employer,2022-11-21,University,Grand Rapids,MI
+971,Webinar Finally,Webinar,External Employer,2025-11-03,University,Tempe,AZ
+972,Webinar Ahead,Webinar,SLU Alumni Association,2021-01-14,Employer,Alpharetta,GA
+973,Webinar Yard,Webinar,SLU Alumni Association,2019-05-26,Employer,Orlando,FL
+974,Seminar Later,Seminar,SLU Career Services,2015-03-24,Employer,Tacoma,WA
+975,Employer Info Session Sport,Employer Info Session,External Employer,2022-10-15,University,Alpharetta,GA
+976,Seminar Ahead,Seminar,SLU Alumni Association,2015-04-07,Employer,St. Louis,MO
+977,Employer Info Session Home,Employer Info Session,SLU Career Services,2022-06-15,Employer,Philadelphia,PA
+978,Webinar Worker,Webinar,Computer Science Dept.,2020-12-12,Employer,Redmond,WA
+979,Webinar Choice,Webinar,Employer Relations,2015-02-01,University,Jacksonville,FL
+980,Career Fair Guess,Career Fair,SLU Alumni Association,2018-09-19,University,Colorado Springs,CO
+981,Hackathon Apply,Hackathon,Business School,2022-10-13,Employer,Raleigh,NC
+982,Hackathon Opportunity,Hackathon,Employer Relations,2018-04-06,University,Columbus,OH
+983,Seminar Away,Seminar,Business School,2020-05-13,Employer,San Jose,CA
+984,Webinar Page,Webinar,SLU Alumni Association,2025-04-14,University,Raleigh,NC
+985,Seminar Receive,Seminar,SLU Career Services,2024-08-08,University,Alpharetta,GA
+986,Workshop Growth,Workshop,Business School,2022-06-06,University,Durham,NC
+987,Workshop Sometimes,Workshop,Employer Relations,2024-11-12,Employer,Kansas City,MO
+988,Hackathon Serious,Hackathon,Computer Science Dept.,2024-01-21,Employer,Tucson,AZ
+989,Seminar Key,Seminar,External Employer,2025-11-25,Employer,Atlanta,GA
+990,Employer Info Session Son,Employer Info Session,SLU Career Services,2020-09-12,Employer,Harrisburg,PA
+991,Career Fair Single,Career Fair,SLU Alumni Association,2024-05-11,University,Cincinnati,OH
+992,Webinar There,Webinar,Employer Relations,2020-03-17,University,Somerville,MA
+993,Employer Info Session Miss,Employer Info Session,External Employer,2024-10-06,University,Worcester,MA
+994,Employer Info Session Everyone,Employer Info Session,External Employer,2016-04-19,University,Tempe,AZ
+995,Employer Info Session Term,Employer Info Session,Business School,2023-12-25,Employer,Plano,TX
+996,Seminar Issue,Seminar,SLU Career Services,2017-12-05,Employer,Fort Collins,CO
+997,Workshop School,Workshop,Employer Relations,2017-10-25,University,Tempe,AZ
+998,Webinar Surface,Webinar,SLU Alumni Association,2016-04-25,Employer,Tempe,AZ
+999,Workshop Describe,Workshop,Business School,2018-02-06,Employer,Albany,NY
+1000,Alumni Meetup Agreement,Alumni Meetup,SLU Alumni Association,2024-07-12,Employer,Savannah,GA

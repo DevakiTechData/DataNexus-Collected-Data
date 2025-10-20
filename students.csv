@@ -1,0 +1,1001 @@
+Student_ID,First_Name,Last_Name,SLU_Email,Program,Major,Enrollment_Year,Expected_Graduation_Year,Visa_Status,City,State,Country,Current_Employer_ID,Internship_Role,Internship_Start_Date
+1,Stacy,Forbes,stacy.forbes829@slu.edu,MBA,Business Analytics,2022,2024,STEM-OPT,Albany,NY,USA,,,
+2,Steven,Erickson,steven.erickson52@slu.edu,MS Data Science,Data Science,2021,2024,CPT,Denver,CO,USA,,,
+3,Grace,Owens,grace.owens800@slu.edu,MS Software Engineering,Marketing,2020,2022,CPT,Houston,TX,USA,,,
+4,Kelli,Sandoval,kelli.sandoval216@slu.edu,MS Computer Science,Computer Science,2024,2025,CPT,Phoenix,AZ,USA,,,
+5,Mark,Williams,mark.williams984@slu.edu,MS Software Engineering,Electrical Engineering,2021,2022,CPT,Phoenix,AZ,USA,531.0,Research Assistant,2021-02-10
+6,Henry,Weeks,henry.weeks542@slu.edu,MS Cybersecurity,Business Analytics,2023,2024,STEM-OPT,Plano,TX,USA,,,
+7,Anthony,House,anthony.house423@slu.edu,MS Computer Science,Marketing,2019,2022,F1,Alpharetta,GA,USA,396.0,QA Intern,2022-01-15
+8,James,Jones,james.jones768@slu.edu,MS Computer Science,Computer Science,2018,2020,OPT,Springfield,MO,USA,696.0,Research Assistant,2019-10-15
+9,Jonathan,Simmons,jonathan.simmons720@slu.edu,MS Data Science,Software Engineering,2022,2025,CPT,Boulder,CO,USA,263.0,QA Intern,2022-06-06
+10,Tanya,Perez,tanya.perez944@slu.edu,MS Information Systems,Computer Science,2020,2021,CPT,Atlanta,GA,USA,,,
+11,Isabella,Fitzpatrick,isabella.fitzpatrick122@slu.edu,MS Cybersecurity,Business Analytics,2021,2023,OPT,Tempe,AZ,USA,,,
+12,Mariah,Anderson,mariah.anderson528@slu.edu,MS Analytics,Business Analytics,2019,2021,CPT,Houston,TX,USA,,,
+13,Stephanie,Davies,stephanie.davies953@slu.edu,MS Analytics,Electrical Engineering,2021,2024,STEM-OPT,Rochester,NY,USA,,,
+14,Pamela,Smith,pamela.smith436@slu.edu,MS Analytics,Data Science,2024,2026,CPT,San Diego,CA,USA,,,
+15,Ann,Patterson,ann.patterson974@slu.edu,MS Computer Science,Marketing,2024,2026,OPT,Bellevue,WA,USA,,,
+16,Terry,Barnes,terry.barnes645@slu.edu,MS Information Systems,Business Analytics,2020,2021,CPT,Urbana,IL,USA,,,
+17,Alicia,Bell,alicia.bell195@slu.edu,MS Data Science,Computer Science,2020,2022,STEM-OPT,Boulder,CO,USA,325.0,Data Analyst Intern,2022-03-31
+18,Pamela,Gutierrez,pamela.gutierrez384@slu.edu,MS Software Engineering,Software Engineering,2022,2023,CPT,St. Louis,MO,USA,933.0,Software Intern,2022-02-25
+19,Robert,Shah,robert.shah936@slu.edu,MS Software Engineering,Finance,2024,2026,F1,Savannah,GA,USA,,,
+20,Ashley,Harris,ashley.harris431@slu.edu,MBA,Biostatistics,2022,2024,STEM-OPT,Scottsdale,AZ,USA,,,
+21,Jeffery,Spencer,jeffery.spencer195@slu.edu,MS Information Systems,Information Systems,2018,2019,CPT,New York,NY,USA,,,
+22,Karen,Hill,karen.hill705@slu.edu,MS Cybersecurity,Data Science,2024,2026,OPT,Cary,NC,USA,,,
+23,Ronnie,Lester,ronnie.lester761@slu.edu,MS Software Engineering,Data Science,2023,2025,OPT,Jacksonville,FL,USA,918.0,Data Analyst Intern,2025-01-07
+24,Antonio,Kramer,antonio.kramer834@slu.edu,MBA,Marketing,2022,2024,STEM-OPT,Somerville,MA,USA,,,
+25,Christine,Hall,christine.hall603@slu.edu,MS Analytics,Business Analytics,2023,2026,CPT,Jacksonville,FL,USA,,,
+26,Catherine,Johnson,catherine.johnson480@slu.edu,MBA,Electrical Engineering,2020,2021,OPT,Irvine,CA,USA,,,
+27,Michael,Chapman,michael.chapman85@slu.edu,MBA,Software Engineering,2019,2021,OPT,San Francisco,CA,USA,795.0,Data Analyst Intern,2019-02-09
+28,Marissa,Rose,marissa.rose493@slu.edu,MS Cybersecurity,Business Analytics,2024,2026,STEM-OPT,Philadelphia,PA,USA,,,
+29,Julie,Kennedy,julie.kennedy138@slu.edu,MS Data Science,Cybersecurity,2021,2023,CPT,Charlotte,NC,USA,659.0,Software Intern,2022-09-14
+30,Kimberly,Riley,kimberly.riley45@slu.edu,MS Information Systems,Business Analytics,2020,2021,CPT,Atlanta,GA,USA,56.0,Software Intern,2021-09-30
+31,Rebekah,Smith,rebekah.smith990@slu.edu,MS Software Engineering,Electrical Engineering,2020,2023,F1,Springfield,IL,USA,576.0,DevOps Intern,2022-03-27
+32,Jonathan,Boyd,jonathan.boyd951@slu.edu,MS Cybersecurity,Biostatistics,2021,2023,F1,Tacoma,WA,USA,,,
+33,Philip,Miller,philip.miller841@slu.edu,MS Data Science,Biostatistics,2021,2022,STEM-OPT,Columbia,MO,USA,,,
+34,Juan,Jennings,juan.jennings181@slu.edu,MS Data Science,Business Analytics,2021,2023,STEM-OPT,Cleveland,OH,USA,721.0,QA Intern,2022-05-03
+35,Anna,Shepard,anna.shepard808@slu.edu,MS Software Engineering,Marketing,2024,2025,CPT,Urbana,IL,USA,10.0,Research Assistant,2024-03-24
+36,Ryan,Kaiser,ryan.kaiser250@slu.edu,MS Software Engineering,Cybersecurity,2021,2022,F1,Phoenix,AZ,USA,,,
+37,Brandon,Patrick,brandon.patrick654@slu.edu,MS Computer Science,Data Science,2020,2022,OPT,Somerville,MA,USA,,,
+38,Nicole,May,nicole.may252@slu.edu,MS Information Systems,Electrical Engineering,2018,2021,CPT,Scottsdale,AZ,USA,,,
+39,Priscilla,Kennedy,priscilla.kennedy549@slu.edu,MBA,Biostatistics,2019,2022,OPT,Naperville,IL,USA,,,
+40,Deborah,Rios,deborah.rios676@slu.edu,MBA,Data Science,2021,2022,OPT,Pittsburgh,PA,USA,,,
+41,John,Roy,john.roy258@slu.edu,MS Data Science,Information Systems,2022,2023,STEM-OPT,Colorado Springs,CO,USA,,,
+42,Brittany,Tran,brittany.tran20@slu.edu,MS Software Engineering,Information Systems,2021,2022,F1,Clayton,MO,USA,,,
+43,Michael,Barnes,michael.barnes204@slu.edu,MS Cybersecurity,Marketing,2022,2024,F1,San Antonio,TX,USA,,,
+44,William,Perkins,william.perkins28@slu.edu,MS Information Systems,Computer Science,2019,2020,CPT,Columbia,MO,USA,,,
+45,Amanda,Walters,amanda.walters434@slu.edu,MBA,Software Engineering,2018,2021,STEM-OPT,Orlando,FL,USA,346.0,Data Analyst Intern,2019-03-07
+46,Elijah,James,elijah.james475@slu.edu,MS Analytics,Finance,2018,2019,OPT,Springfield,IL,USA,,,
+47,Teresa,Hughes,teresa.hughes393@slu.edu,MS Analytics,Computer Science,2020,2021,F1,Cincinnati,OH,USA,834.0,Research Assistant,2020-12-19
+48,Amber,Carpenter,amber.carpenter817@slu.edu,MS Computer Science,Electrical Engineering,2019,2020,CPT,Raleigh,NC,USA,,,
+49,David,Guerra,david.guerra639@slu.edu,MS Software Engineering,Marketing,2023,2026,STEM-OPT,Tacoma,WA,USA,,,
+50,Luke,Day,luke.day895@slu.edu,MS Software Engineering,Business Analytics,2021,2024,STEM-OPT,Redmond,WA,USA,,,
+51,Jessica,Olson,jessica.olson832@slu.edu,MS Information Systems,Business Analytics,2019,2021,STEM-OPT,Ann Arbor,MI,USA,150.0,QA Intern,2020-02-09
+52,Karen,Ballard,karen.ballard736@slu.edu,MS Software Engineering,Software Engineering,2022,2024,OPT,Atlanta,GA,USA,900.0,QA Intern,2022-01-09
+53,Melanie,Nash,melanie.nash352@slu.edu,MS Data Science,Data Science,2023,2026,STEM-OPT,Miami,FL,USA,,,
+54,Christine,Jones,christine.jones485@slu.edu,MS Information Systems,Marketing,2018,2019,STEM-OPT,Irvine,CA,USA,,,
+55,Jenna,Thomas,jenna.thomas517@slu.edu,MBA,Finance,2019,2022,CPT,Harrisburg,PA,USA,,,
+56,Larry,Palmer,larry.palmer875@slu.edu,MS Software Engineering,Finance,2023,2025,CPT,Rochester,NY,USA,756.0,DevOps Intern,2025-06-07
+57,Katie,Moore,katie.moore154@slu.edu,MBA,Data Science,2023,2026,CPT,Cambridge,MA,USA,,,
+58,Elizabeth,Barajas,elizabeth.barajas112@slu.edu,MS Data Science,Cybersecurity,2020,2022,OPT,Raleigh,NC,USA,,,
+59,Erin,Mccarthy,erin.mccarthy2@slu.edu,MS Software Engineering,Business Analytics,2019,2020,STEM-OPT,San Diego,CA,USA,,,
+60,Christina,Kelly,christina.kelly32@slu.edu,MS Information Systems,Data Science,2018,2020,STEM-OPT,Harrisburg,PA,USA,,,
+61,Richard,Moore,richard.moore820@slu.edu,MBA,Cybersecurity,2020,2021,OPT,San Jose,CA,USA,922.0,QA Intern,2021-11-02
+62,Jacqueline,Jenkins,jacqueline.jenkins187@slu.edu,MBA,Marketing,2021,2022,CPT,Philadelphia,PA,USA,,,
+63,William,Tanner,william.tanner841@slu.edu,MS Information Systems,Data Science,2020,2023,F1,Tacoma,WA,USA,,,
+64,Carol,Liu,carol.liu890@slu.edu,MS Information Systems,Computer Science,2024,2025,STEM-OPT,Cary,NC,USA,,,
+65,Brent,Gonzalez,brent.gonzalez503@slu.edu,MS Information Systems,Electrical Engineering,2018,2021,STEM-OPT,Cincinnati,OH,USA,275.0,QA Intern,2019-08-29
+66,Dana,Shaffer,dana.shaffer391@slu.edu,MS Software Engineering,Information Systems,2023,2025,STEM-OPT,Denver,CO,USA,,,
+67,Melissa,Mosley,melissa.mosley88@slu.edu,MS Computer Science,Business Analytics,2022,2025,CPT,Cambridge,MA,USA,978.0,Data Analyst Intern,2022-09-27
+68,Hannah,Hartman,hannah.hartman542@slu.edu,MBA,Software Engineering,2018,2021,STEM-OPT,St. Louis,MO,USA,,,
+69,Derek,King,derek.king657@slu.edu,MS Software Engineering,Information Systems,2019,2020,CPT,Raleigh,NC,USA,,,
+70,Karen,Allen,karen.allen732@slu.edu,MS Data Science,Marketing,2019,2022,STEM-OPT,Cary,NC,USA,,,
+71,Joy,Raymond,joy.raymond452@slu.edu,MS Analytics,Marketing,2021,2022,OPT,Los Angeles,CA,USA,,,
+72,Rachael,Barnes,rachael.barnes915@slu.edu,MBA,Information Systems,2022,2025,STEM-OPT,Buffalo,NY,USA,,,
+73,Lisa,Smith,lisa.smith332@slu.edu,MS Information Systems,Cybersecurity,2019,2022,OPT,Chesterfield,MO,USA,,,
+74,Tamara,Walls,tamara.walls838@slu.edu,MS Analytics,Business Analytics,2021,2023,STEM-OPT,Peoria,IL,USA,843.0,Research Assistant,2021-10-03
+75,Sara,George,sara.george331@slu.edu,MS Computer Science,Business Analytics,2022,2023,STEM-OPT,Redmond,WA,USA,,,
+76,Sarah,Yang,sarah.yang204@slu.edu,MBA,Business Analytics,2021,2023,OPT,Redmond,WA,USA,,,
+77,Kevin,Burns,kevin.burns397@slu.edu,MS Computer Science,Information Systems,2019,2021,F1,Miami,FL,USA,,,
+78,Timothy,Patterson,timothy.patterson426@slu.edu,MS Information Systems,Software Engineering,2019,2020,CPT,Tampa,FL,USA,,,
+79,Barbara,Morales,barbara.morales868@slu.edu,MS Analytics,Biostatistics,2024,2025,STEM-OPT,Somerville,MA,USA,,,
+80,Ashley,Murray,ashley.murray128@slu.edu,MBA,Cybersecurity,2021,2022,F1,Cary,NC,USA,,,
+81,Christian,Williams,christian.williams276@slu.edu,MS Cybersecurity,Business Analytics,2023,2025,F1,Savannah,GA,USA,,,
+82,Miranda,Best,miranda.best623@slu.edu,MS Software Engineering,Information Systems,2023,2024,STEM-OPT,Atlanta,GA,USA,,,
+83,Sarah,Flores,sarah.flores218@slu.edu,MS Analytics,Marketing,2024,2026,OPT,Cleveland,OH,USA,,,
+84,Michael,Black,michael.black145@slu.edu,MS Data Science,Electrical Engineering,2019,2022,OPT,Phoenix,AZ,USA,,,
+85,David,Wilkerson,david.wilkerson338@slu.edu,MS Software Engineering,Software Engineering,2018,2019,F1,Naperville,IL,USA,,,
+86,Alexandra,Hamilton,alexandra.hamilton882@slu.edu,MS Software Engineering,Information Systems,2019,2020,OPT,Rochester,NY,USA,115.0,Software Intern,2020-04-08
+87,Jamie,Liu,jamie.liu854@slu.edu,MBA,Marketing,2021,2024,F1,Savannah,GA,USA,,,
+88,Jennifer,Frazier,jennifer.frazier787@slu.edu,MS Computer Science,Data Science,2021,2022,OPT,San Jose,CA,USA,,,
+89,Jade,Reyes,jade.reyes59@slu.edu,MS Information Systems,Computer Science,2024,2025,F1,Cincinnati,OH,USA,,,
+90,Eric,Campos,eric.campos710@slu.edu,MS Information Systems,Data Science,2022,2023,STEM-OPT,Cleveland,OH,USA,739.0,Software Intern,2023-04-16
+91,Luis,Graham,luis.graham165@slu.edu,MS Data Science,Computer Science,2018,2019,F1,Durham,NC,USA,,,
+92,Randy,Mercado,randy.mercado68@slu.edu,MS Analytics,Electrical Engineering,2021,2024,CPT,Orlando,FL,USA,,,
+93,Joyce,Lawrence,joyce.lawrence72@slu.edu,MS Analytics,Computer Science,2022,2024,F1,Albany,NY,USA,,,
+94,Denise,Davis,denise.davis840@slu.edu,MS Computer Science,Business Analytics,2021,2023,STEM-OPT,Seattle,WA,USA,198.0,Data Analyst Intern,2023-07-07
+95,Anthony,Hill,anthony.hill489@slu.edu,MS Analytics,Biostatistics,2020,2023,OPT,Cambridge,MA,USA,,,
+96,Catherine,Joseph,catherine.joseph679@slu.edu,MS Analytics,Data Science,2023,2024,OPT,Pittsburgh,PA,USA,,,
+97,Michael,Payne,michael.payne271@slu.edu,MS Data Science,Computer Science,2024,2026,OPT,Columbus,OH,USA,,,
+98,Donald,Medina,donald.medina92@slu.edu,MS Analytics,Cybersecurity,2023,2026,STEM-OPT,Harrisburg,PA,USA,36.0,Software Intern,2025-11-20
+99,George,Gibson,george.gibson277@slu.edu,MS Software Engineering,Finance,2022,2023,OPT,Urbana,IL,USA,,,
+100,John,Downs,john.downs950@slu.edu,MS Information Systems,Business Analytics,2018,2021,OPT,Irvine,CA,USA,487.0,Research Assistant,2021-02-21
+101,Ryan,Young,ryan.young755@slu.edu,MS Cybersecurity,Software Engineering,2024,2025,OPT,Redmond,WA,USA,760.0,DevOps Intern,2024-08-07
+102,Danny,Reynolds,danny.reynolds964@slu.edu,MS Cybersecurity,Software Engineering,2024,2026,STEM-OPT,Durham,NC,USA,,,
+103,Tamara,Dawson,tamara.dawson476@slu.edu,MS Data Science,Data Science,2018,2019,CPT,Plano,TX,USA,742.0,Research Assistant,2019-01-13
+104,Joel,West,joel.west898@slu.edu,MS Information Systems,Finance,2024,2025,OPT,Raleigh,NC,USA,,,
+105,Steven,Williamson,steven.williamson580@slu.edu,MS Analytics,Software Engineering,2024,2026,F1,Tucson,AZ,USA,,,
+106,Deborah,Green,deborah.green870@slu.edu,MS Data Science,Computer Science,2022,2025,F1,Durham,NC,USA,,,
+107,Christopher,Haas,christopher.haas452@slu.edu,MS Analytics,Electrical Engineering,2018,2019,OPT,Raleigh,NC,USA,,,
+108,Jonathan,Phillips,jonathan.phillips952@slu.edu,MS Software Engineering,Business Analytics,2020,2023,CPT,Springfield,IL,USA,412.0,Research Assistant,2023-09-22
+109,Michael,Payne,michael.payne959@slu.edu,MS Data Science,Software Engineering,2022,2023,OPT,Orlando,FL,USA,,,
+110,Stephanie,Moore,stephanie.moore670@slu.edu,MS Software Engineering,Finance,2019,2020,CPT,Seattle,WA,USA,245.0,QA Intern,2019-07-21
+111,Nicole,Mclean,nicole.mclean627@slu.edu,MS Information Systems,Computer Science,2020,2022,CPT,Denver,CO,USA,,,
+112,Darren,Wilcox,darren.wilcox489@slu.edu,MS Cybersecurity,Computer Science,2018,2020,CPT,Tempe,AZ,USA,861.0,Software Intern,2020-10-25
+113,Brooke,Ochoa,brooke.ochoa444@slu.edu,MS Software Engineering,Finance,2018,2021,CPT,Columbia,MO,USA,,,
+114,John,Howell,john.howell556@slu.edu,MS Computer Science,Software Engineering,2018,2020,OPT,Cleveland,OH,USA,,,
+115,Sheila,Bell,sheila.bell590@slu.edu,MS Data Science,Business Analytics,2019,2022,F1,Cleveland,OH,USA,,,
+116,Charles,Gallegos,charles.gallegos640@slu.edu,MS Information Systems,Computer Science,2020,2021,CPT,Jacksonville,FL,USA,,,
+117,Scott,Palmer,scott.palmer156@slu.edu,MBA,Data Science,2018,2020,CPT,Cambridge,MA,USA,,,
+118,Kyle,Pineda,kyle.pineda622@slu.edu,MS Computer Science,Business Analytics,2021,2022,OPT,Cambridge,MA,USA,,,
+119,Donna,Gonzales,donna.gonzales757@slu.edu,MS Software Engineering,Business Analytics,2024,2027,STEM-OPT,Grand Rapids,MI,USA,,,
+120,Courtney,Baldwin,courtney.baldwin151@slu.edu,MS Information Systems,Information Systems,2024,2026,F1,Cary,NC,USA,,,
+121,Joshua,Evans,joshua.evans250@slu.edu,MS Computer Science,Cybersecurity,2024,2026,STEM-OPT,Pittsburgh,PA,USA,,,
+122,Michael,Swanson,michael.swanson9@slu.edu,MS Information Systems,Biostatistics,2018,2019,STEM-OPT,Boston,MA,USA,,,
+123,David,Doyle,david.doyle791@slu.edu,MS Analytics,Data Science,2022,2024,F1,Cambridge,MA,USA,,,
+124,Jesse,Lopez,jesse.lopez625@slu.edu,MS Cybersecurity,Marketing,2024,2025,STEM-OPT,Springfield,MO,USA,,,
+125,Benjamin,Gilbert,benjamin.gilbert302@slu.edu,MS Computer Science,Electrical Engineering,2024,2025,CPT,Cleveland,OH,USA,,,
+126,Natalie,Castillo,natalie.castillo126@slu.edu,MS Data Science,Data Science,2021,2024,OPT,San Jose,CA,USA,,,
+127,Abigail,Medina,abigail.medina503@slu.edu,MS Cybersecurity,Software Engineering,2020,2023,CPT,Philadelphia,PA,USA,501.0,Research Assistant,2021-07-26
+128,Ruben,Kemp,ruben.kemp351@slu.edu,MBA,Computer Science,2024,2025,F1,San Antonio,TX,USA,,,
+129,Mark,Smith,mark.smith948@slu.edu,MS Software Engineering,Business Analytics,2020,2021,OPT,Colorado Springs,CO,USA,,,
+130,Elizabeth,Perez,elizabeth.perez370@slu.edu,MS Cybersecurity,Computer Science,2023,2026,F1,Scottsdale,AZ,USA,,,
+131,Kelsey,Watkins,kelsey.watkins175@slu.edu,MS Information Systems,Biostatistics,2021,2022,STEM-OPT,Cary,NC,USA,,,
+132,Todd,Carey,todd.carey83@slu.edu,MS Analytics,Marketing,2021,2024,F1,San Antonio,TX,USA,42.0,QA Intern,2024-12-21
+133,Sheila,Brewer,sheila.brewer815@slu.edu,MS Analytics,Electrical Engineering,2024,2025,STEM-OPT,Raleigh,NC,USA,,,
+134,Emily,Davis,emily.davis680@slu.edu,MS Cybersecurity,Biostatistics,2018,2020,OPT,Austin,TX,USA,,,
+135,Desiree,Harrison,desiree.harrison86@slu.edu,MS Data Science,Computer Science,2019,2022,OPT,Los Angeles,CA,USA,,,
+136,Nicholas,Smith,nicholas.smith901@slu.edu,MS Analytics,Biostatistics,2021,2024,STEM-OPT,Springfield,IL,USA,,,
+137,Erika,Ferrell,erika.ferrell90@slu.edu,MS Software Engineering,Business Analytics,2022,2024,F1,Bellevue,WA,USA,,,
+138,Melissa,Graves,melissa.graves128@slu.edu,MBA,Information Systems,2024,2027,OPT,Alpharetta,GA,USA,973.0,QA Intern,2027-03-23
+139,Steven,Harris,steven.harris566@slu.edu,MS Computer Science,Electrical Engineering,2024,2026,OPT,Denver,CO,USA,,,
+140,Debbie,Blackwell,debbie.blackwell913@slu.edu,MS Cybersecurity,Marketing,2023,2026,F1,San Diego,CA,USA,221.0,Research Assistant,2025-04-17
+141,Larry,Smith,larry.smith378@slu.edu,MS Cybersecurity,Finance,2018,2020,OPT,Kansas City,MO,USA,971.0,DevOps Intern,2020-07-22
+142,Christopher,Rodriguez,christopher.rodriguez535@slu.edu,MS Data Science,Cybersecurity,2019,2021,OPT,Columbus,OH,USA,,,
+143,Mary,Ramos,mary.ramos212@slu.edu,MS Analytics,Marketing,2024,2025,CPT,San Francisco,CA,USA,,,
+144,Anna,Kerr,anna.kerr218@slu.edu,MS Software Engineering,Business Analytics,2022,2025,STEM-OPT,Fort Collins,CO,USA,,,
+145,Craig,Curtis,craig.curtis272@slu.edu,MS Cybersecurity,Finance,2023,2025,STEM-OPT,Cincinnati,OH,USA,,,
+146,Erica,Perez,erica.perez623@slu.edu,MS Software Engineering,Information Systems,2018,2021,STEM-OPT,Springfield,IL,USA,414.0,QA Intern,2019-10-04
+147,Todd,Kelley,todd.kelley709@slu.edu,MS Information Systems,Finance,2019,2022,F1,Seattle,WA,USA,,,
+148,Valerie,Smith,valerie.smith833@slu.edu,MS Software Engineering,Data Science,2019,2022,STEM-OPT,Naperville,IL,USA,157.0,Research Assistant,2022-09-10
+149,Lori,Hardy,lori.hardy207@slu.edu,MS Analytics,Marketing,2023,2026,F1,Urbana,IL,USA,,,
+150,Pamela,Sloan,pamela.sloan75@slu.edu,MBA,Information Systems,2019,2021,STEM-OPT,Charlotte,NC,USA,,,
+151,Kathy,Jackson,kathy.jackson753@slu.edu,MS Data Science,Finance,2023,2026,STEM-OPT,Columbus,OH,USA,,,
+152,Mary,Johnson,mary.johnson296@slu.edu,MS Computer Science,Computer Science,2022,2024,STEM-OPT,Worcester,MA,USA,,,
+153,Ralph,Lowe,ralph.lowe183@slu.edu,MS Data Science,Marketing,2024,2025,CPT,Orlando,FL,USA,,,
+154,Emily,Clark,emily.clark471@slu.edu,MS Analytics,Data Science,2020,2022,STEM-OPT,Scottsdale,AZ,USA,,,
+155,Charles,Grant,charles.grant163@slu.edu,MS Computer Science,Business Analytics,2018,2021,OPT,Tampa,FL,USA,,,
+156,Patricia,Vargas,patricia.vargas204@slu.edu,MS Information Systems,Biostatistics,2022,2023,CPT,Scottsdale,AZ,USA,,,
+157,Jeffrey,Snyder,jeffrey.snyder484@slu.edu,MS Information Systems,Information Systems,2021,2023,CPT,White Plains,NY,USA,,,
+158,Timothy,Vargas,timothy.vargas607@slu.edu,MS Information Systems,Computer Science,2018,2019,F1,Houston,TX,USA,33.0,Research Assistant,2018-12-05
+159,Catherine,Rodgers,catherine.rodgers853@slu.edu,MS Software Engineering,Biostatistics,2021,2022,CPT,Grand Rapids,MI,USA,,,
+160,Brian,Harper,brian.harper193@slu.edu,MS Information Systems,Information Systems,2023,2025,CPT,Jacksonville,FL,USA,478.0,Software Intern,2025-09-22
+161,Donna,Robertson,donna.robertson971@slu.edu,MS Computer Science,Software Engineering,2022,2023,STEM-OPT,Tampa,FL,USA,35.0,QA Intern,2023-03-12
+162,James,Young,james.young430@slu.edu,MS Computer Science,Electrical Engineering,2019,2020,F1,San Antonio,TX,USA,,,
+163,Donna,Hall,donna.hall210@slu.edu,MS Information Systems,Software Engineering,2020,2022,F1,Harrisburg,PA,USA,,,
+164,Penny,White,penny.white344@slu.edu,MBA,Data Science,2024,2027,OPT,Philadelphia,PA,USA,,,
+165,Gabriel,Phillips,gabriel.phillips960@slu.edu,MS Information Systems,Information Systems,2019,2022,CPT,Boston,MA,USA,170.0,QA Intern,2019-06-25
+166,Ryan,Brown,ryan.brown571@slu.edu,MS Information Systems,Data Science,2023,2024,CPT,Bellevue,WA,USA,,,
+167,Charles,Brown,charles.brown471@slu.edu,MS Information Systems,Computer Science,2024,2025,OPT,Jacksonville,FL,USA,938.0,DevOps Intern,2025-04-04
+168,Heather,Howard,heather.howard60@slu.edu,MS Analytics,Finance,2019,2021,OPT,Albany,NY,USA,984.0,DevOps Intern,2019-10-31
+169,Adam,Whitney,adam.whitney942@slu.edu,MS Software Engineering,Software Engineering,2021,2023,STEM-OPT,Detroit,MI,USA,,,
+170,Jeffery,Davis,jeffery.davis905@slu.edu,MS Data Science,Finance,2021,2023,CPT,Los Angeles,CA,USA,,,
+171,Bruce,Clements,bruce.clements905@slu.edu,MS Software Engineering,Data Science,2019,2022,CPT,Detroit,MI,USA,,,
+172,Tina,Parker,tina.parker841@slu.edu,MS Analytics,Electrical Engineering,2021,2023,F1,Orlando,FL,USA,,,
+173,Matthew,Martin,matthew.martin838@slu.edu,MS Cybersecurity,Computer Science,2022,2024,CPT,Bellevue,WA,USA,,,
+174,Dennis,Harrell,dennis.harrell736@slu.edu,MS Computer Science,Data Science,2018,2021,OPT,Boulder,CO,USA,,,
+175,Oscar,Pham,oscar.pham660@slu.edu,MS Computer Science,Biostatistics,2018,2020,CPT,Jacksonville,FL,USA,481.0,Software Intern,2019-04-20
+176,Samuel,Vargas,samuel.vargas49@slu.edu,MBA,Biostatistics,2022,2023,OPT,White Plains,NY,USA,,,
+177,Sydney,Parsons,sydney.parsons425@slu.edu,MS Information Systems,Software Engineering,2019,2021,STEM-OPT,Detroit,MI,USA,840.0,Data Analyst Intern,2021-08-19
+178,Douglas,Nguyen,douglas.nguyen530@slu.edu,MS Computer Science,Finance,2020,2022,STEM-OPT,Clayton,MO,USA,50.0,Research Assistant,2020-07-13
+179,Benjamin,Olson,benjamin.olson945@slu.edu,MS Software Engineering,Business Analytics,2022,2023,STEM-OPT,Colorado Springs,CO,USA,461.0,Software Intern,2023-01-08
+180,Christine,Yoder,christine.yoder9@slu.edu,MS Information Systems,Data Science,2019,2020,STEM-OPT,Buffalo,NY,USA,857.0,QA Intern,2020-01-17
+181,David,Hayes,david.hayes149@slu.edu,MS Data Science,Software Engineering,2020,2022,F1,Chicago,IL,USA,,,
+182,Dawn,Randall,dawn.randall595@slu.edu,MBA,Business Analytics,2020,2023,OPT,Orlando,FL,USA,,,
+183,David,French,david.french248@slu.edu,MS Software Engineering,Business Analytics,2023,2025,F1,Cambridge,MA,USA,,,
+184,Cynthia,Wilson,cynthia.wilson811@slu.edu,MBA,Data Science,2021,2022,F1,Ann Arbor,MI,USA,247.0,QA Intern,2022-10-28
+185,Marc,Vasquez,marc.vasquez363@slu.edu,MS Analytics,Cybersecurity,2022,2023,CPT,Harrisburg,PA,USA,690.0,Software Intern,2022-09-29
+186,Andrew,Shaw,andrew.shaw137@slu.edu,MS Computer Science,Business Analytics,2018,2019,OPT,San Antonio,TX,USA,372.0,Data Analyst Intern,2019-06-30
+187,Matthew,Johnson,matthew.johnson414@slu.edu,MS Software Engineering,Information Systems,2024,2027,CPT,Tampa,FL,USA,,,
+188,Christina,Murphy,christina.murphy388@slu.edu,MS Data Science,Finance,2021,2023,CPT,Atlanta,GA,USA,,,
+189,Heidi,Turner,heidi.turner432@slu.edu,MS Software Engineering,Software Engineering,2024,2025,STEM-OPT,Miami,FL,USA,483.0,DevOps Intern,2024-01-04
+190,Anthony,King,anthony.king232@slu.edu,MS Information Systems,Computer Science,2018,2021,CPT,Harrisburg,PA,USA,52.0,Software Intern,2020-01-07
+191,Chase,Barr,chase.barr645@slu.edu,MS Analytics,Computer Science,2023,2024,STEM-OPT,Cambridge,MA,USA,,,
+192,Christopher,Richardson,christopher.richardson465@slu.edu,MS Analytics,Electrical Engineering,2021,2024,CPT,Plano,TX,USA,707.0,DevOps Intern,2021-07-22
+193,Alison,Nelson,alison.nelson328@slu.edu,MS Information Systems,Information Systems,2019,2021,STEM-OPT,Charlotte,NC,USA,900.0,Data Analyst Intern,2020-10-23
+194,Melissa,White,melissa.white599@slu.edu,MS Information Systems,Information Systems,2023,2025,F1,Dallas,TX,USA,,,
+195,Mark,Miller,mark.miller715@slu.edu,MS Computer Science,Computer Science,2022,2024,STEM-OPT,Urbana,IL,USA,855.0,Research Assistant,2023-05-04
+196,Jason,Phillips,jason.phillips378@slu.edu,MS Data Science,Finance,2023,2025,OPT,Cambridge,MA,USA,974.0,Data Analyst Intern,2024-02-27
+197,Tony,Anthony,tony.anthony233@slu.edu,MS Computer Science,Electrical Engineering,2020,2023,F1,Tempe,AZ,USA,,,
+198,Sean,Reynolds,sean.reynolds320@slu.edu,MS Software Engineering,Data Science,2023,2025,F1,Scottsdale,AZ,USA,,,
+199,Michael,Walls,michael.walls139@slu.edu,MS Software Engineering,Biostatistics,2018,2020,STEM-OPT,Scottsdale,AZ,USA,102.0,Data Analyst Intern,2018-07-09
+200,Samuel,Marquez,samuel.marquez871@slu.edu,MS Computer Science,Business Analytics,2024,2025,CPT,Tempe,AZ,USA,210.0,Data Analyst Intern,2024-08-17
+201,Steven,Villarreal,steven.villarreal350@slu.edu,MS Computer Science,Cybersecurity,2018,2020,STEM-OPT,Cambridge,MA,USA,,,
+202,Kimberly,Johnson,kimberly.johnson619@slu.edu,MS Data Science,Marketing,2019,2022,F1,Savannah,GA,USA,,,
+203,Sheila,Cooper,sheila.cooper982@slu.edu,MS Cybersecurity,Electrical Engineering,2018,2019,OPT,Tucson,AZ,USA,835.0,DevOps Intern,2018-10-21
+204,Donna,Mitchell,donna.mitchell615@slu.edu,MS Cybersecurity,Biostatistics,2021,2023,OPT,Colorado Springs,CO,USA,,,
+205,Miguel,Pacheco,miguel.pacheco119@slu.edu,MS Cybersecurity,Software Engineering,2022,2025,OPT,San Jose,CA,USA,,,
+206,Ashley,Mcfarland,ashley.mcfarland553@slu.edu,MS Analytics,Finance,2018,2021,OPT,Colorado Springs,CO,USA,680.0,Software Intern,2021-01-25
+207,Leah,Fisher,leah.fisher496@slu.edu,MS Software Engineering,Marketing,2021,2022,STEM-OPT,Atlanta,GA,USA,851.0,Software Intern,2021-02-18
+208,Zachary,Perez,zachary.perez560@slu.edu,MS Computer Science,Software Engineering,2023,2026,OPT,Atlanta,GA,USA,,,
+209,Daniel,Lewis,daniel.lewis834@slu.edu,MBA,Marketing,2019,2022,CPT,San Antonio,TX,USA,,,
+210,Jonathan,Deleon,jonathan.deleon74@slu.edu,MBA,Data Science,2019,2020,STEM-OPT,Dallas,TX,USA,,,
+211,Cory,Bowman,cory.bowman496@slu.edu,MS Analytics,Marketing,2022,2023,OPT,Tampa,FL,USA,100.0,Software Intern,2022-03-24
+212,Jennifer,Blackwell,jennifer.blackwell597@slu.edu,MS Information Systems,Cybersecurity,2024,2026,OPT,Phoenix,AZ,USA,546.0,Research Assistant,2024-04-27
+213,Eric,Mitchell,eric.mitchell859@slu.edu,MS Computer Science,Electrical Engineering,2018,2021,CPT,Philadelphia,PA,USA,,,
+214,Zachary,Torres,zachary.torres712@slu.edu,MS Computer Science,Computer Science,2018,2021,STEM-OPT,Tempe,AZ,USA,370.0,Research Assistant,2021-06-01
+215,Joshua,Lam,joshua.lam377@slu.edu,MS Cybersecurity,Business Analytics,2022,2024,OPT,Pittsburgh,PA,USA,,,
+216,Brittany,Evans,brittany.evans665@slu.edu,MS Computer Science,Software Engineering,2022,2025,OPT,Savannah,GA,USA,,,
+217,Kelly,Gray,kelly.gray76@slu.edu,MS Computer Science,Marketing,2018,2020,OPT,Columbus,OH,USA,992.0,Research Assistant,2020-06-19
+218,Christina,Gutierrez,christina.gutierrez10@slu.edu,MS Information Systems,Marketing,2021,2022,OPT,Miami,FL,USA,,,
+219,Michael,Vaughn,michael.vaughn633@slu.edu,MS Computer Science,Electrical Engineering,2023,2025,OPT,San Jose,CA,USA,,,
+220,Sarah,Gallagher,sarah.gallagher538@slu.edu,MBA,Computer Science,2023,2024,F1,Albany,NY,USA,,,
+221,Tracy,Hanson,tracy.hanson525@slu.edu,MS Cybersecurity,Electrical Engineering,2022,2025,F1,Grand Rapids,MI,USA,353.0,Data Analyst Intern,2025-09-30
+222,Matthew,Crosby,matthew.crosby558@slu.edu,MS Cybersecurity,Finance,2018,2019,F1,Grand Rapids,MI,USA,,,
+223,Theresa,Lewis,theresa.lewis764@slu.edu,MS Cybersecurity,Computer Science,2022,2024,STEM-OPT,Boulder,CO,USA,,,
+224,Anthony,Washington,anthony.washington127@slu.edu,MS Computer Science,Marketing,2019,2020,CPT,Rochester,NY,USA,701.0,Software Intern,2020-12-19
+225,Kayla,Scott,kayla.scott18@slu.edu,MBA,Cybersecurity,2020,2023,F1,San Francisco,CA,USA,,,
+226,Edward,Reid,edward.reid781@slu.edu,MS Data Science,Cybersecurity,2024,2027,STEM-OPT,Bellevue,WA,USA,306.0,Research Assistant,2027-12-01
+227,Gary,Molina,gary.molina561@slu.edu,MBA,Finance,2021,2023,CPT,Naperville,IL,USA,66.0,Data Analyst Intern,2021-01-28
+228,Chloe,Pittman,chloe.pittman587@slu.edu,MS Information Systems,Finance,2019,2022,CPT,Grand Rapids,MI,USA,,,
+229,Erica,Molina,erica.molina663@slu.edu,MBA,Marketing,2021,2023,CPT,Buffalo,NY,USA,,,
+230,Gabriel,Sullivan,gabriel.sullivan511@slu.edu,MS Analytics,Computer Science,2020,2022,STEM-OPT,Columbia,MO,USA,764.0,Software Intern,2020-12-01
+231,James,Hayes,james.hayes70@slu.edu,MS Information Systems,Information Systems,2020,2022,CPT,Boulder,CO,USA,655.0,Software Intern,2022-05-23
+232,Victoria,Jacobson,victoria.jacobson936@slu.edu,MS Analytics,Finance,2024,2025,CPT,Alpharetta,GA,USA,312.0,QA Intern,2025-03-17
+233,Jennifer,Hines,jennifer.hines24@slu.edu,MS Analytics,Information Systems,2020,2023,F1,Dallas,TX,USA,,,
+234,Bruce,Williams,bruce.williams599@slu.edu,MS Analytics,Data Science,2023,2024,OPT,San Francisco,CA,USA,728.0,Research Assistant,2024-11-28
+235,Ryan,Hughes,ryan.hughes250@slu.edu,MBA,Marketing,2019,2020,OPT,Charlotte,NC,USA,684.0,Data Analyst Intern,2020-06-03
+236,Jessica,King,jessica.king549@slu.edu,MS Cybersecurity,Computer Science,2024,2025,CPT,Colorado Springs,CO,USA,,,
+237,Sabrina,Little,sabrina.little953@slu.edu,MS Analytics,Business Analytics,2022,2023,F1,Denver,CO,USA,,,
+238,Cory,Scott,cory.scott576@slu.edu,MS Analytics,Finance,2021,2022,F1,Bellevue,WA,USA,,,
+239,Jennifer,Edwards,jennifer.edwards298@slu.edu,MS Data Science,Information Systems,2024,2025,STEM-OPT,Boston,MA,USA,,,
+240,Jasmine,Kirk,jasmine.kirk157@slu.edu,MS Information Systems,Data Science,2020,2022,F1,Chicago,IL,USA,621.0,Software Intern,2020-12-28
+241,Susan,Escobar,susan.escobar549@slu.edu,MS Analytics,Finance,2021,2024,STEM-OPT,Buffalo,NY,USA,,,
+242,David,Fitzgerald,david.fitzgerald237@slu.edu,MS Cybersecurity,Software Engineering,2018,2021,CPT,Colorado Springs,CO,USA,387.0,QA Intern,2019-10-14
+243,Corey,Graves,corey.graves947@slu.edu,MS Information Systems,Data Science,2018,2019,F1,Seattle,WA,USA,,,
+244,Martha,Moss,martha.moss628@slu.edu,MS Software Engineering,Information Systems,2021,2022,CPT,New York,NY,USA,,,
+245,Joe,Contreras,joe.contreras12@slu.edu,MBA,Computer Science,2021,2022,STEM-OPT,Scottsdale,AZ,USA,512.0,Data Analyst Intern,2021-09-16
+246,David,Robinson,david.robinson401@slu.edu,MS Computer Science,Data Science,2023,2026,F1,Tampa,FL,USA,287.0,Data Analyst Intern,2025-11-27
+247,Ana,Graham,ana.graham97@slu.edu,MBA,Marketing,2019,2020,CPT,Tacoma,WA,USA,,,
+248,Allison,Bruce,allison.bruce824@slu.edu,MS Analytics,Marketing,2022,2024,F1,Albany,NY,USA,,,
+249,John,Campos,john.campos464@slu.edu,MS Analytics,Electrical Engineering,2023,2024,F1,Ann Arbor,MI,USA,,,
+250,Jessica,Miller,jessica.miller594@slu.edu,MS Data Science,Business Analytics,2021,2024,CPT,Jacksonville,FL,USA,,,
+251,Logan,Harris,logan.harris77@slu.edu,MS Cybersecurity,Computer Science,2020,2023,CPT,Fort Collins,CO,USA,970.0,DevOps Intern,2022-05-13
+252,John,Gomez,john.gomez926@slu.edu,MBA,Information Systems,2023,2026,F1,Raleigh,NC,USA,721.0,QA Intern,2024-06-08
+253,Alicia,Smith,alicia.smith29@slu.edu,MS Cybersecurity,Software Engineering,2018,2020,STEM-OPT,Colorado Springs,CO,USA,,,
+254,Miguel,Cole,miguel.cole225@slu.edu,MS Analytics,Software Engineering,2021,2023,OPT,Raleigh,NC,USA,372.0,Data Analyst Intern,2023-09-04
+255,Brittany,Johnson,brittany.johnson811@slu.edu,MBA,Electrical Engineering,2021,2022,F1,Alpharetta,GA,USA,,,
+256,Marvin,Waters,marvin.waters550@slu.edu,MS Information Systems,Marketing,2019,2020,F1,Urbana,IL,USA,,,
+257,Kim,Brown,kim.brown687@slu.edu,MS Analytics,Marketing,2021,2022,STEM-OPT,Tacoma,WA,USA,,,
+258,Natalie,Callahan,natalie.callahan635@slu.edu,MS Information Systems,Cybersecurity,2023,2026,CPT,Tempe,AZ,USA,,,
+259,Amanda,Randolph,amanda.randolph134@slu.edu,MS Computer Science,Data Science,2021,2024,CPT,Fort Collins,CO,USA,,,
+260,John,Wilkinson,john.wilkinson83@slu.edu,MS Data Science,Software Engineering,2024,2026,STEM-OPT,Urbana,IL,USA,,,
+261,Craig,Evans,craig.evans943@slu.edu,MS Computer Science,Electrical Engineering,2019,2020,CPT,San Francisco,CA,USA,,,
+262,Denise,Hampton,denise.hampton66@slu.edu,MS Cybersecurity,Computer Science,2018,2021,STEM-OPT,Redmond,WA,USA,,,
+263,Nancy,Rodriguez,nancy.rodriguez876@slu.edu,MS Analytics,Electrical Engineering,2020,2021,OPT,Columbus,OH,USA,,,
+264,Allison,Johns,allison.johns288@slu.edu,MS Software Engineering,Cybersecurity,2020,2022,OPT,Charlotte,NC,USA,,,
+265,Peter,Barber,peter.barber556@slu.edu,MS Information Systems,Biostatistics,2023,2024,OPT,Columbus,OH,USA,,,
+266,Stacey,Ayala,stacey.ayala640@slu.edu,MBA,Finance,2021,2022,OPT,Tacoma,WA,USA,,,
+267,Jeffrey,Sullivan,jeffrey.sullivan283@slu.edu,MS Analytics,Marketing,2020,2022,F1,Tucson,AZ,USA,,,
+268,Eric,Cordova,eric.cordova596@slu.edu,MS Information Systems,Cybersecurity,2020,2023,CPT,Savannah,GA,USA,,,
+269,Joseph,Long,joseph.long198@slu.edu,MS Cybersecurity,Computer Science,2020,2023,OPT,Denver,CO,USA,,,
+270,Andrew,Dean,andrew.dean356@slu.edu,MS Information Systems,Data Science,2023,2026,CPT,Redmond,WA,USA,493.0,Data Analyst Intern,2024-06-21
+271,Barry,Keller,barry.keller58@slu.edu,MS Analytics,Finance,2018,2020,OPT,Dallas,TX,USA,,,
+272,Tamara,Torres,tamara.torres453@slu.edu,MS Cybersecurity,Biostatistics,2022,2025,STEM-OPT,Chesterfield,MO,USA,,,
+273,Shawn,Daniel,shawn.daniel674@slu.edu,MS Analytics,Data Science,2019,2021,F1,Cincinnati,OH,USA,,,
+274,Patricia,Gordon,patricia.gordon785@slu.edu,MS Cybersecurity,Software Engineering,2022,2025,F1,Grand Rapids,MI,USA,,,
+275,Angel,Mccall,angel.mccall144@slu.edu,MS Information Systems,Cybersecurity,2023,2024,STEM-OPT,Colorado Springs,CO,USA,,,
+276,Jerry,Grant,jerry.grant641@slu.edu,MS Cybersecurity,Computer Science,2021,2022,OPT,Austin,TX,USA,,,
+277,Emily,Lopez,emily.lopez93@slu.edu,MS Computer Science,Information Systems,2024,2027,STEM-OPT,Colorado Springs,CO,USA,,,
+278,Steven,Houston,steven.houston525@slu.edu,MBA,Electrical Engineering,2020,2023,OPT,Philadelphia,PA,USA,,,
+279,Deborah,Garcia,deborah.garcia968@slu.edu,MS Analytics,Computer Science,2021,2024,F1,Clayton,MO,USA,,,
+280,Thomas,Owens,thomas.owens303@slu.edu,MS Software Engineering,Biostatistics,2023,2026,OPT,Durham,NC,USA,,,
+281,Victoria,Crosby,victoria.crosby947@slu.edu,MS Analytics,Information Systems,2018,2020,F1,Detroit,MI,USA,,,
+282,Katherine,Ward,katherine.ward508@slu.edu,MS Software Engineering,Information Systems,2018,2019,STEM-OPT,Cary,NC,USA,,,
+283,Joy,Perez,joy.perez552@slu.edu,MS Cybersecurity,Data Science,2024,2026,STEM-OPT,Boston,MA,USA,392.0,Research Assistant,2025-04-16
+284,Robert,Todd,robert.todd700@slu.edu,MS Computer Science,Software Engineering,2018,2021,CPT,Ann Arbor,MI,USA,,,
+285,Amy,Warner,amy.warner990@slu.edu,MS Data Science,Finance,2020,2023,OPT,Atlanta,GA,USA,,,
+286,Sydney,Mccormick,sydney.mccormick279@slu.edu,MS Cybersecurity,Biostatistics,2021,2023,OPT,Durham,NC,USA,,,
+287,George,Garza,george.garza73@slu.edu,MS Cybersecurity,Information Systems,2021,2023,CPT,Clayton,MO,USA,,,
+288,Keith,Tucker,keith.tucker219@slu.edu,MS Software Engineering,Finance,2018,2019,OPT,Alpharetta,GA,USA,,,
+289,Mario,Hunter,mario.hunter510@slu.edu,MS Cybersecurity,Finance,2022,2025,STEM-OPT,San Jose,CA,USA,563.0,QA Intern,2025-06-28
+290,Maria,Santos,maria.santos618@slu.edu,MS Data Science,Marketing,2024,2026,STEM-OPT,Fort Collins,CO,USA,,,
+291,Randy,Hernandez,randy.hernandez974@slu.edu,MS Computer Science,Data Science,2024,2027,F1,Springfield,IL,USA,,,
+292,Patrick,Salas,patrick.salas785@slu.edu,MS Information Systems,Computer Science,2019,2020,F1,Rochester,NY,USA,614.0,Research Assistant,2020-12-25
+293,Lance,Roberts,lance.roberts846@slu.edu,MS Software Engineering,Cybersecurity,2021,2024,CPT,Alpharetta,GA,USA,367.0,Data Analyst Intern,2023-04-05
+294,Stacy,Wilson,stacy.wilson253@slu.edu,MS Cybersecurity,Data Science,2024,2026,CPT,Peoria,IL,USA,260.0,Software Intern,2026-08-12
+295,Yvette,Crawford,yvette.crawford766@slu.edu,MBA,Marketing,2020,2021,CPT,Colorado Springs,CO,USA,,,
+296,Nicholas,Kim,nicholas.kim652@slu.edu,MS Analytics,Cybersecurity,2020,2021,STEM-OPT,Denver,CO,USA,,,
+297,David,Martin,david.martin113@slu.edu,MBA,Cybersecurity,2020,2021,CPT,Irvine,CA,USA,,,
+298,Mary,Conner,mary.conner200@slu.edu,MS Data Science,Cybersecurity,2023,2025,OPT,Austin,TX,USA,,,
+299,Julia,Wilson,julia.wilson856@slu.edu,MS Data Science,Data Science,2023,2026,STEM-OPT,Miami,FL,USA,,,
+300,Jose,Mckee,jose.mckee704@slu.edu,MS Analytics,Electrical Engineering,2019,2020,OPT,Peoria,IL,USA,622.0,Research Assistant,2019-02-12
+301,Alexa,Simmons,alexa.simmons545@slu.edu,MS Software Engineering,Data Science,2024,2027,CPT,Los Angeles,CA,USA,385.0,Software Intern,2025-06-02
+302,Todd,Collins,todd.collins394@slu.edu,MS Software Engineering,Finance,2018,2021,CPT,Columbus,OH,USA,,,
+303,Joseph,Duarte,joseph.duarte270@slu.edu,MS Data Science,Cybersecurity,2019,2020,CPT,Fort Collins,CO,USA,,,
+304,Jeremy,Edwards,jeremy.edwards895@slu.edu,MS Software Engineering,Marketing,2022,2024,OPT,Orlando,FL,USA,547.0,QA Intern,2023-09-17
+305,William,Shepherd,william.shepherd444@slu.edu,MS Cybersecurity,Finance,2023,2024,F1,Raleigh,NC,USA,,,
+306,Curtis,King,curtis.king644@slu.edu,MS Software Engineering,Electrical Engineering,2021,2022,STEM-OPT,Dallas,TX,USA,,,
+307,Albert,Mckenzie,albert.mckenzie402@slu.edu,MS Cybersecurity,Marketing,2024,2026,OPT,Seattle,WA,USA,,,
+308,Thomas,Randall,thomas.randall547@slu.edu,MS Computer Science,Finance,2022,2023,STEM-OPT,San Diego,CA,USA,,,
+309,James,Harris,james.harris87@slu.edu,MS Cybersecurity,Data Science,2020,2022,STEM-OPT,Tampa,FL,USA,,,
+310,Kayla,Smith,kayla.smith268@slu.edu,MS Software Engineering,Business Analytics,2019,2022,F1,Miami,FL,USA,,,
+311,Debra,Dudley,debra.dudley149@slu.edu,MS Computer Science,Software Engineering,2018,2019,F1,San Diego,CA,USA,,,
+312,Jordan,Wallace,jordan.wallace802@slu.edu,MS Cybersecurity,Computer Science,2021,2024,F1,Springfield,IL,USA,910.0,Software Intern,2024-11-06
+313,Maria,Parrish,maria.parrish794@slu.edu,MS Software Engineering,Business Analytics,2018,2021,CPT,Savannah,GA,USA,879.0,DevOps Intern,2019-05-24
+314,Janice,Parker,janice.parker779@slu.edu,MS Information Systems,Cybersecurity,2021,2023,OPT,Irvine,CA,USA,,,
+315,Patricia,Rodgers,patricia.rodgers375@slu.edu,MS Computer Science,Cybersecurity,2024,2026,STEM-OPT,Denver,CO,USA,,,
+316,Catherine,Watson,catherine.watson461@slu.edu,MS Data Science,Data Science,2024,2025,STEM-OPT,Durham,NC,USA,,,
+317,Anthony,Douglas,anthony.douglas51@slu.edu,MS Information Systems,Electrical Engineering,2018,2021,CPT,Albany,NY,USA,,,
+318,Donna,Brown,donna.brown806@slu.edu,MS Software Engineering,Computer Science,2021,2022,OPT,Cleveland,OH,USA,,,
+319,Susan,Rivera,susan.rivera446@slu.edu,MS Software Engineering,Cybersecurity,2021,2024,CPT,New York,NY,USA,,,
+320,Nicole,Patterson,nicole.patterson878@slu.edu,MS Analytics,Business Analytics,2018,2021,CPT,Tacoma,WA,USA,,,
+321,Katherine,Bryan,katherine.bryan899@slu.edu,MS Data Science,Software Engineering,2023,2024,STEM-OPT,Ann Arbor,MI,USA,,,
+322,Chelsea,Garza,chelsea.garza445@slu.edu,MS Information Systems,Finance,2024,2025,CPT,Savannah,GA,USA,,,
+323,Aaron,Morse,aaron.morse122@slu.edu,MS Analytics,Computer Science,2022,2024,F1,Columbia,MO,USA,,,
+324,John,Henry,john.henry886@slu.edu,MS Computer Science,Data Science,2019,2021,OPT,Jacksonville,FL,USA,,,
+325,Ethan,Moore,ethan.moore718@slu.edu,MS Analytics,Biostatistics,2018,2021,STEM-OPT,Pittsburgh,PA,USA,338.0,DevOps Intern,2018-12-24
+326,Lisa,Castro,lisa.castro154@slu.edu,MBA,Computer Science,2024,2025,OPT,Cambridge,MA,USA,272.0,QA Intern,2024-12-09
+327,Robert,Zavala,robert.zavala979@slu.edu,MBA,Business Analytics,2023,2025,CPT,Pittsburgh,PA,USA,,,
+328,Gabrielle,Powell,gabrielle.powell273@slu.edu,MS Analytics,Biostatistics,2024,2025,CPT,Columbia,MO,USA,496.0,Data Analyst Intern,2025-06-04
+329,Anthony,Trujillo,anthony.trujillo531@slu.edu,MS Information Systems,Computer Science,2024,2026,OPT,San Diego,CA,USA,532.0,Software Intern,2024-04-07
+330,Ashley,Arnold,ashley.arnold486@slu.edu,MS Cybersecurity,Finance,2023,2026,F1,Tacoma,WA,USA,,,
+331,Christina,Ross,christina.ross972@slu.edu,MS Cybersecurity,Biostatistics,2022,2025,OPT,Colorado Springs,CO,USA,,,
+332,Dwayne,Hernandez,dwayne.hernandez452@slu.edu,MBA,Computer Science,2024,2027,OPT,Cincinnati,OH,USA,,,
+333,Maria,Baldwin,maria.baldwin543@slu.edu,MS Software Engineering,Cybersecurity,2020,2021,OPT,Boulder,CO,USA,255.0,Software Intern,2020-10-18
+334,Michael,Rivera,michael.rivera442@slu.edu,MBA,Biostatistics,2024,2025,STEM-OPT,Alpharetta,GA,USA,,,
+335,David,Smith,david.smith85@slu.edu,MS Software Engineering,Cybersecurity,2023,2024,OPT,Columbus,OH,USA,,,
+336,Angela,Higgins,angela.higgins607@slu.edu,MS Cybersecurity,Data Science,2019,2021,STEM-OPT,Atlanta,GA,USA,271.0,Software Intern,2021-05-30
+337,Christine,Moore,christine.moore805@slu.edu,MS Computer Science,Software Engineering,2021,2024,STEM-OPT,Cincinnati,OH,USA,214.0,DevOps Intern,2024-02-24
+338,Gene,Richards,gene.richards322@slu.edu,MS Software Engineering,Data Science,2018,2020,STEM-OPT,White Plains,NY,USA,533.0,Data Analyst Intern,2018-02-25
+339,Eric,Underwood,eric.underwood269@slu.edu,MS Software Engineering,Information Systems,2024,2027,STEM-OPT,Springfield,IL,USA,,,
+340,Teresa,Johnson,teresa.johnson67@slu.edu,MS Data Science,Finance,2022,2025,OPT,Tampa,FL,USA,,,
+341,Lisa,Roberts,lisa.roberts238@slu.edu,MS Analytics,Business Analytics,2018,2021,CPT,Redmond,WA,USA,,,
+342,Valerie,Dawson,valerie.dawson707@slu.edu,MS Computer Science,Information Systems,2021,2024,STEM-OPT,Ann Arbor,MI,USA,272.0,Data Analyst Intern,2024-03-12
+343,Jessica,Stevens,jessica.stevens365@slu.edu,MS Data Science,Marketing,2018,2019,OPT,Cleveland,OH,USA,,,
+344,Jared,Hull,jared.hull364@slu.edu,MS Cybersecurity,Computer Science,2023,2024,F1,Alpharetta,GA,USA,719.0,QA Intern,2023-07-15
+345,Sean,Scott,sean.scott547@slu.edu,MS Cybersecurity,Finance,2018,2019,STEM-OPT,Cincinnati,OH,USA,,,
+346,Carlos,Copeland,carlos.copeland669@slu.edu,MS Cybersecurity,Marketing,2024,2025,OPT,Tempe,AZ,USA,258.0,DevOps Intern,2024-08-29
+347,Benjamin,Ford,benjamin.ford966@slu.edu,MBA,Data Science,2020,2022,CPT,Philadelphia,PA,USA,,,
+348,Cheryl,Morales,cheryl.morales967@slu.edu,MBA,Computer Science,2023,2026,F1,Plano,TX,USA,,,
+349,Melissa,Saunders,melissa.saunders799@slu.edu,MS Analytics,Cybersecurity,2023,2026,STEM-OPT,Pittsburgh,PA,USA,769.0,Research Assistant,2025-09-29
+350,Jeff,Salazar,jeff.salazar16@slu.edu,MBA,Computer Science,2023,2024,STEM-OPT,Miami,FL,USA,713.0,Research Assistant,2024-08-18
+351,Tyler,Keller,tyler.keller299@slu.edu,MS Analytics,Electrical Engineering,2022,2024,F1,Alpharetta,GA,USA,,,
+352,Elizabeth,Mcdonald,elizabeth.mcdonald986@slu.edu,MS Computer Science,Data Science,2021,2022,OPT,Cincinnati,OH,USA,,,
+353,Anthony,Freeman,anthony.freeman974@slu.edu,MS Data Science,Marketing,2019,2021,OPT,Dallas,TX,USA,958.0,Software Intern,2020-04-04
+354,Pamela,Mitchell,pamela.mitchell305@slu.edu,MS Software Engineering,Finance,2018,2021,F1,Columbus,OH,USA,452.0,Data Analyst Intern,2019-04-12
+355,Kathryn,Martin,kathryn.martin747@slu.edu,MS Cybersecurity,Information Systems,2023,2025,CPT,Ann Arbor,MI,USA,,,
+356,Timothy,Moore,timothy.moore857@slu.edu,MBA,Biostatistics,2019,2020,F1,Savannah,GA,USA,,,
+357,Zachary,Wilson,zachary.wilson634@slu.edu,MS Information Systems,Finance,2023,2026,OPT,Somerville,MA,USA,754.0,Software Intern,2023-11-11
+358,Ryan,Perez,ryan.perez694@slu.edu,MS Computer Science,Business Analytics,2023,2024,F1,Springfield,MO,USA,829.0,Data Analyst Intern,2023-12-28
+359,Jeffrey,Collins,jeffrey.collins455@slu.edu,MS Data Science,Biostatistics,2024,2025,OPT,Detroit,MI,USA,,,
+360,Anne,Walters,anne.walters616@slu.edu,MS Analytics,Computer Science,2022,2024,F1,San Diego,CA,USA,,,
+361,Daniel,Lewis,daniel.lewis430@slu.edu,MS Software Engineering,Information Systems,2020,2023,CPT,Pittsburgh,PA,USA,,,
+362,Elizabeth,Love,elizabeth.love546@slu.edu,MS Software Engineering,Finance,2024,2026,CPT,Chesterfield,MO,USA,803.0,QA Intern,2026-09-23
+363,Gail,Stevens,gail.stevens655@slu.edu,MS Cybersecurity,Business Analytics,2018,2020,OPT,Pittsburgh,PA,USA,,,
+364,Rebecca,Shannon,rebecca.shannon444@slu.edu,MS Data Science,Finance,2023,2025,STEM-OPT,Philadelphia,PA,USA,,,
+365,Tanya,Nelson,tanya.nelson388@slu.edu,MS Computer Science,Business Analytics,2023,2024,F1,Tampa,FL,USA,457.0,DevOps Intern,2024-03-23
+366,Michael,Cunningham,michael.cunningham589@slu.edu,MS Data Science,Electrical Engineering,2020,2021,OPT,Grand Rapids,MI,USA,,,
+367,Elizabeth,Cole,elizabeth.cole506@slu.edu,MS Computer Science,Electrical Engineering,2024,2025,OPT,Springfield,MO,USA,,,
+368,Sarah,Hill,sarah.hill332@slu.edu,MS Cybersecurity,Data Science,2023,2026,CPT,Grand Rapids,MI,USA,,,
+369,Kiara,Hughes,kiara.hughes825@slu.edu,MS Information Systems,Software Engineering,2023,2025,F1,Clayton,MO,USA,,,
+370,Thomas,Lawrence,thomas.lawrence208@slu.edu,MS Information Systems,Electrical Engineering,2022,2024,CPT,Tampa,FL,USA,377.0,DevOps Intern,2022-10-30
+371,Michael,Cooke,michael.cooke252@slu.edu,MBA,Electrical Engineering,2021,2022,STEM-OPT,Scottsdale,AZ,USA,258.0,QA Intern,2022-08-22
+372,Darryl,Thompson,darryl.thompson200@slu.edu,MS Computer Science,Biostatistics,2018,2020,CPT,Chicago,IL,USA,,,
+373,Michael,Perez,michael.perez90@slu.edu,MS Software Engineering,Biostatistics,2024,2026,F1,Seattle,WA,USA,,,
+374,Kathryn,Thomas,kathryn.thomas672@slu.edu,MS Data Science,Data Science,2024,2025,STEM-OPT,Peoria,IL,USA,,,
+375,Jonathan,Cantu,jonathan.cantu288@slu.edu,MS Information Systems,Computer Science,2018,2021,F1,Savannah,GA,USA,,,
+376,Jason,Williamson,jason.williamson267@slu.edu,MS Information Systems,Finance,2021,2023,CPT,Tucson,AZ,USA,,,
+377,Scott,Smith,scott.smith616@slu.edu,MS Data Science,Business Analytics,2020,2023,STEM-OPT,Bellevue,WA,USA,,,
+378,Robert,Thompson,robert.thompson183@slu.edu,MS Computer Science,Electrical Engineering,2022,2024,STEM-OPT,San Diego,CA,USA,,,
+379,Andrea,Robinson,andrea.robinson522@slu.edu,MS Analytics,Software Engineering,2021,2023,CPT,Denver,CO,USA,,,
+380,David,Reyes,david.reyes995@slu.edu,MS Software Engineering,Software Engineering,2024,2025,CPT,Cambridge,MA,USA,,,
+381,Diana,Howard,diana.howard281@slu.edu,MS Data Science,Data Science,2024,2025,CPT,Los Angeles,CA,USA,,,
+382,Sarah,Pierce,sarah.pierce863@slu.edu,MS Analytics,Software Engineering,2021,2022,CPT,Denver,CO,USA,63.0,QA Intern,2021-08-08
+383,Eric,Fitzgerald,eric.fitzgerald387@slu.edu,MS Analytics,Data Science,2024,2026,F1,Grand Rapids,MI,USA,,,
+384,Shelby,Warner,shelby.warner66@slu.edu,MS Analytics,Computer Science,2022,2024,F1,Chesterfield,MO,USA,,,
+385,Ryan,Roberts,ryan.roberts99@slu.edu,MS Analytics,Marketing,2019,2021,STEM-OPT,Naperville,IL,USA,,,
+386,Louis,Martinez,louis.martinez381@slu.edu,MS Computer Science,Biostatistics,2021,2022,F1,Philadelphia,PA,USA,,,
+387,Sydney,Wood,sydney.wood468@slu.edu,MS Information Systems,Marketing,2018,2020,STEM-OPT,Cambridge,MA,USA,,,
+388,Jay,Meyer,jay.meyer918@slu.edu,MS Cybersecurity,Finance,2018,2021,CPT,San Antonio,TX,USA,,,
+389,Ronald,Clay,ronald.clay982@slu.edu,MBA,Marketing,2021,2024,F1,Harrisburg,PA,USA,,,
+390,Laura,Campos,laura.campos204@slu.edu,MBA,Marketing,2022,2023,CPT,Detroit,MI,USA,316.0,Data Analyst Intern,2022-07-17
+391,Luis,Nichols,luis.nichols155@slu.edu,MS Information Systems,Software Engineering,2024,2027,OPT,Atlanta,GA,USA,,,
+392,Brenda,Santana,brenda.santana84@slu.edu,MS Information Systems,Electrical Engineering,2019,2021,CPT,Redmond,WA,USA,290.0,Data Analyst Intern,2019-10-18
+393,Peter,Lindsey,peter.lindsey378@slu.edu,MS Cybersecurity,Information Systems,2024,2026,STEM-OPT,Boston,MA,USA,,,
+394,Michael,Monroe,michael.monroe881@slu.edu,MS Data Science,Biostatistics,2022,2024,STEM-OPT,Buffalo,NY,USA,,,
+395,Diane,Ramirez,diane.ramirez268@slu.edu,MS Information Systems,Electrical Engineering,2023,2026,STEM-OPT,Durham,NC,USA,,,
+396,Richard,Rivera,richard.rivera964@slu.edu,MS Cybersecurity,Biostatistics,2018,2020,CPT,Peoria,IL,USA,,,
+397,Justin,Hamilton,justin.hamilton573@slu.edu,MS Information Systems,Biostatistics,2020,2023,OPT,Savannah,GA,USA,,,
+398,Sara,Barker,sara.barker795@slu.edu,MS Cybersecurity,Electrical Engineering,2021,2024,CPT,Phoenix,AZ,USA,,,
+399,Joseph,Rice,joseph.rice388@slu.edu,MS Data Science,Biostatistics,2019,2021,OPT,Somerville,MA,USA,,,
+400,Joshua,Turner,joshua.turner620@slu.edu,MS Computer Science,Cybersecurity,2022,2023,STEM-OPT,Houston,TX,USA,209.0,Data Analyst Intern,2023-07-24
+401,Leah,Holland,leah.holland124@slu.edu,MS Computer Science,Business Analytics,2020,2021,CPT,Chicago,IL,USA,,,
+402,Sharon,Lewis,sharon.lewis722@slu.edu,MS Information Systems,Marketing,2019,2022,STEM-OPT,Pittsburgh,PA,USA,,,
+403,Marie,Gregory,marie.gregory918@slu.edu,MS Cybersecurity,Data Science,2022,2024,STEM-OPT,Dallas,TX,USA,289.0,Data Analyst Intern,2023-02-06
+404,Jeremy,Johnson,jeremy.johnson753@slu.edu,MS Information Systems,Cybersecurity,2021,2024,CPT,Austin,TX,USA,,,
+405,Julie,Hill,julie.hill154@slu.edu,MS Data Science,Cybersecurity,2024,2027,CPT,Scottsdale,AZ,USA,,,
+406,Daniel,Davis,daniel.davis52@slu.edu,MBA,Finance,2022,2023,CPT,San Diego,CA,USA,,,
+407,Dylan,Kemp,dylan.kemp345@slu.edu,MS Computer Science,Information Systems,2024,2027,F1,St. Louis,MO,USA,16.0,Software Intern,2024-08-18
+408,Kevin,Harrington,kevin.harrington715@slu.edu,MS Analytics,Data Science,2019,2020,STEM-OPT,Detroit,MI,USA,,,
+409,Jonathan,Reyes,jonathan.reyes315@slu.edu,MS Computer Science,Computer Science,2024,2026,F1,Raleigh,NC,USA,,,
+410,Edward,Mendoza,edward.mendoza479@slu.edu,MS Analytics,Biostatistics,2018,2020,F1,Alpharetta,GA,USA,,,
+411,Todd,Thomas,todd.thomas250@slu.edu,MS Computer Science,Biostatistics,2019,2021,F1,Fort Collins,CO,USA,,,
+412,Latoya,Williams,latoya.williams805@slu.edu,MBA,Biostatistics,2022,2025,F1,Detroit,MI,USA,331.0,Research Assistant,2022-02-10
+413,Leslie,Roberts,leslie.roberts513@slu.edu,MBA,Cybersecurity,2018,2021,STEM-OPT,Miami,FL,USA,,,
+414,Shannon,Ali,shannon.ali662@slu.edu,MS Information Systems,Marketing,2022,2024,OPT,San Diego,CA,USA,351.0,Data Analyst Intern,2024-07-21
+415,Danny,Reyes,danny.reyes927@slu.edu,MS Analytics,Electrical Engineering,2022,2024,OPT,Grand Rapids,MI,USA,441.0,QA Intern,2022-08-18
+416,Ian,Young,ian.young918@slu.edu,MS Analytics,Marketing,2020,2023,CPT,Somerville,MA,USA,700.0,Data Analyst Intern,2022-03-18
+417,Kathleen,Allen,kathleen.allen782@slu.edu,MS Data Science,Biostatistics,2020,2021,F1,Alpharetta,GA,USA,,,
+418,Richard,Garcia,richard.garcia287@slu.edu,MS Computer Science,Software Engineering,2018,2020,OPT,Charlotte,NC,USA,,,
+419,Jason,Smith,jason.smith742@slu.edu,MS Data Science,Finance,2024,2025,CPT,Charlotte,NC,USA,,,
+420,Nicole,Waters,nicole.waters143@slu.edu,MS Computer Science,Software Engineering,2018,2021,STEM-OPT,Philadelphia,PA,USA,,,
+421,Jessica,Arnold,jessica.arnold566@slu.edu,MBA,Software Engineering,2020,2023,CPT,Peoria,IL,USA,,,
+422,Jorge,Smith,jorge.smith861@slu.edu,MS Analytics,Business Analytics,2019,2021,OPT,Albany,NY,USA,,,
+423,Amy,Miller,amy.miller219@slu.edu,MS Information Systems,Cybersecurity,2020,2023,OPT,Detroit,MI,USA,,,
+424,Chris,Gomez,chris.gomez403@slu.edu,MBA,Computer Science,2018,2019,OPT,Austin,TX,USA,,,
+425,Ashley,Smith,ashley.smith722@slu.edu,MS Cybersecurity,Electrical Engineering,2024,2025,OPT,Charlotte,NC,USA,,,
+426,Caitlin,Taylor,caitlin.taylor320@slu.edu,MS Analytics,Computer Science,2023,2024,STEM-OPT,San Francisco,CA,USA,,,
+427,Phillip,Hale,phillip.hale720@slu.edu,MS Computer Science,Cybersecurity,2021,2024,F1,San Jose,CA,USA,,,
+428,Robert,Terry,robert.terry198@slu.edu,MS Analytics,Electrical Engineering,2020,2023,CPT,Cleveland,OH,USA,166.0,DevOps Intern,2022-12-01
+429,Karen,Acevedo,karen.acevedo840@slu.edu,MS Data Science,Biostatistics,2021,2022,F1,Savannah,GA,USA,427.0,Research Assistant,2022-12-17
+430,Leslie,Jones,leslie.jones81@slu.edu,MS Information Systems,Finance,2024,2027,CPT,Charlotte,NC,USA,,,
+431,Amanda,Griffin,amanda.griffin237@slu.edu,MS Data Science,Biostatistics,2022,2024,CPT,Worcester,MA,USA,173.0,Data Analyst Intern,2023-02-06
+432,Michele,Dorsey,michele.dorsey754@slu.edu,MS Software Engineering,Electrical Engineering,2023,2026,CPT,Seattle,WA,USA,,,
+433,Stephanie,Flores,stephanie.flores696@slu.edu,MS Information Systems,Computer Science,2024,2027,F1,Boulder,CO,USA,,,
+434,Adam,Castro,adam.castro338@slu.edu,MS Cybersecurity,Finance,2023,2026,F1,San Diego,CA,USA,,,
+435,Theresa,Brown,theresa.brown253@slu.edu,MS Information Systems,Finance,2022,2023,STEM-OPT,Detroit,MI,USA,,,
+436,Thomas,Donaldson,thomas.donaldson606@slu.edu,MS Software Engineering,Biostatistics,2018,2020,F1,Naperville,IL,USA,,,
+437,Nicole,Price,nicole.price164@slu.edu,MBA,Information Systems,2021,2024,F1,Ann Arbor,MI,USA,,,
+438,Jeremy,Knight,jeremy.knight655@slu.edu,MS Computer Science,Marketing,2018,2021,CPT,Naperville,IL,USA,,,
+439,Tiffany,Perez,tiffany.perez758@slu.edu,MS Data Science,Computer Science,2022,2023,F1,Savannah,GA,USA,,,
+440,Lisa,Fisher,lisa.fisher385@slu.edu,MS Software Engineering,Software Engineering,2019,2020,STEM-OPT,Cleveland,OH,USA,417.0,DevOps Intern,2019-04-27
+441,Frank,Stein,frank.stein870@slu.edu,MBA,Computer Science,2021,2023,OPT,Savannah,GA,USA,,,
+442,Connie,Chung,connie.chung554@slu.edu,MS Cybersecurity,Software Engineering,2018,2021,OPT,Somerville,MA,USA,,,
+443,Jacqueline,Mathis,jacqueline.mathis688@slu.edu,MS Information Systems,Information Systems,2023,2025,OPT,Alpharetta,GA,USA,,,
+444,Ralph,Martinez,ralph.martinez442@slu.edu,MS Software Engineering,Business Analytics,2021,2024,STEM-OPT,Dallas,TX,USA,,,
+445,Vernon,Ward,vernon.ward546@slu.edu,MS Software Engineering,Marketing,2019,2020,F1,Tempe,AZ,USA,,,
+446,Yvonne,Caldwell,yvonne.caldwell928@slu.edu,MS Cybersecurity,Information Systems,2018,2020,CPT,White Plains,NY,USA,292.0,QA Intern,2018-02-17
+447,Charles,Lane,charles.lane408@slu.edu,MS Information Systems,Data Science,2020,2021,STEM-OPT,Seattle,WA,USA,,,
+448,Jacob,Yang,jacob.yang137@slu.edu,MS Computer Science,Cybersecurity,2020,2021,CPT,Cary,NC,USA,25.0,QA Intern,2021-04-09
+449,David,Cobb,david.cobb983@slu.edu,MBA,Cybersecurity,2024,2025,STEM-OPT,Detroit,MI,USA,,,
+450,Joseph,Jordan,joseph.jordan594@slu.edu,MS Data Science,Marketing,2020,2022,CPT,Scottsdale,AZ,USA,,,
+451,Melissa,Boyd,melissa.boyd699@slu.edu,MS Cybersecurity,Computer Science,2020,2022,CPT,Clayton,MO,USA,,,
+452,Karen,Kelly,karen.kelly471@slu.edu,MS Software Engineering,Software Engineering,2024,2026,CPT,Alpharetta,GA,USA,,,
+453,Daniel,Coffey,daniel.coffey120@slu.edu,MS Data Science,Biostatistics,2023,2025,F1,Tempe,AZ,USA,,,
+454,Evan,Welch,evan.welch788@slu.edu,MS Software Engineering,Data Science,2023,2025,F1,Worcester,MA,USA,,,
+455,Justin,Bean,justin.bean167@slu.edu,MS Information Systems,Business Analytics,2018,2019,CPT,Peoria,IL,USA,173.0,Software Intern,2018-12-18
+456,Jonathan,Jones,jonathan.jones364@slu.edu,MS Analytics,Cybersecurity,2019,2022,OPT,Boston,MA,USA,291.0,DevOps Intern,2022-01-03
+457,Sandra,Brooks,sandra.brooks362@slu.edu,MS Information Systems,Business Analytics,2021,2024,STEM-OPT,Durham,NC,USA,,,
+458,Valerie,Buck,valerie.buck128@slu.edu,MS Data Science,Finance,2018,2021,STEM-OPT,Somerville,MA,USA,,,
+459,Eric,Walker,eric.walker903@slu.edu,MS Computer Science,Data Science,2023,2025,F1,Denver,CO,USA,,,
+460,Jeffery,Ford,jeffery.ford804@slu.edu,MS Cybersecurity,Marketing,2024,2025,STEM-OPT,Ann Arbor,MI,USA,,,
+461,Jessica,Barnes,jessica.barnes500@slu.edu,MS Analytics,Software Engineering,2020,2023,OPT,Detroit,MI,USA,,,
+462,Catherine,Montoya,catherine.montoya160@slu.edu,MS Analytics,Finance,2020,2021,STEM-OPT,Fort Collins,CO,USA,906.0,Research Assistant,2020-07-21
+463,Michael,Gallegos,michael.gallegos922@slu.edu,MBA,Marketing,2018,2019,F1,Pittsburgh,PA,USA,77.0,DevOps Intern,2018-09-10
+464,Joseph,Gillespie,joseph.gillespie296@slu.edu,MBA,Computer Science,2022,2024,F1,Cincinnati,OH,USA,310.0,Research Assistant,2024-09-10
+465,Danielle,Thompson,danielle.thompson461@slu.edu,MS Cybersecurity,Information Systems,2019,2020,CPT,Ann Arbor,MI,USA,,,
+466,Jason,Miller,jason.miller95@slu.edu,MS Cybersecurity,Finance,2020,2022,F1,Ann Arbor,MI,USA,,,
+467,Ralph,Smith,ralph.smith555@slu.edu,MS Data Science,Software Engineering,2019,2022,STEM-OPT,Raleigh,NC,USA,177.0,QA Intern,2019-04-08
+468,Raymond,Ward,raymond.ward791@slu.edu,MS Data Science,Marketing,2019,2022,CPT,Chesterfield,MO,USA,990.0,Data Analyst Intern,2019-12-06
+469,Patricia,Watson,patricia.watson851@slu.edu,MS Software Engineering,Cybersecurity,2023,2026,OPT,Charlotte,NC,USA,,,
+470,Anthony,Wheeler,anthony.wheeler690@slu.edu,MS Computer Science,Electrical Engineering,2019,2021,OPT,Columbus,OH,USA,,,
+471,Matthew,Carpenter,matthew.carpenter307@slu.edu,MS Analytics,Business Analytics,2018,2020,OPT,Ann Arbor,MI,USA,419.0,Research Assistant,2020-02-20
+472,Laura,Clark,laura.clark324@slu.edu,MS Cybersecurity,Marketing,2024,2027,STEM-OPT,Naperville,IL,USA,537.0,Software Intern,2027-05-07
+473,Anthony,Garcia,anthony.garcia313@slu.edu,MBA,Information Systems,2021,2024,OPT,Urbana,IL,USA,,,
+474,David,Tucker,david.tucker157@slu.edu,MS Cybersecurity,Marketing,2018,2019,CPT,Raleigh,NC,USA,,,
+475,Kaitlyn,Benjamin,kaitlyn.benjamin804@slu.edu,MS Information Systems,Computer Science,2023,2024,CPT,Fort Collins,CO,USA,590.0,Research Assistant,2023-08-22
+476,Laura,Hood,laura.hood914@slu.edu,MS Data Science,Software Engineering,2019,2021,F1,Peoria,IL,USA,,,
+477,Amanda,Jefferson,amanda.jefferson887@slu.edu,MS Analytics,Business Analytics,2018,2020,F1,Detroit,MI,USA,,,
+478,Annette,Thompson,annette.thompson927@slu.edu,MS Cybersecurity,Electrical Engineering,2021,2023,F1,Chicago,IL,USA,525.0,Research Assistant,2022-05-31
+479,Robert,Wilson,robert.wilson580@slu.edu,MS Analytics,Software Engineering,2020,2021,CPT,Grand Rapids,MI,USA,,,
+480,Melinda,Roman,melinda.roman382@slu.edu,MBA,Biostatistics,2024,2026,F1,Columbia,MO,USA,206.0,QA Intern,2026-03-15
+481,Laura,Spencer,laura.spencer498@slu.edu,MS Data Science,Computer Science,2021,2023,STEM-OPT,San Diego,CA,USA,,,
+482,Nicole,Shepherd,nicole.shepherd35@slu.edu,MS Software Engineering,Business Analytics,2022,2023,STEM-OPT,Columbus,OH,USA,,,
+483,Christopher,Hill,christopher.hill445@slu.edu,MS Computer Science,Cybersecurity,2024,2027,CPT,Boulder,CO,USA,,,
+484,Diana,Clark,diana.clark714@slu.edu,MS Cybersecurity,Electrical Engineering,2021,2022,CPT,Harrisburg,PA,USA,202.0,Data Analyst Intern,2021-04-08
+485,Beverly,Davidson,beverly.davidson204@slu.edu,MS Software Engineering,Biostatistics,2023,2024,F1,Tacoma,WA,USA,,,
+486,Emily,Nelson,emily.nelson35@slu.edu,MS Software Engineering,Cybersecurity,2020,2022,F1,Scottsdale,AZ,USA,,,
+487,Theresa,Hayes,theresa.hayes82@slu.edu,MBA,Business Analytics,2024,2027,F1,Pittsburgh,PA,USA,,,
+488,Mary,Jones,mary.jones554@slu.edu,MS Cybersecurity,Information Systems,2019,2020,CPT,Detroit,MI,USA,767.0,QA Intern,2020-11-01
+489,Karen,Gonzalez,karen.gonzalez523@slu.edu,MS Data Science,Business Analytics,2022,2025,OPT,Tucson,AZ,USA,237.0,Data Analyst Intern,2023-08-21
+490,Julie,Shepherd,julie.shepherd365@slu.edu,MS Software Engineering,Software Engineering,2022,2025,STEM-OPT,Urbana,IL,USA,,,
+491,Molly,Roberson,molly.roberson234@slu.edu,MS Analytics,Finance,2023,2025,STEM-OPT,Alpharetta,GA,USA,,,
+492,Melissa,Martin,melissa.martin425@slu.edu,MS Computer Science,Cybersecurity,2021,2022,STEM-OPT,New York,NY,USA,,,
+493,Shannon,Gill,shannon.gill243@slu.edu,MS Cybersecurity,Software Engineering,2019,2022,OPT,Redmond,WA,USA,,,
+494,Michelle,Chan,michelle.chan106@slu.edu,MS Data Science,Information Systems,2020,2021,CPT,Grand Rapids,MI,USA,589.0,Research Assistant,2020-07-02
+495,Mercedes,Peters,mercedes.peters348@slu.edu,MS Software Engineering,Marketing,2020,2023,CPT,Alpharetta,GA,USA,78.0,Data Analyst Intern,2021-07-17
+496,Jessica,Weiss,jessica.weiss884@slu.edu,MS Data Science,Finance,2019,2021,STEM-OPT,Seattle,WA,USA,,,
+497,Joseph,Becker,joseph.becker574@slu.edu,MS Data Science,Biostatistics,2024,2026,F1,Cleveland,OH,USA,31.0,QA Intern,2026-02-02
+498,Jacob,Saunders,jacob.saunders604@slu.edu,MS Software Engineering,Cybersecurity,2019,2022,OPT,Ann Arbor,MI,USA,,,
+499,Judith,Guzman,judith.guzman397@slu.edu,MS Information Systems,Software Engineering,2020,2022,CPT,Peoria,IL,USA,,,
+500,Brandon,Davis,brandon.davis432@slu.edu,MS Information Systems,Cybersecurity,2024,2026,CPT,St. Louis,MO,USA,,,
+501,Anthony,Gutierrez,anthony.gutierrez861@slu.edu,MBA,Data Science,2020,2023,CPT,Harrisburg,PA,USA,,,
+502,Jermaine,Pham,jermaine.pham872@slu.edu,MS Software Engineering,Cybersecurity,2019,2022,STEM-OPT,Miami,FL,USA,9.0,QA Intern,2019-05-12
+503,Anthony,Richardson,anthony.richardson968@slu.edu,MBA,Marketing,2022,2024,F1,Tucson,AZ,USA,,,
+504,Laura,Dean,laura.dean105@slu.edu,MS Information Systems,Finance,2019,2021,F1,Naperville,IL,USA,,,
+505,Nicholas,Green,nicholas.green292@slu.edu,MS Information Systems,Biostatistics,2020,2022,STEM-OPT,Scottsdale,AZ,USA,783.0,QA Intern,2022-10-22
+506,Sabrina,Williams,sabrina.williams387@slu.edu,MS Analytics,Biostatistics,2018,2021,F1,Springfield,IL,USA,,,
+507,Shelly,Snyder,shelly.snyder137@slu.edu,MS Information Systems,Electrical Engineering,2018,2019,CPT,Durham,NC,USA,,,
+508,William,Davis,william.davis985@slu.edu,MS Information Systems,Electrical Engineering,2019,2021,F1,Grand Rapids,MI,USA,,,
+509,Elizabeth,Myers,elizabeth.myers862@slu.edu,MS Computer Science,Marketing,2018,2019,F1,Jacksonville,FL,USA,,,
+510,Joshua,Brown,joshua.brown222@slu.edu,MBA,Data Science,2024,2027,OPT,Pittsburgh,PA,USA,,,
+511,Olivia,Medina,olivia.medina727@slu.edu,MS Computer Science,Marketing,2021,2022,CPT,Buffalo,NY,USA,,,
+512,Robert,Johnson,robert.johnson940@slu.edu,MS Cybersecurity,Computer Science,2018,2020,STEM-OPT,Bellevue,WA,USA,,,
+513,Todd,Johnson,todd.johnson964@slu.edu,MS Cybersecurity,Marketing,2020,2022,STEM-OPT,Tampa,FL,USA,,,
+514,Brett,Moreno,brett.moreno256@slu.edu,MS Analytics,Electrical Engineering,2019,2020,CPT,Buffalo,NY,USA,87.0,Data Analyst Intern,2019-11-29
+515,Justin,Valdez,justin.valdez653@slu.edu,MS Data Science,Data Science,2024,2026,OPT,Kansas City,MO,USA,157.0,DevOps Intern,2024-10-27
+516,Matthew,Lambert,matthew.lambert78@slu.edu,MS Information Systems,Computer Science,2019,2021,F1,San Francisco,CA,USA,631.0,Software Intern,2020-10-16
+517,Sabrina,Coleman,sabrina.coleman116@slu.edu,MS Computer Science,Biostatistics,2019,2022,STEM-OPT,San Francisco,CA,USA,,,
+518,Alexandra,Johnson,alexandra.johnson480@slu.edu,MS Software Engineering,Data Science,2021,2022,OPT,Plano,TX,USA,,,
+519,Lisa,Mcdowell,lisa.mcdowell700@slu.edu,MS Analytics,Information Systems,2021,2022,STEM-OPT,Irvine,CA,USA,,,
+520,Cole,Fernandez,cole.fernandez789@slu.edu,MS Information Systems,Data Science,2020,2021,STEM-OPT,Miami,FL,USA,,,
+521,Megan,Christensen,megan.christensen644@slu.edu,MS Data Science,Software Engineering,2021,2023,STEM-OPT,Ann Arbor,MI,USA,,,
+522,Timothy,Young,timothy.young604@slu.edu,MS Data Science,Biostatistics,2023,2025,STEM-OPT,Savannah,GA,USA,350.0,Software Intern,2024-03-27
+523,Laurie,Case,laurie.case99@slu.edu,MS Computer Science,Computer Science,2019,2022,OPT,Cincinnati,OH,USA,,,
+524,Daniel,Fernandez,daniel.fernandez882@slu.edu,MS Software Engineering,Business Analytics,2018,2019,CPT,Cleveland,OH,USA,803.0,QA Intern,2018-06-23
+525,Anne,Steele,anne.steele397@slu.edu,MS Cybersecurity,Biostatistics,2020,2023,OPT,Irvine,CA,USA,,,
+526,Vincent,Thornton,vincent.thornton862@slu.edu,MS Cybersecurity,Software Engineering,2020,2021,STEM-OPT,Buffalo,NY,USA,,,
+527,Laura,Wood,laura.wood624@slu.edu,MS Information Systems,Data Science,2018,2020,OPT,St. Louis,MO,USA,,,
+528,Christopher,Berger,christopher.berger580@slu.edu,MS Cybersecurity,Software Engineering,2021,2022,CPT,Cleveland,OH,USA,,,
+529,Emily,Gomez,emily.gomez109@slu.edu,MS Software Engineering,Data Science,2018,2019,F1,Los Angeles,CA,USA,,,
+530,Melissa,Miller,melissa.miller960@slu.edu,MS Software Engineering,Information Systems,2018,2020,CPT,Savannah,GA,USA,404.0,DevOps Intern,2020-05-21
+531,Zachary,Robinson,zachary.robinson268@slu.edu,MBA,Marketing,2022,2023,STEM-OPT,Worcester,MA,USA,327.0,Software Intern,2022-05-26
+532,Karen,Hobbs,karen.hobbs457@slu.edu,MS Data Science,Data Science,2022,2025,F1,Savannah,GA,USA,,,
+533,James,Munoz,james.munoz76@slu.edu,MS Information Systems,Marketing,2022,2023,OPT,Philadelphia,PA,USA,,,
+534,Daniel,Adams,daniel.adams573@slu.edu,MS Software Engineering,Computer Science,2020,2021,F1,Seattle,WA,USA,,,
+535,Molly,Brown,molly.brown2@slu.edu,MS Computer Science,Cybersecurity,2024,2025,OPT,Tempe,AZ,USA,,,
+536,Courtney,Perez,courtney.perez660@slu.edu,MS Analytics,Finance,2024,2026,CPT,Boston,MA,USA,,,
+537,Michael,Taylor,michael.taylor590@slu.edu,MS Data Science,Information Systems,2024,2026,STEM-OPT,Tempe,AZ,USA,692.0,Software Intern,2025-07-24
+538,Crystal,Cunningham,crystal.cunningham52@slu.edu,MS Software Engineering,Electrical Engineering,2022,2023,F1,Tampa,FL,USA,,,
+539,James,Williams,james.williams985@slu.edu,MS Information Systems,Business Analytics,2022,2023,STEM-OPT,Buffalo,NY,USA,,,
+540,Cynthia,Tyler,cynthia.tyler474@slu.edu,MS Cybersecurity,Information Systems,2023,2026,CPT,White Plains,NY,USA,759.0,QA Intern,2024-04-23
+541,Monica,Mercer,monica.mercer304@slu.edu,MS Computer Science,Cybersecurity,2024,2026,STEM-OPT,Houston,TX,USA,,,
+542,Mark,Huber,mark.huber820@slu.edu,MS Analytics,Business Analytics,2021,2022,STEM-OPT,Worcester,MA,USA,,,
+543,Willie,Garcia,willie.garcia172@slu.edu,MS Cybersecurity,Information Systems,2024,2026,CPT,Ann Arbor,MI,USA,,,
+544,Caroline,Cole,caroline.cole4@slu.edu,MS Software Engineering,Software Engineering,2019,2021,CPT,Seattle,WA,USA,,,
+545,Jessica,Rojas,jessica.rojas972@slu.edu,MS Cybersecurity,Electrical Engineering,2018,2021,STEM-OPT,Peoria,IL,USA,,,
+546,Ana,Brown,ana.brown818@slu.edu,MS Software Engineering,Biostatistics,2022,2023,OPT,White Plains,NY,USA,239.0,QA Intern,2022-06-14
+547,Nathan,Bailey,nathan.bailey823@slu.edu,MS Analytics,Finance,2024,2027,STEM-OPT,Chicago,IL,USA,,,
+548,Janice,Robertson,janice.robertson693@slu.edu,MS Information Systems,Marketing,2023,2024,F1,Cincinnati,OH,USA,862.0,DevOps Intern,2023-04-10
+549,Gina,Smith,gina.smith312@slu.edu,MS Information Systems,Electrical Engineering,2020,2021,CPT,Orlando,FL,USA,,,
+550,Michael,Marshall,michael.marshall609@slu.edu,MS Data Science,Computer Science,2020,2021,F1,Springfield,IL,USA,502.0,DevOps Intern,2021-04-01
+551,Diamond,Lewis,diamond.lewis140@slu.edu,MS Cybersecurity,Software Engineering,2024,2026,F1,Atlanta,GA,USA,637.0,QA Intern,2024-08-18
+552,Nicole,Patterson,nicole.patterson399@slu.edu,MS Computer Science,Cybersecurity,2018,2020,OPT,Raleigh,NC,USA,22.0,Software Intern,2019-02-12
+553,Brandy,Hernandez,brandy.hernandez572@slu.edu,MS Information Systems,Business Analytics,2022,2024,STEM-OPT,San Jose,CA,USA,,,
+554,William,Burke,william.burke712@slu.edu,MS Cybersecurity,Finance,2020,2023,STEM-OPT,Scottsdale,AZ,USA,352.0,QA Intern,2022-04-26
+555,Eugene,Smith,eugene.smith850@slu.edu,MS Cybersecurity,Business Analytics,2019,2020,F1,Cleveland,OH,USA,,,
+556,Lori,Walker,lori.walker538@slu.edu,MS Computer Science,Data Science,2019,2021,STEM-OPT,Alpharetta,GA,USA,,,
+557,Nicole,Johnson,nicole.johnson91@slu.edu,MS Software Engineering,Data Science,2022,2023,CPT,Miami,FL,USA,,,
+558,Christina,Wright,christina.wright787@slu.edu,MS Information Systems,Business Analytics,2022,2023,CPT,Pittsburgh,PA,USA,502.0,DevOps Intern,2022-07-20
+559,Christopher,Ramsey,christopher.ramsey76@slu.edu,MS Information Systems,Business Analytics,2020,2023,OPT,Scottsdale,AZ,USA,,,
+560,Eric,Fitzgerald,eric.fitzgerald785@slu.edu,MS Data Science,Information Systems,2018,2021,STEM-OPT,Boulder,CO,USA,,,
+561,Justin,Hall,justin.hall325@slu.edu,MS Software Engineering,Biostatistics,2022,2025,OPT,Ann Arbor,MI,USA,,,
+562,Heather,Steele,heather.steele154@slu.edu,MS Data Science,Business Analytics,2022,2025,CPT,Atlanta,GA,USA,,,
+563,Kelly,Kennedy,kelly.kennedy173@slu.edu,MS Data Science,Marketing,2021,2024,CPT,Fort Collins,CO,USA,,,
+564,Dawn,Davis,dawn.davis233@slu.edu,MS Analytics,Biostatistics,2022,2023,STEM-OPT,Urbana,IL,USA,302.0,Research Assistant,2022-06-12
+565,Jason,Rowe,jason.rowe168@slu.edu,MBA,Cybersecurity,2018,2021,STEM-OPT,Urbana,IL,USA,,,
+566,Cheyenne,Bennett,cheyenne.bennett310@slu.edu,MS Computer Science,Finance,2019,2022,F1,Buffalo,NY,USA,905.0,QA Intern,2020-07-26
+567,Heather,Rios,heather.rios227@slu.edu,MS Computer Science,Data Science,2021,2024,OPT,Cincinnati,OH,USA,947.0,DevOps Intern,2021-07-21
+568,Karl,Daniels,karl.daniels259@slu.edu,MS Computer Science,Finance,2022,2024,OPT,Boulder,CO,USA,360.0,Software Intern,2022-12-17
+569,Maureen,Ramirez,maureen.ramirez742@slu.edu,MBA,Software Engineering,2018,2019,F1,Charlotte,NC,USA,342.0,QA Intern,2019-12-12
+570,Robin,Cox,robin.cox12@slu.edu,MS Software Engineering,Cybersecurity,2024,2025,F1,Philadelphia,PA,USA,,,
+571,Randy,Hubbard,randy.hubbard585@slu.edu,MS Cybersecurity,Software Engineering,2020,2021,OPT,Seattle,WA,USA,492.0,QA Intern,2021-04-08
+572,Jackie,White,jackie.white14@slu.edu,MS Software Engineering,Cybersecurity,2023,2025,OPT,Jacksonville,FL,USA,,,
+573,John,Sosa,john.sosa725@slu.edu,MS Data Science,Cybersecurity,2024,2026,STEM-OPT,Peoria,IL,USA,443.0,QA Intern,2024-08-02
+574,Katherine,Johnson,katherine.johnson480@slu.edu,MBA,Biostatistics,2021,2022,CPT,Rochester,NY,USA,,,
+575,Rebecca,Jones,rebecca.jones60@slu.edu,MS Analytics,Computer Science,2018,2020,CPT,Cary,NC,USA,,,
+576,Lisa,Allen,lisa.allen670@slu.edu,MS Software Engineering,Information Systems,2020,2023,OPT,Grand Rapids,MI,USA,,,
+577,Robert,Scott,robert.scott864@slu.edu,MS Cybersecurity,Biostatistics,2023,2025,F1,Buffalo,NY,USA,59.0,QA Intern,2024-04-21
+578,Aaron,Espinoza,aaron.espinoza692@slu.edu,MS Computer Science,Computer Science,2018,2021,CPT,Atlanta,GA,USA,,,
+579,Adrienne,Rodriguez,adrienne.rodriguez12@slu.edu,MS Computer Science,Finance,2021,2022,OPT,Redmond,WA,USA,254.0,QA Intern,2022-08-11
+580,Karen,Miller,karen.miller936@slu.edu,MS Cybersecurity,Data Science,2023,2026,STEM-OPT,Springfield,IL,USA,,,
+581,John,Williams,john.williams580@slu.edu,MS Information Systems,Finance,2024,2026,CPT,Chesterfield,MO,USA,,,
+582,Scott,Cummings,scott.cummings232@slu.edu,MBA,Biostatistics,2024,2027,OPT,San Diego,CA,USA,,,
+583,Nancy,Gaines,nancy.gaines115@slu.edu,MS Cybersecurity,Computer Science,2021,2024,F1,Philadelphia,PA,USA,,,
+584,Douglas,Fields,douglas.fields967@slu.edu,MS Information Systems,Marketing,2019,2022,F1,Tampa,FL,USA,,,
+585,Frederick,Jones,frederick.jones769@slu.edu,MS Computer Science,Business Analytics,2022,2024,F1,Alpharetta,GA,USA,,,
+586,Timothy,Martinez,timothy.martinez89@slu.edu,MS Information Systems,Business Analytics,2018,2021,OPT,Miami,FL,USA,,,
+587,Debra,Chavez,debra.chavez546@slu.edu,MS Data Science,Cybersecurity,2024,2027,F1,Savannah,GA,USA,,,
+588,Tim,Kelly,tim.kelly596@slu.edu,MS Software Engineering,Software Engineering,2023,2026,OPT,Atlanta,GA,USA,,,
+589,Cristina,Curtis,cristina.curtis104@slu.edu,MBA,Business Analytics,2021,2023,F1,Miami,FL,USA,,,
+590,Holly,Harrison,holly.harrison301@slu.edu,MS Information Systems,Marketing,2020,2022,CPT,Grand Rapids,MI,USA,,,
+591,Tiffany,Braun,tiffany.braun412@slu.edu,MS Computer Science,Computer Science,2023,2026,OPT,Cleveland,OH,USA,,,
+592,Craig,Mccormick,craig.mccormick396@slu.edu,MS Data Science,Software Engineering,2018,2021,CPT,Cary,NC,USA,,,
+593,Peter,Bradley,peter.bradley131@slu.edu,MS Software Engineering,Computer Science,2023,2026,F1,Naperville,IL,USA,132.0,Research Assistant,2024-03-29
+594,Richard,Greene,richard.greene111@slu.edu,MS Cybersecurity,Computer Science,2024,2025,CPT,Columbus,OH,USA,,,
+595,Maria,Hart,maria.hart862@slu.edu,MS Information Systems,Software Engineering,2020,2022,STEM-OPT,White Plains,NY,USA,179.0,Research Assistant,2022-06-17
+596,Jasmine,Marshall,jasmine.marshall596@slu.edu,MS Data Science,Data Science,2023,2026,CPT,Jacksonville,FL,USA,,,
+597,Tracey,Cooper,tracey.cooper551@slu.edu,MS Analytics,Electrical Engineering,2022,2023,OPT,Plano,TX,USA,,,
+598,Mackenzie,Hodge,mackenzie.hodge187@slu.edu,MBA,Biostatistics,2019,2022,F1,Jacksonville,FL,USA,,,
+599,Christian,Thompson,christian.thompson645@slu.edu,MS Software Engineering,Computer Science,2021,2024,STEM-OPT,Chesterfield,MO,USA,462.0,Data Analyst Intern,2021-03-02
+600,Alyssa,Bell,alyssa.bell16@slu.edu,MS Analytics,Biostatistics,2023,2026,OPT,Houston,TX,USA,,,
+601,Thomas,Holloway,thomas.holloway510@slu.edu,MS Information Systems,Data Science,2020,2022,OPT,Miami,FL,USA,,,
+602,Penny,Peterson,penny.peterson548@slu.edu,MS Analytics,Software Engineering,2020,2023,OPT,Naperville,IL,USA,,,
+603,Derek,Pena,derek.pena47@slu.edu,MBA,Finance,2022,2024,STEM-OPT,Phoenix,AZ,USA,,,
+604,Jesus,Robinson,jesus.robinson470@slu.edu,MS Computer Science,Electrical Engineering,2023,2026,F1,Tampa,FL,USA,,,
+605,David,Salazar,david.salazar598@slu.edu,MS Analytics,Information Systems,2019,2020,CPT,Springfield,MO,USA,,,
+606,Joseph,Werner,joseph.werner452@slu.edu,MS Data Science,Cybersecurity,2018,2019,CPT,Dallas,TX,USA,,,
+607,Aaron,Lee,aaron.lee458@slu.edu,MS Software Engineering,Cybersecurity,2023,2024,STEM-OPT,Austin,TX,USA,,,
+608,Ashley,Bryant,ashley.bryant49@slu.edu,MS Analytics,Software Engineering,2022,2025,F1,Clayton,MO,USA,559.0,Research Assistant,2025-05-22
+609,Kristen,Moore,kristen.moore940@slu.edu,MBA,Electrical Engineering,2018,2021,F1,Alpharetta,GA,USA,,,
+610,Vanessa,Gonzales,vanessa.gonzales451@slu.edu,MBA,Business Analytics,2020,2021,STEM-OPT,Cary,NC,USA,520.0,Software Intern,2020-03-23
+611,Vicki,Hill,vicki.hill157@slu.edu,MS Software Engineering,Marketing,2021,2022,STEM-OPT,Seattle,WA,USA,,,
+612,Brooke,Mccann,brooke.mccann915@slu.edu,MS Information Systems,Data Science,2020,2022,STEM-OPT,Irvine,CA,USA,765.0,Research Assistant,2020-01-06
+613,Alejandro,Wheeler,alejandro.wheeler112@slu.edu,MS Computer Science,Business Analytics,2021,2023,CPT,Cary,NC,USA,641.0,Software Intern,2023-08-20
+614,Luis,Wilson,luis.wilson332@slu.edu,MS Computer Science,Marketing,2023,2026,OPT,Detroit,MI,USA,358.0,QA Intern,2025-07-02
+615,Julie,Robertson,julie.robertson92@slu.edu,MS Information Systems,Information Systems,2023,2024,OPT,Atlanta,GA,USA,754.0,Data Analyst Intern,2024-06-17
+616,Lynn,Allen,lynn.allen161@slu.edu,MS Information Systems,Electrical Engineering,2020,2023,CPT,Orlando,FL,USA,,,
+617,Edward,Reid,edward.reid881@slu.edu,MS Software Engineering,Biostatistics,2021,2022,CPT,Kansas City,MO,USA,,,
+618,Justin,Mcbride,justin.mcbride931@slu.edu,MS Software Engineering,Business Analytics,2021,2022,F1,Grand Rapids,MI,USA,,,
+619,Jonathan,Miles,jonathan.miles741@slu.edu,MBA,Biostatistics,2022,2025,STEM-OPT,Tempe,AZ,USA,716.0,DevOps Intern,2025-01-22
+620,Kimberly,Lee,kimberly.lee780@slu.edu,MS Information Systems,Computer Science,2020,2021,CPT,Durham,NC,USA,778.0,QA Intern,2020-08-18
+621,Pamela,Owen,pamela.owen815@slu.edu,MBA,Data Science,2021,2023,STEM-OPT,Tucson,AZ,USA,,,
+622,Stephanie,Griffin,stephanie.griffin326@slu.edu,MBA,Software Engineering,2022,2025,OPT,Boston,MA,USA,,,
+623,Lindsey,Franco,lindsey.franco895@slu.edu,MS Information Systems,Computer Science,2020,2023,OPT,Redmond,WA,USA,,,
+624,Emily,Hood,emily.hood964@slu.edu,MS Analytics,Information Systems,2018,2019,CPT,Savannah,GA,USA,531.0,QA Intern,2019-04-17
+625,Anthony,Baker,anthony.baker622@slu.edu,MS Software Engineering,Data Science,2022,2023,OPT,Alpharetta,GA,USA,350.0,Research Assistant,2023-12-21
+626,Jacob,Young,jacob.young135@slu.edu,MS Data Science,Computer Science,2019,2021,OPT,Bellevue,WA,USA,,,
+627,Robert,Peterson,robert.peterson356@slu.edu,MS Analytics,Electrical Engineering,2022,2025,STEM-OPT,Charlotte,NC,USA,9.0,QA Intern,2025-03-19
+628,Michael,Spencer,michael.spencer301@slu.edu,MS Computer Science,Data Science,2024,2025,STEM-OPT,Jacksonville,FL,USA,609.0,Software Intern,2025-05-15
+629,Adam,Valencia,adam.valencia652@slu.edu,MS Computer Science,Cybersecurity,2018,2019,STEM-OPT,Cambridge,MA,USA,,,
+630,Meredith,Leonard,meredith.leonard949@slu.edu,MS Data Science,Data Science,2023,2026,STEM-OPT,Orlando,FL,USA,,,
+631,Natalie,Moore,natalie.moore430@slu.edu,MS Cybersecurity,Business Analytics,2021,2022,OPT,Redmond,WA,USA,,,
+632,Michelle,Chapman,michelle.chapman182@slu.edu,MS Computer Science,Computer Science,2023,2026,CPT,Grand Rapids,MI,USA,,,
+633,Nathaniel,Vaughn,nathaniel.vaughn883@slu.edu,MS Analytics,Business Analytics,2020,2022,OPT,Bellevue,WA,USA,,,
+634,Patricia,Velasquez,patricia.velasquez702@slu.edu,MS Data Science,Biostatistics,2018,2019,OPT,Denver,CO,USA,,,
+635,Emily,Burke,emily.burke706@slu.edu,MS Information Systems,Computer Science,2024,2025,OPT,Cincinnati,OH,USA,,,
+636,Whitney,Scott,whitney.scott82@slu.edu,MS Cybersecurity,Computer Science,2019,2021,STEM-OPT,Atlanta,GA,USA,,,
+637,Ruth,Cooke,ruth.cooke153@slu.edu,MS Data Science,Computer Science,2019,2020,OPT,Atlanta,GA,USA,,,
+638,Michelle,Carter,michelle.carter719@slu.edu,MBA,Business Analytics,2022,2023,F1,Chesterfield,MO,USA,,,
+639,James,Tucker,james.tucker632@slu.edu,MBA,Electrical Engineering,2020,2022,CPT,Colorado Springs,CO,USA,865.0,QA Intern,2020-02-08
+640,Diana,Morris,diana.morris916@slu.edu,MS Cybersecurity,Computer Science,2023,2025,F1,Tampa,FL,USA,,,
+641,Christopher,Martinez,christopher.martinez407@slu.edu,MS Data Science,Information Systems,2024,2027,F1,Columbus,OH,USA,863.0,Data Analyst Intern,2026-02-25
+642,Daniel,Wilson,daniel.wilson557@slu.edu,MS Cybersecurity,Cybersecurity,2022,2023,CPT,Plano,TX,USA,246.0,DevOps Intern,2023-08-23
+643,Zachary,Anderson,zachary.anderson864@slu.edu,MBA,Cybersecurity,2020,2022,CPT,Redmond,WA,USA,,,
+644,Kimberly,Grant,kimberly.grant823@slu.edu,MS Computer Science,Information Systems,2021,2022,F1,Grand Rapids,MI,USA,660.0,Data Analyst Intern,2021-06-22
+645,Daniel,Martinez,daniel.martinez977@slu.edu,MS Software Engineering,Software Engineering,2021,2023,F1,St. Louis,MO,USA,,,
+646,Larry,Payne,larry.payne910@slu.edu,MS Information Systems,Software Engineering,2024,2027,STEM-OPT,Tacoma,WA,USA,,,
+647,Crystal,Knight,crystal.knight727@slu.edu,MS Cybersecurity,Biostatistics,2021,2022,CPT,Tucson,AZ,USA,629.0,Research Assistant,2022-12-19
+648,Anne,Walters,anne.walters805@slu.edu,MS Analytics,Marketing,2019,2021,F1,Charlotte,NC,USA,,,
+649,Carla,Nelson,carla.nelson528@slu.edu,MS Computer Science,Electrical Engineering,2018,2020,OPT,San Diego,CA,USA,,,
+650,Kathryn,Lang,kathryn.lang369@slu.edu,MS Software Engineering,Cybersecurity,2020,2021,CPT,Irvine,CA,USA,99.0,DevOps Intern,2021-04-16
+651,Matthew,Butler,matthew.butler103@slu.edu,MS Cybersecurity,Electrical Engineering,2022,2024,F1,Somerville,MA,USA,,,
+652,Ryan,Mayer,ryan.mayer859@slu.edu,MS Analytics,Information Systems,2023,2024,F1,Pittsburgh,PA,USA,,,
+653,Heather,Thomas,heather.thomas277@slu.edu,MS Computer Science,Electrical Engineering,2018,2021,OPT,St. Louis,MO,USA,,,
+654,Derek,Jones,derek.jones503@slu.edu,MS Information Systems,Computer Science,2020,2023,CPT,Boston,MA,USA,347.0,Data Analyst Intern,2021-12-22
+655,Stephen,Carroll,stephen.carroll439@slu.edu,MS Computer Science,Computer Science,2021,2022,CPT,Durham,NC,USA,400.0,QA Intern,2021-09-12
+656,Carol,Brown,carol.brown748@slu.edu,MS Computer Science,Electrical Engineering,2023,2024,STEM-OPT,Cincinnati,OH,USA,930.0,Software Intern,2023-05-20
+657,Erik,Rodriguez,erik.rodriguez832@slu.edu,MS Computer Science,Finance,2021,2022,STEM-OPT,Grand Rapids,MI,USA,,,
+658,Christopher,Green,christopher.green36@slu.edu,MS Cybersecurity,Cybersecurity,2022,2024,OPT,Houston,TX,USA,,,
+659,Patrick,Cooper,patrick.cooper866@slu.edu,MS Data Science,Marketing,2023,2024,CPT,White Plains,NY,USA,869.0,Software Intern,2023-12-25
+660,Tiffany,Harris,tiffany.harris820@slu.edu,MS Data Science,Electrical Engineering,2018,2020,F1,Springfield,MO,USA,,,
+661,Kimberly,Wilson,kimberly.wilson285@slu.edu,MS Software Engineering,Biostatistics,2018,2019,OPT,Philadelphia,PA,USA,546.0,DevOps Intern,2018-09-29
+662,Mitchell,Baldwin,mitchell.baldwin198@slu.edu,MS Information Systems,Finance,2018,2021,F1,Cambridge,MA,USA,880.0,Data Analyst Intern,2018-11-17
+663,Joseph,Hodges,joseph.hodges250@slu.edu,MS Computer Science,Software Engineering,2018,2019,STEM-OPT,Fort Collins,CO,USA,,,
+664,Rachel,Shaffer,rachel.shaffer141@slu.edu,MS Computer Science,Finance,2024,2027,OPT,New York,NY,USA,889.0,Software Intern,2027-03-24
+665,Jeffrey,Rice,jeffrey.rice33@slu.edu,MS Analytics,Software Engineering,2020,2021,OPT,Tempe,AZ,USA,,,
+666,Dominic,Coffey,dominic.coffey492@slu.edu,MS Analytics,Biostatistics,2021,2024,OPT,Denver,CO,USA,,,
+667,Keith,Delgado,keith.delgado398@slu.edu,MS Software Engineering,Software Engineering,2024,2025,OPT,Worcester,MA,USA,336.0,Data Analyst Intern,2025-07-03
+668,Kara,Watkins,kara.watkins117@slu.edu,MS Analytics,Computer Science,2019,2020,OPT,Columbia,MO,USA,,,
+669,Michael,Davidson,michael.davidson449@slu.edu,MBA,Business Analytics,2019,2021,F1,Tacoma,WA,USA,694.0,Data Analyst Intern,2019-12-29
+670,James,Avila,james.avila52@slu.edu,MS Information Systems,Software Engineering,2024,2027,OPT,Cambridge,MA,USA,767.0,Software Intern,2024-02-23
+671,Janice,Wade,janice.wade647@slu.edu,MS Information Systems,Marketing,2020,2021,CPT,Detroit,MI,USA,,,
+672,Christopher,Miller,christopher.miller206@slu.edu,MS Cybersecurity,Electrical Engineering,2021,2024,F1,Detroit,MI,USA,,,
+673,Katrina,Schmidt,katrina.schmidt346@slu.edu,MS Computer Science,Software Engineering,2022,2023,STEM-OPT,Ann Arbor,MI,USA,260.0,DevOps Intern,2022-03-29
+674,John,Ryan,john.ryan589@slu.edu,MS Computer Science,Finance,2021,2023,CPT,Chesterfield,MO,USA,,,
+675,Carolyn,Thomas,carolyn.thomas304@slu.edu,MS Computer Science,Business Analytics,2023,2025,OPT,Tampa,FL,USA,,,
+676,Michelle,Smith,michelle.smith554@slu.edu,MS Computer Science,Finance,2020,2023,OPT,Worcester,MA,USA,,,
+677,Dawn,Mosley,dawn.mosley610@slu.edu,MBA,Software Engineering,2022,2025,F1,Harrisburg,PA,USA,,,
+678,Richard,Smith,richard.smith927@slu.edu,MS Analytics,Marketing,2019,2022,STEM-OPT,Savannah,GA,USA,,,
+679,Jonathon,Pope,jonathon.pope449@slu.edu,MS Computer Science,Computer Science,2020,2022,STEM-OPT,Tampa,FL,USA,,,
+680,Nicole,Gonzalez,nicole.gonzalez746@slu.edu,MS Analytics,Software Engineering,2021,2022,CPT,Fort Collins,CO,USA,120.0,Research Assistant,2021-03-01
+681,Mary,Lewis,mary.lewis941@slu.edu,MS Cybersecurity,Biostatistics,2024,2027,CPT,Chesterfield,MO,USA,,,
+682,Jennifer,Wilcox,jennifer.wilcox767@slu.edu,MS Information Systems,Cybersecurity,2020,2022,STEM-OPT,San Francisco,CA,USA,741.0,Data Analyst Intern,2020-03-02
+683,April,Carter,april.carter204@slu.edu,MS Data Science,Biostatistics,2020,2022,F1,Philadelphia,PA,USA,909.0,Research Assistant,2022-12-31
+684,Michelle,Valencia,michelle.valencia345@slu.edu,MS Analytics,Software Engineering,2021,2023,CPT,Irvine,CA,USA,,,
+685,Jennifer,Garcia,jennifer.garcia115@slu.edu,MS Cybersecurity,Electrical Engineering,2019,2022,F1,Chesterfield,MO,USA,,,
+686,Charles,Johnston,charles.johnston797@slu.edu,MS Cybersecurity,Software Engineering,2020,2022,OPT,Buffalo,NY,USA,,,
+687,Angela,Walker,angela.walker433@slu.edu,MBA,Information Systems,2021,2024,OPT,Cincinnati,OH,USA,,,
+688,James,Friedman,james.friedman456@slu.edu,MS Information Systems,Computer Science,2020,2022,STEM-OPT,Boston,MA,USA,,,
+689,Elizabeth,Kim,elizabeth.kim969@slu.edu,MS Software Engineering,Finance,2023,2025,STEM-OPT,Cary,NC,USA,448.0,DevOps Intern,2025-02-22
+690,Brenda,Hayden,brenda.hayden453@slu.edu,MBA,Cybersecurity,2024,2026,F1,Naperville,IL,USA,,,
+691,Craig,Jones,craig.jones899@slu.edu,MS Software Engineering,Marketing,2021,2023,CPT,Orlando,FL,USA,,,
+692,Michelle,Roberts,michelle.roberts347@slu.edu,MS Analytics,Software Engineering,2020,2023,F1,Boulder,CO,USA,,,
+693,Amy,Brown,amy.brown2@slu.edu,MS Cybersecurity,Data Science,2023,2024,OPT,Houston,TX,USA,,,
+694,Linda,Terry,linda.terry356@slu.edu,MS Information Systems,Cybersecurity,2019,2021,OPT,Somerville,MA,USA,,,
+695,Wanda,Carter,wanda.carter456@slu.edu,MS Information Systems,Computer Science,2020,2021,OPT,White Plains,NY,USA,,,
+696,Timothy,Smith,timothy.smith60@slu.edu,MBA,Biostatistics,2019,2021,OPT,Bellevue,WA,USA,,,
+697,Lisa,Torres,lisa.torres11@slu.edu,MS Information Systems,Marketing,2019,2020,OPT,Plano,TX,USA,,,
+698,Lydia,Taylor,lydia.taylor800@slu.edu,MS Cybersecurity,Computer Science,2023,2024,STEM-OPT,Durham,NC,USA,18.0,DevOps Intern,2024-08-27
+699,Desiree,Newman,desiree.newman629@slu.edu,MS Data Science,Biostatistics,2024,2027,F1,San Antonio,TX,USA,,,
+700,Robert,Cunningham,robert.cunningham786@slu.edu,MS Analytics,Computer Science,2019,2022,OPT,Fort Collins,CO,USA,736.0,DevOps Intern,2020-02-21
+701,Meagan,Carney,meagan.carney453@slu.edu,MS Analytics,Marketing,2021,2022,STEM-OPT,Los Angeles,CA,USA,,,
+702,Cheryl,Miller,cheryl.miller181@slu.edu,MS Software Engineering,Finance,2019,2020,F1,Springfield,IL,USA,,,
+703,Thomas,Wolf,thomas.wolf62@slu.edu,MS Information Systems,Information Systems,2021,2024,CPT,Colorado Springs,CO,USA,,,
+704,Jessica,Lozano,jessica.lozano536@slu.edu,MS Software Engineering,Biostatistics,2021,2022,CPT,Harrisburg,PA,USA,,,
+705,Eric,Wright,eric.wright4@slu.edu,MS Analytics,Software Engineering,2018,2019,OPT,Jacksonville,FL,USA,,,
+706,Sara,Cooke,sara.cooke803@slu.edu,MBA,Software Engineering,2018,2020,F1,Atlanta,GA,USA,567.0,Data Analyst Intern,2019-06-19
+707,David,Soto,david.soto906@slu.edu,MS Computer Science,Computer Science,2022,2025,OPT,Orlando,FL,USA,,,
+708,Stacey,Nunez,stacey.nunez992@slu.edu,MS Information Systems,Electrical Engineering,2020,2021,CPT,Boulder,CO,USA,,,
+709,Carrie,Smith,carrie.smith631@slu.edu,MBA,Data Science,2019,2022,OPT,Cincinnati,OH,USA,,,
+710,Jessica,Walker,jessica.walker458@slu.edu,MS Information Systems,Information Systems,2024,2025,OPT,Orlando,FL,USA,388.0,QA Intern,2025-08-22
+711,David,Young,david.young962@slu.edu,MS Information Systems,Finance,2018,2019,F1,Orlando,FL,USA,,,
+712,Kristy,Spencer,kristy.spencer576@slu.edu,MBA,Cybersecurity,2018,2019,OPT,Charlotte,NC,USA,,,
+713,Joseph,Kennedy,joseph.kennedy114@slu.edu,MS Data Science,Marketing,2021,2022,F1,Pittsburgh,PA,USA,636.0,QA Intern,2021-03-10
+714,Sarah,Brown,sarah.brown34@slu.edu,MBA,Business Analytics,2024,2026,F1,Seattle,WA,USA,284.0,Research Assistant,2025-04-22
+715,Lauren,Miller,lauren.miller79@slu.edu,MS Data Science,Software Engineering,2018,2020,STEM-OPT,Bellevue,WA,USA,281.0,Software Intern,2019-01-15
+716,Terri,Maddox,terri.maddox49@slu.edu,MS Software Engineering,Data Science,2020,2022,OPT,San Antonio,TX,USA,,,
+717,Cynthia,Hayes,cynthia.hayes296@slu.edu,MS Computer Science,Biostatistics,2020,2021,CPT,Detroit,MI,USA,,,
+718,Amanda,Turner,amanda.turner988@slu.edu,MS Analytics,Electrical Engineering,2024,2027,OPT,Cambridge,MA,USA,204.0,Research Assistant,2024-02-29
+719,Angel,Lynch,angel.lynch600@slu.edu,MS Cybersecurity,Data Science,2022,2025,STEM-OPT,Alpharetta,GA,USA,,,
+720,Brett,Greer,brett.greer522@slu.edu,MS Information Systems,Business Analytics,2020,2022,OPT,Phoenix,AZ,USA,,,
+721,Bruce,Lyons,bruce.lyons446@slu.edu,MS Software Engineering,Data Science,2024,2025,STEM-OPT,Somerville,MA,USA,,,
+722,Charles,Yang,charles.yang407@slu.edu,MBA,Computer Science,2022,2024,OPT,Bellevue,WA,USA,,,
+723,Benjamin,Mcdonald,benjamin.mcdonald490@slu.edu,MS Computer Science,Information Systems,2022,2023,CPT,Ann Arbor,MI,USA,,,
+724,William,Sanchez,william.sanchez772@slu.edu,MS Information Systems,Cybersecurity,2023,2024,STEM-OPT,Grand Rapids,MI,USA,529.0,DevOps Intern,2023-04-14
+725,Anna,Dominguez,anna.dominguez260@slu.edu,MS Analytics,Cybersecurity,2024,2025,CPT,Phoenix,AZ,USA,,,
+726,John,Delgado,john.delgado494@slu.edu,MS Software Engineering,Marketing,2018,2019,OPT,Miami,FL,USA,,,
+727,Jason,English,jason.english783@slu.edu,MS Software Engineering,Electrical Engineering,2021,2022,F1,Grand Rapids,MI,USA,,,
+728,Laura,Richards,laura.richards843@slu.edu,MS Cybersecurity,Information Systems,2020,2021,OPT,Alpharetta,GA,USA,656.0,Software Intern,2020-05-15
+729,Sally,Webster,sally.webster394@slu.edu,MBA,Marketing,2023,2026,STEM-OPT,Alpharetta,GA,USA,,,
+730,Joseph,Cohen,joseph.cohen796@slu.edu,MBA,Business Analytics,2020,2023,F1,Houston,TX,USA,642.0,Research Assistant,2023-05-21
+731,Brandi,Estrada,brandi.estrada530@slu.edu,MBA,Software Engineering,2022,2024,OPT,San Jose,CA,USA,256.0,Research Assistant,2022-08-03
+732,Michael,Murray,michael.murray937@slu.edu,MS Analytics,Marketing,2021,2022,STEM-OPT,Philadelphia,PA,USA,,,
+733,Antonio,Butler,antonio.butler921@slu.edu,MS Information Systems,Cybersecurity,2024,2026,CPT,Savannah,GA,USA,998.0,Research Assistant,2024-09-16
+734,Paula,Johnson,paula.johnson959@slu.edu,MS Data Science,Marketing,2023,2024,OPT,Charlotte,NC,USA,,,
+735,Heather,Welch,heather.welch611@slu.edu,MS Data Science,Electrical Engineering,2018,2019,CPT,Phoenix,AZ,USA,,,
+736,Joseph,Miller,joseph.miller47@slu.edu,MBA,Business Analytics,2018,2021,STEM-OPT,Cincinnati,OH,USA,,,
+737,Anita,Roberts,anita.roberts647@slu.edu,MS Analytics,Computer Science,2022,2024,OPT,Orlando,FL,USA,,,
+738,Michelle,Austin,michelle.austin150@slu.edu,MS Analytics,Marketing,2022,2024,F1,San Jose,CA,USA,,,
+739,Charles,Allen,charles.allen612@slu.edu,MS Cybersecurity,Data Science,2019,2021,CPT,Albany,NY,USA,,,
+740,Elizabeth,Freeman,elizabeth.freeman518@slu.edu,MS Computer Science,Computer Science,2020,2022,F1,Somerville,MA,USA,,,
+741,Christina,Reyes,christina.reyes660@slu.edu,MBA,Biostatistics,2019,2021,F1,Austin,TX,USA,153.0,DevOps Intern,2020-10-16
+742,Michele,Grant,michele.grant577@slu.edu,MS Computer Science,Data Science,2021,2024,CPT,Detroit,MI,USA,,,
+743,Amanda,Lewis,amanda.lewis697@slu.edu,MS Information Systems,Finance,2024,2027,CPT,Columbus,OH,USA,,,
+744,April,Norman,april.norman927@slu.edu,MS Software Engineering,Computer Science,2024,2025,CPT,Plano,TX,USA,489.0,Data Analyst Intern,2024-02-19
+745,Erik,Ellis,erik.ellis438@slu.edu,MS Information Systems,Biostatistics,2021,2023,STEM-OPT,Somerville,MA,USA,,,
+746,Joshua,Duncan,joshua.duncan700@slu.edu,MS Software Engineering,Information Systems,2022,2023,STEM-OPT,Tampa,FL,USA,,,
+747,Jennifer,Barnett,jennifer.barnett882@slu.edu,MS Analytics,Software Engineering,2022,2025,STEM-OPT,Colorado Springs,CO,USA,,,
+748,Jack,Clark,jack.clark852@slu.edu,MS Analytics,Marketing,2018,2021,STEM-OPT,Jacksonville,FL,USA,,,
+749,Kenneth,Davis,kenneth.davis872@slu.edu,MS Computer Science,Software Engineering,2019,2020,OPT,Boston,MA,USA,,,
+750,Angela,Sanders,angela.sanders201@slu.edu,MS Information Systems,Marketing,2018,2021,OPT,Chesterfield,MO,USA,,,
+751,Alicia,Mcdonald,alicia.mcdonald888@slu.edu,MBA,Finance,2024,2025,OPT,Cambridge,MA,USA,,,
+752,Michael,Lee,michael.lee20@slu.edu,MS Information Systems,Computer Science,2021,2022,STEM-OPT,Rochester,NY,USA,,,
+753,Natalie,Gonzalez,natalie.gonzalez332@slu.edu,MBA,Cybersecurity,2024,2026,STEM-OPT,Ann Arbor,MI,USA,88.0,Research Assistant,2024-11-19
+754,Mario,Gentry,mario.gentry599@slu.edu,MBA,Business Analytics,2019,2020,OPT,Pittsburgh,PA,USA,44.0,QA Intern,2020-09-15
+755,Kirk,Hicks,kirk.hicks403@slu.edu,MBA,Software Engineering,2021,2024,F1,Boulder,CO,USA,,,
+756,Dustin,Ball,dustin.ball664@slu.edu,MS Information Systems,Business Analytics,2022,2025,OPT,Springfield,MO,USA,449.0,Research Assistant,2022-03-26
+757,Annette,Sheppard,annette.sheppard978@slu.edu,MS Information Systems,Electrical Engineering,2018,2020,CPT,Bellevue,WA,USA,974.0,Research Assistant,2019-07-19
+758,Andrew,Johnson,andrew.johnson723@slu.edu,MS Analytics,Electrical Engineering,2018,2020,CPT,Tampa,FL,USA,,,
+759,Tiffany,Henderson,tiffany.henderson380@slu.edu,MS Analytics,Electrical Engineering,2019,2020,CPT,Pittsburgh,PA,USA,724.0,Data Analyst Intern,2020-11-15
+760,Christopher,White,christopher.white192@slu.edu,MS Cybersecurity,Marketing,2019,2020,STEM-OPT,Boulder,CO,USA,586.0,Software Intern,2019-10-11
+761,Brian,Jimenez,brian.jimenez532@slu.edu,MBA,Software Engineering,2024,2025,OPT,Tucson,AZ,USA,,,
+762,Harold,Freeman,harold.freeman127@slu.edu,MS Information Systems,Marketing,2024,2026,F1,Pittsburgh,PA,USA,,,
+763,Amber,Williams,amber.williams983@slu.edu,MS Software Engineering,Computer Science,2020,2022,STEM-OPT,Harrisburg,PA,USA,540.0,QA Intern,2022-07-17
+764,Thomas,Petty,thomas.petty283@slu.edu,MS Cybersecurity,Information Systems,2021,2023,STEM-OPT,Ann Arbor,MI,USA,,,
+765,Jennifer,Gray,jennifer.gray256@slu.edu,MBA,Software Engineering,2024,2025,OPT,Phoenix,AZ,USA,,,
+766,Deborah,Smith,deborah.smith279@slu.edu,MS Analytics,Software Engineering,2022,2024,OPT,Alpharetta,GA,USA,,,
+767,Travis,Ward,travis.ward951@slu.edu,MS Software Engineering,Business Analytics,2020,2023,OPT,Savannah,GA,USA,,,
+768,Kevin,Blankenship,kevin.blankenship677@slu.edu,MBA,Computer Science,2018,2021,CPT,Grand Rapids,MI,USA,435.0,Data Analyst Intern,2021-05-21
+769,Craig,Bates,craig.bates778@slu.edu,MS Data Science,Data Science,2023,2025,F1,San Antonio,TX,USA,,,
+770,Kelly,Mckinney,kelly.mckinney999@slu.edu,MS Software Engineering,Data Science,2024,2027,STEM-OPT,Orlando,FL,USA,,,
+771,Ryan,Rice,ryan.rice135@slu.edu,MS Analytics,Information Systems,2024,2025,STEM-OPT,Tacoma,WA,USA,251.0,Software Intern,2025-11-18
+772,Darrell,Barajas,darrell.barajas874@slu.edu,MBA,Cybersecurity,2023,2024,CPT,Durham,NC,USA,,,
+773,Jennifer,Norton,jennifer.norton113@slu.edu,MS Information Systems,Data Science,2018,2020,F1,Cambridge,MA,USA,,,
+774,Craig,Diaz,craig.diaz972@slu.edu,MS Information Systems,Software Engineering,2019,2021,STEM-OPT,Tucson,AZ,USA,,,
+775,Roger,Palmer,roger.palmer696@slu.edu,MS Cybersecurity,Finance,2020,2022,OPT,San Jose,CA,USA,271.0,Data Analyst Intern,2022-01-22
+776,Jamie,Willis,jamie.willis193@slu.edu,MS Cybersecurity,Software Engineering,2022,2023,STEM-OPT,Cambridge,MA,USA,1.0,Research Assistant,2022-01-26
+777,April,Warren,april.warren976@slu.edu,MBA,Computer Science,2020,2021,OPT,Columbia,MO,USA,,,
+778,Jonathan,Warner,jonathan.warner226@slu.edu,MS Analytics,Computer Science,2019,2022,STEM-OPT,Harrisburg,PA,USA,75.0,Software Intern,2022-09-22
+779,Mary,Flores,mary.flores920@slu.edu,MS Information Systems,Electrical Engineering,2022,2023,STEM-OPT,Buffalo,NY,USA,455.0,Data Analyst Intern,2022-12-03
+780,Jennifer,Rodriguez,jennifer.rodriguez764@slu.edu,MS Cybersecurity,Finance,2024,2027,CPT,Peoria,IL,USA,791.0,Software Intern,2024-10-09
+781,Sarah,Griffin,sarah.griffin956@slu.edu,MS Information Systems,Finance,2023,2026,CPT,White Plains,NY,USA,,,
+782,Michael,Williams,michael.williams410@slu.edu,MS Information Systems,Computer Science,2021,2024,F1,Ann Arbor,MI,USA,,,
+783,Brenda,Ashley,brenda.ashley364@slu.edu,MBA,Computer Science,2019,2022,OPT,Savannah,GA,USA,458.0,QA Intern,2020-04-21
+784,Karen,Bender,karen.bender864@slu.edu,MS Cybersecurity,Biostatistics,2023,2026,CPT,Charlotte,NC,USA,,,
+785,Calvin,Daniel,calvin.daniel574@slu.edu,MS Cybersecurity,Biostatistics,2022,2024,STEM-OPT,Pittsburgh,PA,USA,237.0,DevOps Intern,2024-02-03
+786,Mariah,Smith,mariah.smith61@slu.edu,MS Cybersecurity,Finance,2019,2021,OPT,Springfield,IL,USA,,,
+787,John,Patterson,john.patterson663@slu.edu,MS Software Engineering,Business Analytics,2018,2019,F1,Buffalo,NY,USA,,,
+788,Dawn,Robinson,dawn.robinson339@slu.edu,MS Analytics,Computer Science,2019,2022,F1,Springfield,IL,USA,,,
+789,Candace,Wilkerson,candace.wilkerson323@slu.edu,MS Data Science,Computer Science,2024,2027,F1,Charlotte,NC,USA,530.0,QA Intern,2026-08-22
+790,Nicole,Lee,nicole.lee659@slu.edu,MS Data Science,Business Analytics,2023,2026,STEM-OPT,Philadelphia,PA,USA,751.0,DevOps Intern,2023-04-07
+791,Erika,Hubbard,erika.hubbard557@slu.edu,MS Data Science,Cybersecurity,2024,2025,CPT,Denver,CO,USA,,,
+792,Jorge,Mcdonald,jorge.mcdonald666@slu.edu,MS Computer Science,Information Systems,2021,2023,CPT,Somerville,MA,USA,,,
+793,Danielle,Simmons,danielle.simmons427@slu.edu,MS Data Science,Marketing,2022,2025,CPT,Tempe,AZ,USA,885.0,Data Analyst Intern,2023-01-28
+794,Crystal,Curry,crystal.curry711@slu.edu,MS Information Systems,Finance,2020,2023,CPT,Austin,TX,USA,,,
+795,Cole,Jones,cole.jones41@slu.edu,MS Software Engineering,Electrical Engineering,2018,2019,STEM-OPT,Houston,TX,USA,714.0,DevOps Intern,2018-11-12
+796,David,Jones,david.jones675@slu.edu,MS Data Science,Finance,2021,2023,F1,Kansas City,MO,USA,,,
+797,Lisa,Berg,lisa.berg82@slu.edu,MS Cybersecurity,Biostatistics,2019,2022,STEM-OPT,Seattle,WA,USA,,,
+798,Virginia,Myers,virginia.myers503@slu.edu,MS Computer Science,Software Engineering,2020,2021,STEM-OPT,Savannah,GA,USA,,,
+799,Karen,Payne,karen.payne69@slu.edu,MS Data Science,Computer Science,2019,2021,OPT,Pittsburgh,PA,USA,,,
+800,Anna,Robinson,anna.robinson838@slu.edu,MS Data Science,Electrical Engineering,2020,2023,CPT,Phoenix,AZ,USA,440.0,Data Analyst Intern,2020-06-28
+801,Bryan,Williams,bryan.williams801@slu.edu,MS Analytics,Business Analytics,2023,2024,CPT,Scottsdale,AZ,USA,475.0,DevOps Intern,2023-11-15
+802,Meghan,Barry,meghan.barry803@slu.edu,MS Computer Science,Biostatistics,2021,2023,STEM-OPT,Boston,MA,USA,,,
+803,Nicholas,Burton,nicholas.burton964@slu.edu,MS Cybersecurity,Electrical Engineering,2024,2026,CPT,Raleigh,NC,USA,,,
+804,Angela,Anderson,angela.anderson193@slu.edu,MS Cybersecurity,Computer Science,2020,2021,OPT,Scottsdale,AZ,USA,,,
+805,Stacy,Parks,stacy.parks492@slu.edu,MS Information Systems,Electrical Engineering,2021,2024,F1,Urbana,IL,USA,,,
+806,Amanda,Graves,amanda.graves221@slu.edu,MBA,Data Science,2024,2027,F1,Springfield,IL,USA,,,
+807,Tyler,Newman,tyler.newman938@slu.edu,MS Computer Science,Marketing,2022,2025,STEM-OPT,Durham,NC,USA,,,
+808,Ricardo,Williams,ricardo.williams161@slu.edu,MBA,Finance,2018,2019,STEM-OPT,Houston,TX,USA,585.0,DevOps Intern,2018-04-17
+809,Sarah,Mann,sarah.mann771@slu.edu,MS Software Engineering,Biostatistics,2018,2020,STEM-OPT,Kansas City,MO,USA,,,
+810,Andrea,Glenn,andrea.glenn970@slu.edu,MS Data Science,Business Analytics,2020,2022,F1,Los Angeles,CA,USA,,,
+811,Karen,Phelps,karen.phelps576@slu.edu,MS Computer Science,Cybersecurity,2021,2022,CPT,Atlanta,GA,USA,27.0,Research Assistant,2021-12-14
+812,Kristin,Brown,kristin.brown29@slu.edu,MS Computer Science,Marketing,2023,2025,OPT,Cleveland,OH,USA,,,
+813,Christopher,Page,christopher.page592@slu.edu,MS Analytics,Computer Science,2018,2020,OPT,Alpharetta,GA,USA,426.0,DevOps Intern,2018-05-14
+814,Gerald,Carr,gerald.carr676@slu.edu,MS Cybersecurity,Data Science,2022,2024,F1,Bellevue,WA,USA,423.0,QA Intern,2024-05-27
+815,William,Armstrong,william.armstrong479@slu.edu,MS Information Systems,Biostatistics,2019,2021,OPT,Pittsburgh,PA,USA,,,
+816,Jeffrey,Cain,jeffrey.cain470@slu.edu,MBA,Marketing,2020,2023,STEM-OPT,Buffalo,NY,USA,,,
+817,Jeffrey,Robinson,jeffrey.robinson736@slu.edu,MBA,Finance,2023,2025,F1,Clayton,MO,USA,556.0,Data Analyst Intern,2023-02-24
+818,Ashley,King,ashley.king985@slu.edu,MS Cybersecurity,Software Engineering,2021,2022,STEM-OPT,Denver,CO,USA,,,
+819,Rebecca,Cameron,rebecca.cameron886@slu.edu,MS Software Engineering,Computer Science,2020,2022,STEM-OPT,Ann Arbor,MI,USA,306.0,QA Intern,2022-11-04
+820,Linda,Adams,linda.adams84@slu.edu,MS Cybersecurity,Finance,2018,2019,STEM-OPT,Worcester,MA,USA,425.0,DevOps Intern,2019-08-02
+821,Eric,Schwartz,eric.schwartz499@slu.edu,MS Computer Science,Cybersecurity,2023,2024,STEM-OPT,Los Angeles,CA,USA,,,
+822,Jill,Maynard,jill.maynard596@slu.edu,MS Analytics,Data Science,2020,2022,STEM-OPT,Tampa,FL,USA,36.0,Software Intern,2022-10-29
+823,John,Wilson,john.wilson577@slu.edu,MS Information Systems,Software Engineering,2019,2020,STEM-OPT,Grand Rapids,MI,USA,,,
+824,Malik,Thompson,malik.thompson410@slu.edu,MS Analytics,Finance,2020,2022,OPT,Atlanta,GA,USA,,,
+825,Terrence,Lawson,terrence.lawson20@slu.edu,MS Analytics,Cybersecurity,2020,2021,F1,Tempe,AZ,USA,,,
+826,Karen,Torres,karen.torres562@slu.edu,MS Data Science,Information Systems,2020,2023,STEM-OPT,Cary,NC,USA,,,
+827,Diana,Ramsey,diana.ramsey103@slu.edu,MS Software Engineering,Electrical Engineering,2024,2027,OPT,Phoenix,AZ,USA,189.0,Software Intern,2024-10-15
+828,Cathy,Webb,cathy.webb458@slu.edu,MS Cybersecurity,Software Engineering,2022,2024,CPT,Somerville,MA,USA,,,
+829,Michelle,Knapp,michelle.knapp530@slu.edu,MS Information Systems,Computer Science,2021,2022,STEM-OPT,Somerville,MA,USA,31.0,DevOps Intern,2022-06-24
+830,Robert,Crosby,robert.crosby775@slu.edu,MS Information Systems,Information Systems,2021,2024,OPT,Chesterfield,MO,USA,266.0,DevOps Intern,2023-07-09
+831,Andrea,Williams,andrea.williams329@slu.edu,MS Analytics,Electrical Engineering,2020,2022,OPT,Worcester,MA,USA,,,
+832,Sarah,Davis,sarah.davis743@slu.edu,MBA,Marketing,2018,2020,F1,Columbus,OH,USA,568.0,Data Analyst Intern,2018-01-04
+833,Wanda,Mcbride,wanda.mcbride270@slu.edu,MS Software Engineering,Computer Science,2020,2023,CPT,Kansas City,MO,USA,620.0,Research Assistant,2023-03-28
+834,Samantha,Goodwin,samantha.goodwin704@slu.edu,MBA,Electrical Engineering,2020,2022,F1,Bellevue,WA,USA,921.0,Research Assistant,2020-09-16
+835,Melissa,Ramos,melissa.ramos323@slu.edu,MS Information Systems,Electrical Engineering,2021,2022,STEM-OPT,Cambridge,MA,USA,196.0,QA Intern,2022-11-28
+836,Charles,Davis,charles.davis855@slu.edu,MS Software Engineering,Marketing,2024,2025,CPT,White Plains,NY,USA,,,
+837,Suzanne,Perry,suzanne.perry309@slu.edu,MS Information Systems,Biostatistics,2018,2019,STEM-OPT,Grand Rapids,MI,USA,,,
+838,Lisa,Galvan,lisa.galvan411@slu.edu,MS Cybersecurity,Cybersecurity,2019,2020,OPT,Philadelphia,PA,USA,699.0,QA Intern,2019-09-06
+839,Daniel,Everett,daniel.everett79@slu.edu,MBA,Business Analytics,2022,2023,CPT,Charlotte,NC,USA,,,
+840,Timothy,Melendez,timothy.melendez485@slu.edu,MS Computer Science,Cybersecurity,2018,2021,STEM-OPT,St. Louis,MO,USA,,,
+841,Mike,Cooper,mike.cooper221@slu.edu,MS Software Engineering,Finance,2019,2020,OPT,Plano,TX,USA,580.0,Data Analyst Intern,2020-07-19
+842,Tanya,Liu,tanya.liu255@slu.edu,MS Data Science,Finance,2022,2024,F1,Columbia,MO,USA,,,
+843,Maria,Hunt,maria.hunt895@slu.edu,MBA,Information Systems,2018,2020,OPT,Columbus,OH,USA,,,
+844,Joseph,Mcdonald,joseph.mcdonald172@slu.edu,MS Analytics,Computer Science,2022,2024,STEM-OPT,Pittsburgh,PA,USA,,,
+845,Christina,Kline,christina.kline540@slu.edu,MBA,Finance,2019,2020,STEM-OPT,Detroit,MI,USA,,,
+846,Nicole,Gregory,nicole.gregory964@slu.edu,MS Information Systems,Finance,2022,2025,CPT,Cary,NC,USA,,,
+847,Pedro,Gould,pedro.gould665@slu.edu,MS Software Engineering,Electrical Engineering,2020,2023,F1,Cincinnati,OH,USA,,,
+848,Stacy,Young,stacy.young183@slu.edu,MBA,Marketing,2018,2020,OPT,Columbus,OH,USA,,,
+849,Kenneth,Tran,kenneth.tran222@slu.edu,MS Software Engineering,Cybersecurity,2023,2024,CPT,Worcester,MA,USA,705.0,DevOps Intern,2023-01-05
+850,Amy,Henson,amy.henson690@slu.edu,MBA,Biostatistics,2018,2019,F1,Bellevue,WA,USA,,,
+851,Shannon,Alexander,shannon.alexander943@slu.edu,MS Software Engineering,Biostatistics,2019,2021,STEM-OPT,Atlanta,GA,USA,,,
+852,Evan,Bailey,evan.bailey985@slu.edu,MS Data Science,Biostatistics,2018,2021,CPT,Worcester,MA,USA,493.0,Data Analyst Intern,2020-10-17
+853,Timothy,Fitzgerald,timothy.fitzgerald125@slu.edu,MS Data Science,Marketing,2024,2025,OPT,Orlando,FL,USA,,,
+854,Anthony,Church,anthony.church479@slu.edu,MS Computer Science,Computer Science,2023,2026,OPT,Denver,CO,USA,,,
+855,Anthony,Diaz,anthony.diaz774@slu.edu,MS Computer Science,Electrical Engineering,2024,2025,F1,St. Louis,MO,USA,136.0,Software Intern,2025-02-13
+856,Shelia,Lee,shelia.lee977@slu.edu,MBA,Information Systems,2018,2021,CPT,Tucson,AZ,USA,,,
+857,Emily,Wright,emily.wright138@slu.edu,MS Information Systems,Cybersecurity,2020,2022,CPT,Raleigh,NC,USA,,,
+858,Perry,Browning,perry.browning600@slu.edu,MS Analytics,Marketing,2021,2024,CPT,Kansas City,MO,USA,,,
+859,Ricardo,Vincent,ricardo.vincent715@slu.edu,MS Information Systems,Biostatistics,2023,2025,STEM-OPT,Scottsdale,AZ,USA,581.0,Software Intern,2023-01-09
+860,Jamie,Young,jamie.young837@slu.edu,MS Cybersecurity,Cybersecurity,2018,2021,OPT,Orlando,FL,USA,,,
+861,Allen,Jones,allen.jones34@slu.edu,MS Cybersecurity,Software Engineering,2021,2022,F1,Pittsburgh,PA,USA,,,
+862,Mary,Miller,mary.miller850@slu.edu,MS Data Science,Finance,2024,2025,OPT,Orlando,FL,USA,,,
+863,Mark,Cruz,mark.cruz870@slu.edu,MS Information Systems,Business Analytics,2022,2023,OPT,Scottsdale,AZ,USA,,,
+864,Timothy,Thomas,timothy.thomas71@slu.edu,MBA,Software Engineering,2021,2022,OPT,Chesterfield,MO,USA,,,
+865,Wendy,Patterson,wendy.patterson120@slu.edu,MBA,Computer Science,2024,2027,OPT,Atlanta,GA,USA,,,
+866,Donna,Johnson,donna.johnson51@slu.edu,MS Software Engineering,Cybersecurity,2019,2021,STEM-OPT,Pittsburgh,PA,USA,476.0,Data Analyst Intern,2020-03-05
+867,James,Jones,james.jones78@slu.edu,MS Data Science,Computer Science,2020,2023,STEM-OPT,Orlando,FL,USA,,,
+868,George,Wilson,george.wilson692@slu.edu,MS Data Science,Electrical Engineering,2021,2022,CPT,Alpharetta,GA,USA,789.0,DevOps Intern,2022-03-09
+869,Chelsea,Webb,chelsea.webb287@slu.edu,MBA,Software Engineering,2019,2022,F1,Miami,FL,USA,,,
+870,Jacqueline,Murphy,jacqueline.murphy559@slu.edu,MS Cybersecurity,Data Science,2018,2020,OPT,Phoenix,AZ,USA,,,
+871,Paige,Torres,paige.torres796@slu.edu,MS Computer Science,Computer Science,2020,2021,STEM-OPT,St. Louis,MO,USA,,,
+872,Kara,Johnson,kara.johnson64@slu.edu,MS Cybersecurity,Finance,2024,2025,OPT,White Plains,NY,USA,199.0,Data Analyst Intern,2025-08-04
+873,Megan,Kline,megan.kline321@slu.edu,MS Software Engineering,Information Systems,2020,2023,STEM-OPT,Fort Collins,CO,USA,,,
+874,Nathaniel,Nelson,nathaniel.nelson6@slu.edu,MS Software Engineering,Data Science,2020,2023,F1,Orlando,FL,USA,,,
+875,Robin,Acosta,robin.acosta817@slu.edu,MS Software Engineering,Finance,2020,2021,OPT,Boulder,CO,USA,957.0,Software Intern,2021-02-28
+876,Craig,Miller,craig.miller633@slu.edu,MS Information Systems,Computer Science,2018,2021,STEM-OPT,Somerville,MA,USA,,,
+877,Wanda,Michael,wanda.michael117@slu.edu,MS Information Systems,Biostatistics,2024,2025,OPT,San Jose,CA,USA,795.0,Software Intern,2025-11-13
+878,Stephen,Hawkins,stephen.hawkins81@slu.edu,MS Software Engineering,Data Science,2022,2025,F1,Chesterfield,MO,USA,,,
+879,Victoria,Jenkins,victoria.jenkins814@slu.edu,MS Computer Science,Data Science,2021,2022,OPT,Kansas City,MO,USA,330.0,Research Assistant,2022-01-15
+880,Brittany,Miller,brittany.miller579@slu.edu,MS Cybersecurity,Software Engineering,2022,2024,F1,Chicago,IL,USA,,,
+881,Eric,Boone,eric.boone292@slu.edu,MBA,Computer Science,2024,2025,STEM-OPT,Scottsdale,AZ,USA,232.0,DevOps Intern,2025-06-16
+882,Brad,Brown,brad.brown291@slu.edu,MBA,Finance,2020,2021,STEM-OPT,San Antonio,TX,USA,858.0,Software Intern,2021-12-09
+883,Eddie,Miller,eddie.miller563@slu.edu,MS Information Systems,Electrical Engineering,2018,2019,OPT,Durham,NC,USA,,,
+884,Jason,Lara,jason.lara768@slu.edu,MS Software Engineering,Cybersecurity,2023,2025,F1,Cincinnati,OH,USA,,,
+885,Kelly,Aguirre,kelly.aguirre448@slu.edu,MS Computer Science,Information Systems,2020,2023,OPT,Jacksonville,FL,USA,,,
+886,Earl,Hernandez,earl.hernandez552@slu.edu,MS Data Science,Cybersecurity,2024,2027,OPT,Denver,CO,USA,,,
+887,Eric,Gonzales,eric.gonzales265@slu.edu,MS Analytics,Marketing,2020,2021,OPT,Cary,NC,USA,,,
+888,Jessica,Cox,jessica.cox759@slu.edu,MS Information Systems,Information Systems,2021,2022,STEM-OPT,Colorado Springs,CO,USA,,,
+889,Lisa,Myers,lisa.myers425@slu.edu,MS Cybersecurity,Finance,2019,2022,CPT,San Francisco,CA,USA,,,
+890,Pamela,Calhoun,pamela.calhoun378@slu.edu,MS Computer Science,Finance,2018,2020,STEM-OPT,Detroit,MI,USA,788.0,Data Analyst Intern,2019-03-29
+891,Elizabeth,Gonzalez,elizabeth.gonzalez108@slu.edu,MS Data Science,Data Science,2023,2025,CPT,San Jose,CA,USA,,,
+892,Robert,Collins,robert.collins672@slu.edu,MS Software Engineering,Electrical Engineering,2019,2022,CPT,Tacoma,WA,USA,450.0,QA Intern,2019-03-18
+893,Keith,Wagner,keith.wagner977@slu.edu,MS Cybersecurity,Marketing,2019,2020,OPT,Chicago,IL,USA,,,
+894,William,Heath,william.heath643@slu.edu,MS Analytics,Marketing,2021,2022,CPT,Houston,TX,USA,421.0,DevOps Intern,2021-03-13
+895,Gregory,Thompson,gregory.thompson391@slu.edu,MS Software Engineering,Biostatistics,2023,2026,F1,Cincinnati,OH,USA,570.0,Data Analyst Intern,2023-01-16
+896,Jody,Owens,jody.owens398@slu.edu,MBA,Software Engineering,2023,2024,STEM-OPT,Denver,CO,USA,,,
+897,Mary,Williamson,mary.williamson69@slu.edu,MS Information Systems,Information Systems,2021,2023,OPT,Urbana,IL,USA,,,
+898,Brenda,Herrera,brenda.herrera903@slu.edu,MS Computer Science,Biostatistics,2024,2025,STEM-OPT,Chicago,IL,USA,,,
+899,Hailey,Gilbert,hailey.gilbert44@slu.edu,MS Cybersecurity,Marketing,2020,2023,OPT,Kansas City,MO,USA,38.0,Data Analyst Intern,2021-08-17
+900,Julia,Carpenter,julia.carpenter8@slu.edu,MS Information Systems,Software Engineering,2020,2021,OPT,Tacoma,WA,USA,,,
+901,Ellen,Shepherd,ellen.shepherd34@slu.edu,MS Computer Science,Business Analytics,2022,2024,OPT,Los Angeles,CA,USA,,,
+902,Troy,Velez,troy.velez188@slu.edu,MS Information Systems,Business Analytics,2022,2023,OPT,Rochester,NY,USA,878.0,QA Intern,2022-04-24
+903,Elizabeth,Holden,elizabeth.holden934@slu.edu,MS Computer Science,Electrical Engineering,2022,2024,F1,Cincinnati,OH,USA,847.0,Data Analyst Intern,2023-10-24
+904,Jennifer,Wilson,jennifer.wilson881@slu.edu,MS Cybersecurity,Biostatistics,2022,2025,CPT,Pittsburgh,PA,USA,,,
+905,Benjamin,Jones,benjamin.jones886@slu.edu,MS Software Engineering,Marketing,2018,2020,STEM-OPT,Cincinnati,OH,USA,,,
+906,Michelle,Wilson,michelle.wilson623@slu.edu,MS Information Systems,Biostatistics,2021,2023,F1,New York,NY,USA,,,
+907,James,Brown,james.brown674@slu.edu,MS Information Systems,Software Engineering,2020,2023,F1,Columbus,OH,USA,962.0,Research Assistant,2022-09-14
+908,Jessica,Holt,jessica.holt468@slu.edu,MS Software Engineering,Biostatistics,2018,2020,F1,Redmond,WA,USA,,,
+909,Joseph,Horton,joseph.horton686@slu.edu,MS Computer Science,Computer Science,2020,2022,CPT,San Francisco,CA,USA,,,
+910,Stephanie,Anderson,stephanie.anderson699@slu.edu,MS Information Systems,Data Science,2022,2025,STEM-OPT,Philadelphia,PA,USA,,,
+911,Tracy,Black,tracy.black604@slu.edu,MS Information Systems,Business Analytics,2021,2022,CPT,Boston,MA,USA,,,
+912,Nathan,Donovan,nathan.donovan667@slu.edu,MBA,Computer Science,2023,2026,F1,Alpharetta,GA,USA,267.0,DevOps Intern,2023-06-04
+913,Susan,Barajas,susan.barajas795@slu.edu,MS Cybersecurity,Finance,2020,2022,OPT,Cleveland,OH,USA,,,
+914,Michelle,Howell,michelle.howell675@slu.edu,MS Computer Science,Information Systems,2018,2021,CPT,Miami,FL,USA,,,
+915,Jenna,Mcmahon,jenna.mcmahon486@slu.edu,MS Computer Science,Data Science,2022,2025,STEM-OPT,Albany,NY,USA,678.0,QA Intern,2025-03-30
+916,Anthony,Garcia,anthony.garcia127@slu.edu,MBA,Finance,2020,2022,OPT,Durham,NC,USA,,,
+917,Michelle,Williams,michelle.williams665@slu.edu,MS Cybersecurity,Biostatistics,2023,2025,F1,Pittsburgh,PA,USA,,,
+918,Tami,Beck,tami.beck906@slu.edu,MS Analytics,Marketing,2022,2024,F1,Columbus,OH,USA,,,
+919,Daniel,Wright,daniel.wright346@slu.edu,MS Information Systems,Cybersecurity,2023,2025,CPT,Atlanta,GA,USA,931.0,Data Analyst Intern,2025-02-08
+920,Ashley,Allen,ashley.allen845@slu.edu,MS Information Systems,Information Systems,2022,2025,STEM-OPT,Chesterfield,MO,USA,634.0,Data Analyst Intern,2024-05-30
+921,Andrea,Soto,andrea.soto670@slu.edu,MS Analytics,Finance,2023,2025,OPT,Plano,TX,USA,,,
+922,Matthew,Thomas,matthew.thomas425@slu.edu,MS Software Engineering,Computer Science,2022,2025,CPT,Cleveland,OH,USA,,,
+923,Jessica,Johnson,jessica.johnson464@slu.edu,MBA,Finance,2021,2024,CPT,Somerville,MA,USA,,,
+924,Ryan,Fuller,ryan.fuller161@slu.edu,MS Analytics,Biostatistics,2019,2021,STEM-OPT,Philadelphia,PA,USA,253.0,Software Intern,2019-01-05
+925,Dana,Miller,dana.miller992@slu.edu,MS Software Engineering,Computer Science,2022,2025,OPT,Tampa,FL,USA,,,
+926,Eric,Daniel,eric.daniel711@slu.edu,MS Analytics,Cybersecurity,2018,2021,STEM-OPT,Peoria,IL,USA,,,
+927,Ashley,Moore,ashley.moore16@slu.edu,MS Information Systems,Software Engineering,2022,2024,STEM-OPT,Irvine,CA,USA,,,
+928,Eric,Johnson,eric.johnson702@slu.edu,MBA,Software Engineering,2024,2027,CPT,New York,NY,USA,,,
+929,Monica,Phillips,monica.phillips536@slu.edu,MS Analytics,Software Engineering,2023,2024,CPT,Clayton,MO,USA,,,
+930,David,Bond,david.bond614@slu.edu,MS Computer Science,Information Systems,2022,2024,F1,White Plains,NY,USA,,,
+931,Jeremy,Coleman,jeremy.coleman593@slu.edu,MS Data Science,Cybersecurity,2019,2021,OPT,Alpharetta,GA,USA,,,
+932,Misty,Thomas,misty.thomas216@slu.edu,MS Software Engineering,Business Analytics,2024,2026,CPT,Grand Rapids,MI,USA,,,
+933,Crystal,Morris,crystal.morris365@slu.edu,MS Data Science,Computer Science,2019,2020,STEM-OPT,Dallas,TX,USA,,,
+934,Madeline,Rivera,madeline.rivera679@slu.edu,MS Computer Science,Finance,2018,2019,OPT,Ann Arbor,MI,USA,,,
+935,Darryl,Kennedy,darryl.kennedy996@slu.edu,MS Cybersecurity,Information Systems,2023,2026,CPT,Seattle,WA,USA,,,
+936,Brian,Franco,brian.franco928@slu.edu,MS Cybersecurity,Software Engineering,2020,2021,CPT,Denver,CO,USA,,,
+937,Jessica,Nelson,jessica.nelson367@slu.edu,MS Analytics,Data Science,2019,2021,CPT,Redmond,WA,USA,432.0,Research Assistant,2020-08-23
+938,Darren,Moore,darren.moore18@slu.edu,MS Information Systems,Computer Science,2023,2026,F1,Springfield,MO,USA,,,
+939,Karla,Castillo,karla.castillo348@slu.edu,MS Software Engineering,Data Science,2023,2025,CPT,Pittsburgh,PA,USA,,,
+940,Gregory,Ramirez,gregory.ramirez725@slu.edu,MS Software Engineering,Biostatistics,2024,2026,STEM-OPT,Redmond,WA,USA,958.0,Research Assistant,2025-08-11
+941,Austin,Romero,austin.romero600@slu.edu,MS Software Engineering,Business Analytics,2019,2022,STEM-OPT,Austin,TX,USA,594.0,Research Assistant,2019-06-16
+942,Jay,Jackson,jay.jackson631@slu.edu,MBA,Marketing,2022,2023,F1,Naperville,IL,USA,402.0,Data Analyst Intern,2023-02-24
+943,Richard,Fernandez,richard.fernandez199@slu.edu,MS Cybersecurity,Information Systems,2021,2024,OPT,Philadelphia,PA,USA,811.0,QA Intern,2023-06-16
+944,Michelle,Nunez,michelle.nunez249@slu.edu,MS Information Systems,Marketing,2018,2019,STEM-OPT,Ann Arbor,MI,USA,489.0,QA Intern,2019-04-25
+945,Jeremy,Shaw,jeremy.shaw286@slu.edu,MS Analytics,Business Analytics,2022,2023,CPT,Springfield,IL,USA,,,
+946,Juan,Hunt,juan.hunt788@slu.edu,MS Computer Science,Marketing,2021,2023,OPT,Savannah,GA,USA,,,
+947,Jose,Henderson,jose.henderson70@slu.edu,MS Software Engineering,Biostatistics,2023,2025,F1,Chesterfield,MO,USA,,,
+948,Melissa,Armstrong,melissa.armstrong283@slu.edu,MS Computer Science,Information Systems,2018,2021,OPT,White Plains,NY,USA,568.0,Research Assistant,2021-06-12
+949,Angela,Morris,angela.morris963@slu.edu,MBA,Cybersecurity,2019,2020,CPT,Naperville,IL,USA,,,
+950,Kimberly,Douglas,kimberly.douglas637@slu.edu,MS Cybersecurity,Data Science,2020,2022,OPT,Fort Collins,CO,USA,,,
+951,Brendan,Pineda,brendan.pineda837@slu.edu,MS Information Systems,Information Systems,2023,2026,F1,Albany,NY,USA,,,
+952,Shawna,Clark,shawna.clark459@slu.edu,MBA,Computer Science,2022,2023,OPT,Tacoma,WA,USA,,,
+953,Stephanie,Barnes,stephanie.barnes309@slu.edu,MS Data Science,Software Engineering,2021,2023,OPT,Grand Rapids,MI,USA,103.0,Data Analyst Intern,2021-05-05
+954,Jessica,Bowman,jessica.bowman556@slu.edu,MS Analytics,Electrical Engineering,2021,2022,STEM-OPT,Dallas,TX,USA,812.0,Research Assistant,2021-05-29
+955,Jill,Houston,jill.houston20@slu.edu,MBA,Business Analytics,2018,2021,OPT,San Antonio,TX,USA,,,
+956,Jonathan,Alexander,jonathan.alexander930@slu.edu,MS Cybersecurity,Marketing,2019,2020,STEM-OPT,Houston,TX,USA,414.0,DevOps Intern,2020-08-25
+957,Miranda,Johns,miranda.johns436@slu.edu,MS Software Engineering,Data Science,2019,2020,F1,Chesterfield,MO,USA,,,
+958,James,Duncan,james.duncan59@slu.edu,MS Cybersecurity,Data Science,2018,2021,CPT,Clayton,MO,USA,,,
+959,William,Henry,william.henry451@slu.edu,MS Information Systems,Biostatistics,2022,2023,OPT,Peoria,IL,USA,519.0,Software Intern,2022-02-18
+960,Phillip,Gillespie,phillip.gillespie655@slu.edu,MBA,Finance,2021,2024,CPT,Phoenix,AZ,USA,123.0,Software Intern,2024-05-14
+961,Nicole,Smith,nicole.smith368@slu.edu,MS Information Systems,Biostatistics,2024,2025,F1,Plano,TX,USA,,,
+962,Crystal,Reed,crystal.reed902@slu.edu,MS Data Science,Electrical Engineering,2020,2022,STEM-OPT,Los Angeles,CA,USA,,,
+963,Meredith,Goodman,meredith.goodman228@slu.edu,MS Cybersecurity,Cybersecurity,2024,2025,OPT,Columbus,OH,USA,743.0,QA Intern,2024-11-04
+964,Jose,Torres,jose.torres167@slu.edu,MS Software Engineering,Software Engineering,2023,2024,OPT,Tempe,AZ,USA,,,
+965,Melissa,Ortiz,melissa.ortiz945@slu.edu,MS Data Science,Cybersecurity,2022,2025,F1,Rochester,NY,USA,748.0,Research Assistant,2025-12-17
+966,Ricky,Campbell,ricky.campbell176@slu.edu,MS Software Engineering,Marketing,2022,2024,STEM-OPT,Atlanta,GA,USA,,,
+967,Kathryn,Herman,kathryn.herman559@slu.edu,MS Information Systems,Marketing,2020,2022,CPT,Columbia,MO,USA,,,
+968,David,Rodriguez,david.rodriguez477@slu.edu,MS Information Systems,Cybersecurity,2020,2022,F1,San Francisco,CA,USA,,,
+969,Brittany,Garner,brittany.garner42@slu.edu,MS Analytics,Computer Science,2023,2026,OPT,Urbana,IL,USA,,,
+970,Faith,Powell,faith.powell950@slu.edu,MS Data Science,Marketing,2023,2026,F1,Austin,TX,USA,428.0,Data Analyst Intern,2023-04-18
+971,Randy,Peters,randy.peters695@slu.edu,MBA,Biostatistics,2024,2026,STEM-OPT,Colorado Springs,CO,USA,,,
+972,Ashley,Nunez,ashley.nunez949@slu.edu,MS Cybersecurity,Business Analytics,2020,2021,CPT,Pittsburgh,PA,USA,,,
+973,Madeline,Clarke,madeline.clarke542@slu.edu,MS Computer Science,Software Engineering,2022,2025,F1,Tampa,FL,USA,883.0,DevOps Intern,2025-01-01
+974,Brandon,Hill,brandon.hill576@slu.edu,MS Analytics,Marketing,2019,2021,OPT,San Francisco,CA,USA,,,
+975,Kimberly,Buchanan,kimberly.buchanan999@slu.edu,MS Cybersecurity,Software Engineering,2021,2022,STEM-OPT,Harrisburg,PA,USA,,,
+976,Frank,Campbell,frank.campbell695@slu.edu,MS Analytics,Marketing,2021,2024,STEM-OPT,San Jose,CA,USA,,,
+977,Carla,Cabrera,carla.cabrera692@slu.edu,MS Computer Science,Cybersecurity,2024,2026,STEM-OPT,Charlotte,NC,USA,745.0,DevOps Intern,2024-06-26
+978,Geoffrey,Graham,geoffrey.graham473@slu.edu,MS Information Systems,Computer Science,2020,2023,OPT,Harrisburg,PA,USA,,,
+979,Daniel,Payne,daniel.payne234@slu.edu,MS Computer Science,Cybersecurity,2024,2027,STEM-OPT,Grand Rapids,MI,USA,,,
+980,Lisa,Williams,lisa.williams662@slu.edu,MS Cybersecurity,Electrical Engineering,2023,2024,STEM-OPT,Alpharetta,GA,USA,,,
+981,Dawn,Ramirez,dawn.ramirez956@slu.edu,MS Computer Science,Business Analytics,2018,2021,F1,New York,NY,USA,,,
+982,Corey,Reeves,corey.reeves571@slu.edu,MBA,Electrical Engineering,2021,2024,OPT,Raleigh,NC,USA,,,
+983,Adam,Rivera,adam.rivera119@slu.edu,MS Data Science,Data Science,2018,2021,OPT,Savannah,GA,USA,,,
+984,Ashley,Meadows,ashley.meadows191@slu.edu,MS Cybersecurity,Computer Science,2020,2022,STEM-OPT,Dallas,TX,USA,,,
+985,Sherry,Martinez,sherry.martinez473@slu.edu,MS Information Systems,Biostatistics,2023,2026,CPT,St. Louis,MO,USA,918.0,DevOps Intern,2025-01-29
+986,Christopher,Hunter,christopher.hunter697@slu.edu,MS Cybersecurity,Business Analytics,2024,2025,CPT,Cambridge,MA,USA,57.0,Research Assistant,2025-06-17
+987,Samantha,Mills,samantha.mills848@slu.edu,MS Computer Science,Finance,2020,2022,STEM-OPT,Tucson,AZ,USA,628.0,DevOps Intern,2022-08-02
+988,Nicole,Wood,nicole.wood763@slu.edu,MS Computer Science,Finance,2021,2023,STEM-OPT,Atlanta,GA,USA,,,
+989,Thomas,Walters,thomas.walters993@slu.edu,MS Data Science,Data Science,2019,2020,F1,San Jose,CA,USA,,,
+990,Debbie,Diaz,debbie.diaz591@slu.edu,MS Cybersecurity,Cybersecurity,2019,2022,OPT,Tampa,FL,USA,,,
+991,Nicole,Turner,nicole.turner270@slu.edu,MS Information Systems,Software Engineering,2022,2023,CPT,Alpharetta,GA,USA,,,
+992,Ashley,Yoder,ashley.yoder101@slu.edu,MS Data Science,Data Science,2019,2020,CPT,Houston,TX,USA,,,
+993,Kelly,Ruiz,kelly.ruiz667@slu.edu,MS Information Systems,Business Analytics,2018,2020,F1,Naperville,IL,USA,,,
+994,Vincent,Stuart,vincent.stuart802@slu.edu,MS Software Engineering,Marketing,2021,2023,CPT,White Plains,NY,USA,,,
+995,Nicholas,Soto,nicholas.soto701@slu.edu,MS Information Systems,Computer Science,2022,2023,OPT,Fort Collins,CO,USA,,,
+996,David,Griffin,david.griffin788@slu.edu,MS Information Systems,Electrical Engineering,2024,2026,STEM-OPT,Denver,CO,USA,864.0,DevOps Intern,2024-03-17
+997,Christian,Gross,christian.gross667@slu.edu,MS Analytics,Data Science,2021,2022,OPT,Denver,CO,USA,552.0,Data Analyst Intern,2022-07-06
+998,Kimberly,Shaw,kimberly.shaw63@slu.edu,MS Data Science,Computer Science,2023,2025,CPT,Tampa,FL,USA,730.0,DevOps Intern,2023-07-31
+999,Karen,Wilcox,karen.wilcox98@slu.edu,MS Data Science,Computer Science,2024,2027,CPT,White Plains,NY,USA,,,
+1000,Linda,Conrad,linda.conrad750@slu.edu,MBA,Biostatistics,2021,2023,OPT,St. Louis,MO,USA,,,

@@ -1,0 +1,1001 @@
+Engagement_ID,Alumni_ID,Event_ID,Participation_Score,Feedback_Text
+1,715,548,89,Met potential employers
+2,903,21,80,Great networking opportunity
+3,491,517,61,Good alumni connections
+4,948,2,100,Relevant content
+5,480,492,42,Great networking opportunity
+6,477,213,75,Helpful for interviews
+7,939,505,75,Good alumni connections
+8,605,588,37,Relevant content
+9,380,799,71,Average experience
+10,333,317,100,Good alumni connections
+11,630,516,87,Good alumni connections
+12,562,285,60,Great networking opportunity
+13,819,89,58,Relevant content
+14,669,17,86,Informative session
+15,367,566,62,Great networking opportunity
+16,235,358,64,Average experience
+17,472,126,100,Relevant content
+18,389,528,100,Helpful for interviews
+19,600,801,72,Met potential employers
+20,72,883,81,Informative session
+21,985,81,70,Good alumni connections
+22,583,988,70,Great networking opportunity
+23,601,26,76,Great networking opportunity
+24,327,252,87,Good alumni connections
+25,802,455,72,Average experience
+26,383,181,66,Helpful for interviews
+27,266,609,81,Average experience
+28,553,552,53,Informative session
+29,451,935,100,Average experience
+30,985,218,64,Good alumni connections
+31,723,145,97,Great networking opportunity
+32,272,22,82,Good alumni connections
+33,417,235,68,Relevant content
+34,271,629,67,Met potential employers
+35,884,923,84,Good alumni connections
+36,158,622,81,Relevant content
+37,655,544,75,Great networking opportunity
+38,266,988,83,Informative session
+39,921,187,85,Helpful for interviews
+40,843,213,96,Informative session
+41,247,382,100,Relevant content
+42,25,729,88,Average experience
+43,828,295,82,Helpful for interviews
+44,640,516,86,Relevant content
+45,540,387,69,Average experience
+46,745,286,75,Good alumni connections
+47,453,151,86,Great networking opportunity
+48,167,594,66,Met potential employers
+49,401,737,80,Met potential employers
+50,83,985,98,Informative session
+51,804,866,67,Informative session
+52,303,287,85,Good alumni connections
+53,245,144,85,Good alumni connections
+54,869,56,78,Great networking opportunity
+55,506,355,85,Helpful for interviews
+56,892,321,100,Helpful for interviews
+57,923,860,76,Helpful for interviews
+58,980,438,100,Informative session
+59,858,528,90,Relevant content
+60,61,894,79,Good alumni connections
+61,910,38,90,Met potential employers
+62,966,958,79,Good alumni connections
+63,506,275,100,Met potential employers
+64,692,743,93,Average experience
+65,905,129,91,Good alumni connections
+66,478,599,100,Average experience
+67,494,332,66,Relevant content
+68,897,435,88,Great networking opportunity
+69,832,413,84,Average experience
+70,465,583,75,Average experience
+71,271,770,94,Great networking opportunity
+72,443,414,76,Met potential employers
+73,744,69,73,Average experience
+74,932,765,74,Met potential employers
+75,422,776,100,Met potential employers
+76,894,4,98,Relevant content
+77,354,29,100,Met potential employers
+78,196,988,62,Helpful for interviews
+79,182,880,85,Good alumni connections
+80,65,164,63,Average experience
+81,937,839,86,Met potential employers
+82,545,889,82,Good alumni connections
+83,656,83,100,Informative session
+84,860,172,80,Met potential employers
+85,867,732,68,Met potential employers
+86,444,209,90,Informative session
+87,545,610,87,Helpful for interviews
+88,614,128,73,Average experience
+89,835,250,100,Met potential employers
+90,369,138,78,Good alumni connections
+91,958,289,70,Good alumni connections
+92,94,904,51,Average experience
+93,630,348,82,Average experience
+94,48,283,65,Relevant content
+95,49,811,73,Helpful for interviews
+96,546,428,67,Informative session
+97,228,612,93,Great networking opportunity
+98,688,492,76,Helpful for interviews
+99,634,774,74,Informative session
+100,561,906,82,Informative session
+101,867,141,67,Helpful for interviews
+102,793,288,78,Average experience
+103,424,683,76,Average experience
+104,422,73,76,Helpful for interviews
+105,943,54,54,Relevant content
+106,320,575,82,Relevant content
+107,858,164,83,Relevant content
+108,530,856,74,Great networking opportunity
+109,829,203,100,Met potential employers
+110,664,575,99,Great networking opportunity
+111,719,877,67,Met potential employers
+112,747,679,85,Average experience
+113,6,748,68,Great networking opportunity
+114,84,814,59,Helpful for interviews
+115,480,14,89,Average experience
+116,839,94,100,Informative session
+117,663,583,100,Helpful for interviews
+118,731,992,89,Great networking opportunity
+119,43,812,100,Good alumni connections
+120,405,118,64,Good alumni connections
+121,184,840,76,Good alumni connections
+122,277,121,92,Relevant content
+123,970,916,69,Average experience
+124,756,249,68,Helpful for interviews
+125,203,852,100,Good alumni connections
+126,504,927,91,Great networking opportunity
+127,541,61,70,Average experience
+128,778,46,85,Good alumni connections
+129,871,296,74,Good alumni connections
+130,529,985,65,Informative session
+131,399,114,81,Relevant content
+132,607,59,50,Met potential employers
+133,2,796,73,Good alumni connections
+134,348,963,76,Average experience
+135,905,339,61,Good alumni connections
+136,219,288,54,Good alumni connections
+137,261,530,84,Informative session
+138,875,939,67,Average experience
+139,707,633,95,Average experience
+140,402,248,59,Relevant content
+141,668,219,74,Met potential employers
+142,985,488,94,Met potential employers
+143,420,767,68,Helpful for interviews
+144,570,124,89,Helpful for interviews
+145,602,31,69,Great networking opportunity
+146,414,715,96,Average experience
+147,251,480,88,Good alumni connections
+148,642,455,84,Met potential employers
+149,533,282,100,Great networking opportunity
+150,350,114,92,Helpful for interviews
+151,790,876,54,Helpful for interviews
+152,859,498,72,Met potential employers
+153,253,870,95,Good alumni connections
+154,224,980,80,Average experience
+155,598,6,61,Average experience
+156,607,312,55,Met potential employers
+157,148,338,76,Great networking opportunity
+158,5,3,100,Met potential employers
+159,779,228,88,Informative session
+160,568,853,83,Average experience
+161,349,181,85,Informative session
+162,638,741,86,Informative session
+163,698,30,63,Average experience
+164,770,620,89,Met potential employers
+165,201,314,52,Good alumni connections
+166,986,936,91,Relevant content
+167,203,799,77,Relevant content
+168,913,711,96,Relevant content
+169,107,684,93,Good alumni connections
+170,522,337,60,Helpful for interviews
+171,182,644,75,Good alumni connections
+172,435,220,37,Met potential employers
+173,343,375,49,Relevant content
+174,889,60,82,Helpful for interviews
+175,347,673,85,Informative session
+176,115,422,58,Good alumni connections
+177,6,646,82,Relevant content
+178,790,732,63,Met potential employers
+179,227,8,80,Helpful for interviews
+180,832,505,96,Relevant content
+181,74,163,67,Average experience
+182,478,557,80,Good alumni connections
+183,520,418,77,Great networking opportunity
+184,63,466,80,Good alumni connections
+185,778,678,66,Great networking opportunity
+186,195,640,79,Helpful for interviews
+187,224,325,99,Met potential employers
+188,772,739,77,Average experience
+189,456,826,85,Average experience
+190,296,671,73,Great networking opportunity
+191,134,766,90,Met potential employers
+192,858,512,77,Helpful for interviews
+193,332,867,78,Great networking opportunity
+194,97,382,89,Met potential employers
+195,804,329,56,Informative session
+196,336,506,96,Great networking opportunity
+197,784,870,79,Met potential employers
+198,792,134,74,Informative session
+199,79,656,72,Good alumni connections
+200,769,500,87,Average experience
+201,176,711,88,Relevant content
+202,69,783,71,Relevant content
+203,599,648,89,Met potential employers
+204,98,256,90,Good alumni connections
+205,822,858,56,Informative session
+206,131,815,90,Helpful for interviews
+207,224,468,57,Great networking opportunity
+208,596,199,53,Helpful for interviews
+209,544,257,85,Great networking opportunity
+210,914,349,62,Helpful for interviews
+211,800,834,96,Relevant content
+212,555,121,66,Average experience
+213,38,33,81,Informative session
+214,554,350,75,Informative session
+215,281,128,100,Met potential employers
+216,784,882,73,Relevant content
+217,594,474,78,Helpful for interviews
+218,832,704,87,Helpful for interviews
+219,700,308,96,Informative session
+220,430,209,74,Met potential employers
+221,704,399,65,Great networking opportunity
+222,407,942,75,Relevant content
+223,133,642,81,Good alumni connections
+224,772,590,84,Average experience
+225,145,535,89,Good alumni connections
+226,118,530,71,Met potential employers
+227,322,410,87,Good alumni connections
+228,975,915,66,Great networking opportunity
+229,60,158,89,Good alumni connections
+230,928,940,100,Relevant content
+231,907,688,100,Average experience
+232,768,887,84,Informative session
+233,274,54,91,Average experience
+234,856,288,88,Helpful for interviews
+235,991,703,69,Average experience
+236,786,252,88,Met potential employers
+237,42,251,76,Met potential employers
+238,375,541,100,Average experience
+239,969,929,85,Average experience
+240,876,100,82,Good alumni connections
+241,191,994,71,Relevant content
+242,969,674,86,Helpful for interviews
+243,20,316,67,Informative session
+244,322,816,86,Helpful for interviews
+245,978,332,86,Met potential employers
+246,273,86,42,Good alumni connections
+247,235,509,66,Great networking opportunity
+248,749,162,77,Relevant content
+249,651,368,78,Good alumni connections
+250,374,908,95,Informative session
+251,791,278,73,Relevant content
+252,388,755,88,Great networking opportunity
+253,677,872,92,Average experience
+254,668,476,70,Helpful for interviews
+255,393,3,67,Great networking opportunity
+256,548,418,68,Relevant content
+257,152,254,99,Relevant content
+258,440,872,82,Helpful for interviews
+259,919,83,54,Great networking opportunity
+260,183,469,87,Met potential employers
+261,727,878,70,Met potential employers
+262,634,392,86,Great networking opportunity
+263,808,573,90,Relevant content
+264,35,486,100,Relevant content
+265,501,457,72,Met potential employers
+266,41,71,99,Informative session
+267,936,501,100,Great networking opportunity
+268,44,568,65,Informative session
+269,428,917,84,Good alumni connections
+270,248,614,56,Helpful for interviews
+271,787,923,67,Great networking opportunity
+272,642,165,58,Met potential employers
+273,106,438,95,Great networking opportunity
+274,739,582,77,Helpful for interviews
+275,112,439,71,Met potential employers
+276,761,129,76,Met potential employers
+277,580,631,66,Good alumni connections
+278,121,952,91,Great networking opportunity
+279,484,863,68,Helpful for interviews
+280,414,914,64,Great networking opportunity
+281,784,296,99,Great networking opportunity
+282,583,160,92,Average experience
+283,896,375,100,Good alumni connections
+284,940,62,74,Good alumni connections
+285,107,624,64,Great networking opportunity
+286,776,429,85,Helpful for interviews
+287,39,147,78,Good alumni connections
+288,324,506,66,Average experience
+289,590,897,52,Relevant content
+290,690,518,93,Informative session
+291,520,94,78,Great networking opportunity
+292,807,410,96,Met potential employers
+293,190,854,58,Good alumni connections
+294,860,170,84,Relevant content
+295,329,256,69,Good alumni connections
+296,615,406,95,Great networking opportunity
+297,47,210,85,Average experience
+298,183,207,85,Helpful for interviews
+299,700,453,72,Average experience
+300,64,192,77,Good alumni connections
+301,673,624,88,Great networking opportunity
+302,662,282,71,Relevant content
+303,481,407,100,Informative session
+304,575,300,100,Relevant content
+305,994,417,69,Relevant content
+306,248,984,85,Great networking opportunity
+307,920,862,86,Relevant content
+308,593,590,87,Helpful for interviews
+309,427,799,98,Informative session
+310,801,889,79,Great networking opportunity
+311,206,956,69,Informative session
+312,932,623,69,Great networking opportunity
+313,889,276,78,Met potential employers
+314,86,408,98,Good alumni connections
+315,683,382,58,Good alumni connections
+316,233,784,80,Relevant content
+317,33,436,72,Helpful for interviews
+318,547,710,68,Helpful for interviews
+319,126,348,68,Helpful for interviews
+320,678,862,100,Average experience
+321,342,426,76,Average experience
+322,382,181,100,Average experience
+323,677,195,77,Relevant content
+324,803,442,75,Great networking opportunity
+325,601,759,100,Great networking opportunity
+326,411,396,88,Helpful for interviews
+327,965,788,89,Relevant content
+328,336,688,84,Great networking opportunity
+329,782,489,75,Good alumni connections
+330,441,850,70,Good alumni connections
+331,962,792,69,Informative session
+332,852,344,83,Helpful for interviews
+333,259,991,83,Informative session
+334,107,117,96,Informative session
+335,359,192,77,Helpful for interviews
+336,312,154,86,Helpful for interviews
+337,954,892,77,Met potential employers
+338,1,932,70,Average experience
+339,134,1,91,Great networking opportunity
+340,856,634,90,Informative session
+341,346,604,77,Met potential employers
+342,963,101,99,Good alumni connections
+343,219,578,96,Informative session
+344,792,195,75,Average experience
+345,743,744,61,Average experience
+346,912,879,64,Informative session
+347,42,81,95,Helpful for interviews
+348,984,215,78,Met potential employers
+349,917,512,76,Good alumni connections
+350,386,298,100,Average experience
+351,287,530,92,Helpful for interviews
+352,564,238,79,Average experience
+353,59,456,65,Good alumni connections
+354,460,251,51,Helpful for interviews
+355,456,706,59,Great networking opportunity
+356,525,406,66,Great networking opportunity
+357,161,907,100,Relevant content
+358,951,748,82,Helpful for interviews
+359,631,887,57,Helpful for interviews
+360,9,341,57,Helpful for interviews
+361,901,188,67,Informative session
+362,526,26,69,Relevant content
+363,416,3,69,Good alumni connections
+364,199,659,80,Good alumni connections
+365,304,548,94,Great networking opportunity
+366,602,642,66,Average experience
+367,524,95,76,Great networking opportunity
+368,41,162,96,Helpful for interviews
+369,283,182,68,Good alumni connections
+370,691,496,65,Met potential employers
+371,606,647,100,Relevant content
+372,720,981,72,Informative session
+373,817,120,86,Good alumni connections
+374,475,904,50,Good alumni connections
+375,520,715,79,Helpful for interviews
+376,202,990,76,Great networking opportunity
+377,368,230,64,Great networking opportunity
+378,363,485,83,Relevant content
+379,632,328,78,Met potential employers
+380,413,416,49,Great networking opportunity
+381,351,402,91,Relevant content
+382,150,846,84,Average experience
+383,171,876,97,Informative session
+384,191,948,95,Helpful for interviews
+385,399,427,66,Met potential employers
+386,679,906,78,Informative session
+387,233,651,47,Informative session
+388,583,627,91,Informative session
+389,359,537,90,Met potential employers
+390,103,312,100,Great networking opportunity
+391,633,876,37,Met potential employers
+392,182,189,78,Helpful for interviews
+393,416,396,73,Met potential employers
+394,809,590,87,Helpful for interviews
+395,238,970,100,Relevant content
+396,265,367,85,Met potential employers
+397,662,376,60,Met potential employers
+398,483,59,66,Helpful for interviews
+399,650,213,90,Average experience
+400,176,663,60,Good alumni connections
+401,251,67,83,Helpful for interviews
+402,886,389,93,Helpful for interviews
+403,619,669,61,Good alumni connections
+404,479,557,95,Helpful for interviews
+405,138,975,100,Helpful for interviews
+406,243,638,68,Helpful for interviews
+407,944,230,97,Helpful for interviews
+408,917,45,79,Great networking opportunity
+409,306,788,100,Good alumni connections
+410,864,15,57,Good alumni connections
+411,375,420,62,Helpful for interviews
+412,354,784,76,Met potential employers
+413,299,60,58,Average experience
+414,715,214,65,Informative session
+415,283,987,73,Met potential employers
+416,972,209,77,Good alumni connections
+417,727,593,89,Good alumni connections
+418,33,62,82,Average experience
+419,583,394,81,Met potential employers
+420,835,871,72,Relevant content
+421,970,765,86,Good alumni connections
+422,439,575,68,Informative session
+423,819,140,79,Average experience
+424,688,720,96,Good alumni connections
+425,531,311,88,Great networking opportunity
+426,219,612,71,Great networking opportunity
+427,747,869,66,Relevant content
+428,153,791,92,Met potential employers
+429,15,125,77,Relevant content
+430,675,273,68,Great networking opportunity
+431,20,411,77,Helpful for interviews
+432,444,560,58,Good alumni connections
+433,473,301,46,Relevant content
+434,789,44,89,Average experience
+435,758,987,93,Average experience
+436,511,935,89,Good alumni connections
+437,680,168,85,Met potential employers
+438,288,102,84,Informative session
+439,651,187,100,Helpful for interviews
+440,997,826,86,Met potential employers
+441,417,894,67,Informative session
+442,304,674,84,Average experience
+443,611,127,69,Great networking opportunity
+444,606,394,69,Good alumni connections
+445,743,613,100,Helpful for interviews
+446,808,933,82,Average experience
+447,752,788,86,Average experience
+448,336,578,76,Relevant content
+449,654,803,50,Met potential employers
+450,405,6,100,Average experience
+451,725,538,60,Relevant content
+452,926,407,93,Informative session
+453,239,960,57,Informative session
+454,847,822,77,Helpful for interviews
+455,11,968,81,Relevant content
+456,21,665,77,Relevant content
+457,707,16,77,Good alumni connections
+458,375,547,66,Relevant content
+459,907,648,100,Relevant content
+460,682,71,70,Relevant content
+461,757,211,100,Informative session
+462,97,804,89,Great networking opportunity
+463,942,262,66,Relevant content
+464,700,729,89,Average experience
+465,949,104,94,Informative session
+466,508,231,93,Met potential employers
+467,797,988,90,Good alumni connections
+468,46,839,74,Relevant content
+469,756,762,68,Average experience
+470,935,589,91,Informative session
+471,29,360,92,Informative session
+472,49,844,56,Great networking opportunity
+473,931,44,100,Met potential employers
+474,310,59,52,Helpful for interviews
+475,499,380,84,Met potential employers
+476,927,783,92,Relevant content
+477,479,971,72,Met potential employers
+478,229,165,78,Great networking opportunity
+479,557,745,54,Great networking opportunity
+480,57,799,76,Average experience
+481,438,816,72,Helpful for interviews
+482,139,645,61,Relevant content
+483,140,339,64,Average experience
+484,91,887,83,Good alumni connections
+485,494,870,91,Helpful for interviews
+486,497,270,97,Relevant content
+487,203,164,97,Informative session
+488,601,324,96,Great networking opportunity
+489,401,228,53,Met potential employers
+490,685,669,95,Good alumni connections
+491,488,962,86,Helpful for interviews
+492,212,713,93,Great networking opportunity
+493,695,143,64,Good alumni connections
+494,425,821,89,Informative session
+495,39,732,84,Average experience
+496,479,7,82,Average experience
+497,449,79,92,Relevant content
+498,47,921,100,Average experience
+499,347,509,75,Great networking opportunity
+500,51,862,70,Great networking opportunity
+501,497,126,89,Relevant content
+502,202,164,87,Helpful for interviews
+503,313,370,71,Great networking opportunity
+504,560,187,81,Helpful for interviews
+505,615,851,93,Good alumni connections
+506,57,656,60,Average experience
+507,628,13,92,Informative session
+508,921,809,88,Average experience
+509,590,316,100,Average experience
+510,702,971,84,Informative session
+511,452,138,84,Relevant content
+512,669,588,69,Great networking opportunity
+513,992,358,65,Helpful for interviews
+514,723,701,80,Informative session
+515,794,189,85,Great networking opportunity
+516,413,739,69,Helpful for interviews
+517,110,750,78,Average experience
+518,380,5,52,Met potential employers
+519,628,311,91,Average experience
+520,664,162,86,Relevant content
+521,461,136,73,Average experience
+522,289,887,88,Helpful for interviews
+523,510,431,82,Average experience
+524,741,576,70,Informative session
+525,210,265,59,Relevant content
+526,760,185,92,Great networking opportunity
+527,50,532,73,Great networking opportunity
+528,382,102,84,Informative session
+529,32,689,68,Good alumni connections
+530,614,674,100,Relevant content
+531,630,814,75,Helpful for interviews
+532,398,688,62,Helpful for interviews
+533,503,776,81,Average experience
+534,531,692,72,Good alumni connections
+535,964,862,67,Great networking opportunity
+536,613,109,76,Good alumni connections
+537,598,72,72,Relevant content
+538,355,919,80,Met potential employers
+539,953,624,55,Good alumni connections
+540,208,611,96,Good alumni connections
+541,804,679,78,Average experience
+542,263,470,90,Average experience
+543,478,880,85,Helpful for interviews
+544,976,720,100,Average experience
+545,965,188,96,Average experience
+546,280,1,77,Great networking opportunity
+547,469,933,88,Relevant content
+548,304,106,55,Relevant content
+549,530,682,84,Good alumni connections
+550,617,21,96,Good alumni connections
+551,912,936,77,Good alumni connections
+552,701,771,77,Met potential employers
+553,21,239,66,Great networking opportunity
+554,983,850,85,Informative session
+555,516,892,96,Relevant content
+556,450,754,59,Relevant content
+557,503,518,95,Met potential employers
+558,113,474,75,Helpful for interviews
+559,17,552,90,Good alumni connections
+560,925,373,84,Average experience
+561,871,861,70,Informative session
+562,905,29,70,Met potential employers
+563,541,675,100,Great networking opportunity
+564,81,536,94,Informative session
+565,830,166,67,Informative session
+566,529,43,80,Relevant content
+567,125,705,82,Helpful for interviews
+568,916,374,79,Helpful for interviews
+569,984,71,74,Relevant content
+570,132,621,77,Informative session
+571,351,805,100,Informative session
+572,706,534,68,Average experience
+573,695,422,72,Good alumni connections
+574,537,23,94,Good alumni connections
+575,527,815,58,Met potential employers
+576,177,839,90,Informative session
+577,123,989,87,Informative session
+578,465,398,90,Met potential employers
+579,175,782,85,Met potential employers
+580,791,739,88,Good alumni connections
+581,20,500,81,Average experience
+582,979,529,93,Helpful for interviews
+583,977,496,76,Helpful for interviews
+584,6,628,90,Met potential employers
+585,144,956,61,Good alumni connections
+586,843,871,52,Helpful for interviews
+587,810,176,99,Average experience
+588,181,811,53,Met potential employers
+589,108,324,90,Great networking opportunity
+590,310,241,89,Informative session
+591,944,268,96,Good alumni connections
+592,546,135,68,Helpful for interviews
+593,578,95,67,Relevant content
+594,953,74,88,Great networking opportunity
+595,428,383,76,Helpful for interviews
+596,6,828,85,Good alumni connections
+597,941,245,77,Informative session
+598,697,967,55,Relevant content
+599,469,490,46,Good alumni connections
+600,326,254,87,Informative session
+601,978,288,74,Average experience
+602,603,151,76,Great networking opportunity
+603,15,864,81,Met potential employers
+604,905,590,74,Met potential employers
+605,999,456,65,Average experience
+606,730,561,52,Informative session
+607,379,512,72,Met potential employers
+608,129,207,73,Helpful for interviews
+609,286,783,78,Relevant content
+610,948,911,89,Great networking opportunity
+611,435,533,100,Average experience
+612,686,957,93,Helpful for interviews
+613,255,623,52,Relevant content
+614,487,773,91,Relevant content
+615,410,45,82,Good alumni connections
+616,912,11,60,Met potential employers
+617,689,149,85,Great networking opportunity
+618,379,844,80,Average experience
+619,719,476,73,Good alumni connections
+620,438,758,84,Met potential employers
+621,90,788,80,Average experience
+622,87,902,72,Relevant content
+623,276,594,79,Relevant content
+624,8,746,81,Average experience
+625,731,992,80,Helpful for interviews
+626,185,882,87,Good alumni connections
+627,215,668,71,Helpful for interviews
+628,472,218,83,Informative session
+629,42,575,100,Average experience
+630,137,851,80,Helpful for interviews
+631,39,113,89,Informative session
+632,815,615,85,Relevant content
+633,826,426,92,Informative session
+634,430,816,90,Good alumni connections
+635,445,844,100,Helpful for interviews
+636,258,303,87,Good alumni connections
+637,254,184,94,Met potential employers
+638,113,720,100,Informative session
+639,706,508,79,Informative session
+640,298,285,82,Average experience
+641,985,534,89,Average experience
+642,161,978,80,Informative session
+643,957,332,68,Informative session
+644,667,841,76,Great networking opportunity
+645,177,492,80,Relevant content
+646,844,227,70,Met potential employers
+647,315,46,59,Average experience
+648,631,33,80,Great networking opportunity
+649,517,814,40,Relevant content
+650,690,203,67,Relevant content
+651,109,273,60,Great networking opportunity
+652,251,725,72,Met potential employers
+653,619,187,81,Helpful for interviews
+654,26,782,85,Helpful for interviews
+655,110,712,90,Great networking opportunity
+656,30,89,67,Met potential employers
+657,528,963,68,Helpful for interviews
+658,376,660,65,Relevant content
+659,672,631,82,Average experience
+660,373,631,72,Helpful for interviews
+661,491,198,61,Good alumni connections
+662,27,738,78,Good alumni connections
+663,350,870,82,Helpful for interviews
+664,293,255,71,Informative session
+665,81,766,70,Informative session
+666,17,553,75,Helpful for interviews
+667,382,401,74,Great networking opportunity
+668,102,243,100,Relevant content
+669,245,683,52,Relevant content
+670,337,765,64,Informative session
+671,537,973,87,Informative session
+672,752,108,95,Relevant content
+673,563,300,81,Great networking opportunity
+674,670,190,90,Relevant content
+675,54,408,71,Met potential employers
+676,355,367,100,Informative session
+677,255,382,70,Informative session
+678,548,985,89,Informative session
+679,688,844,69,Relevant content
+680,813,800,100,Good alumni connections
+681,46,123,63,Average experience
+682,15,220,81,Average experience
+683,112,977,100,Helpful for interviews
+684,6,421,92,Great networking opportunity
+685,587,352,100,Relevant content
+686,853,906,69,Average experience
+687,150,72,91,Average experience
+688,119,712,97,Met potential employers
+689,835,431,100,Good alumni connections
+690,546,439,71,Average experience
+691,302,341,75,Average experience
+692,70,831,85,Great networking opportunity
+693,268,498,72,Relevant content
+694,352,126,89,Helpful for interviews
+695,663,300,95,Average experience
+696,973,909,96,Average experience
+697,977,521,98,Great networking opportunity
+698,637,886,79,Relevant content
+699,312,22,57,Great networking opportunity
+700,524,127,59,Informative session
+701,761,896,100,Informative session
+702,662,363,66,Helpful for interviews
+703,535,284,96,Good alumni connections
+704,850,547,76,Informative session
+705,886,72,93,Relevant content
+706,700,150,67,Informative session
+707,960,514,100,Average experience
+708,915,73,100,Met potential employers
+709,276,6,80,Great networking opportunity
+710,988,395,68,Great networking opportunity
+711,675,694,53,Helpful for interviews
+712,942,212,84,Met potential employers
+713,415,612,100,Met potential employers
+714,193,904,67,Great networking opportunity
+715,626,348,41,Good alumni connections
+716,215,650,100,Informative session
+717,6,51,100,Met potential employers
+718,951,349,80,Average experience
+719,578,217,58,Informative session
+720,859,340,93,Relevant content
+721,49,87,100,Informative session
+722,220,882,64,Good alumni connections
+723,326,819,59,Met potential employers
+724,100,910,59,Great networking opportunity
+725,331,639,72,Helpful for interviews
+726,870,405,82,Informative session
+727,137,867,77,Relevant content
+728,135,31,76,Great networking opportunity
+729,549,25,84,Good alumni connections
+730,478,183,75,Informative session
+731,46,916,72,Good alumni connections
+732,641,83,81,Helpful for interviews
+733,601,33,71,Relevant content
+734,353,807,86,Average experience
+735,744,552,94,Good alumni connections
+736,693,969,84,Informative session
+737,635,300,89,Average experience
+738,11,734,71,Average experience
+739,725,576,94,Great networking opportunity
+740,777,437,100,Informative session
+741,116,146,96,Relevant content
+742,281,215,100,Good alumni connections
+743,600,416,76,Helpful for interviews
+744,349,340,73,Met potential employers
+745,406,431,86,Great networking opportunity
+746,588,216,88,Met potential employers
+747,925,911,72,Relevant content
+748,823,892,88,Met potential employers
+749,823,56,100,Met potential employers
+750,679,122,52,Met potential employers
+751,490,492,70,Informative session
+752,58,588,85,Average experience
+753,168,594,53,Good alumni connections
+754,57,880,74,Met potential employers
+755,440,184,68,Great networking opportunity
+756,871,520,96,Good alumni connections
+757,107,15,63,Helpful for interviews
+758,5,950,70,Informative session
+759,313,515,76,Relevant content
+760,119,337,57,Met potential employers
+761,94,311,73,Good alumni connections
+762,427,59,78,Great networking opportunity
+763,505,961,75,Relevant content
+764,30,385,90,Good alumni connections
+765,4,817,91,Great networking opportunity
+766,533,717,89,Average experience
+767,255,611,56,Great networking opportunity
+768,114,730,100,Met potential employers
+769,834,76,80,Relevant content
+770,328,441,87,Great networking opportunity
+771,44,891,91,Relevant content
+772,608,61,78,Met potential employers
+773,424,829,100,Helpful for interviews
+774,493,886,100,Informative session
+775,543,689,83,Informative session
+776,293,697,78,Helpful for interviews
+777,558,310,90,Helpful for interviews
+778,175,68,74,Average experience
+779,317,658,63,Informative session
+780,892,242,61,Met potential employers
+781,537,75,100,Relevant content
+782,800,549,78,Helpful for interviews
+783,904,656,59,Informative session
+784,121,807,82,Met potential employers
+785,710,935,63,Informative session
+786,239,795,54,Informative session
+787,29,963,65,Informative session
+788,915,872,71,Relevant content
+789,759,753,87,Relevant content
+790,741,600,49,Informative session
+791,95,364,59,Informative session
+792,752,318,94,Relevant content
+793,840,648,94,Average experience
+794,211,788,65,Average experience
+795,905,917,52,Good alumni connections
+796,297,892,76,Relevant content
+797,149,995,67,Informative session
+798,320,978,93,Helpful for interviews
+799,97,288,88,Helpful for interviews
+800,986,796,82,Met potential employers
+801,907,571,86,Met potential employers
+802,373,684,74,Good alumni connections
+803,442,805,72,Average experience
+804,573,880,64,Relevant content
+805,709,460,70,Average experience
+806,188,969,80,Average experience
+807,298,898,99,Informative session
+808,274,676,65,Helpful for interviews
+809,758,715,76,Informative session
+810,348,411,75,Informative session
+811,381,281,85,Helpful for interviews
+812,870,632,72,Great networking opportunity
+813,806,480,76,Helpful for interviews
+814,314,745,96,Relevant content
+815,607,43,74,Good alumni connections
+816,51,460,88,Good alumni connections
+817,707,891,72,Informative session
+818,103,75,91,Relevant content
+819,852,885,74,Average experience
+820,276,336,48,Good alumni connections
+821,992,917,59,Good alumni connections
+822,519,410,91,Informative session
+823,114,582,50,Informative session
+824,304,952,73,Great networking opportunity
+825,787,882,73,Met potential employers
+826,981,224,82,Informative session
+827,911,272,84,Relevant content
+828,807,530,87,Relevant content
+829,122,389,74,Good alumni connections
+830,68,114,77,Average experience
+831,511,627,59,Met potential employers
+832,634,166,63,Great networking opportunity
+833,484,677,100,Good alumni connections
+834,619,200,86,Average experience
+835,236,363,68,Helpful for interviews
+836,151,46,85,Great networking opportunity
+837,544,92,69,Met potential employers
+838,324,253,78,Informative session
+839,919,771,53,Relevant content
+840,195,88,71,Good alumni connections
+841,256,264,91,Average experience
+842,53,137,85,Met potential employers
+843,306,572,100,Relevant content
+844,839,713,67,Met potential employers
+845,927,560,88,Great networking opportunity
+846,761,414,77,Helpful for interviews
+847,759,572,44,Good alumni connections
+848,204,665,90,Relevant content
+849,36,532,77,Helpful for interviews
+850,773,889,63,Good alumni connections
+851,652,868,77,Great networking opportunity
+852,628,652,81,Informative session
+853,521,91,94,Relevant content
+854,291,760,89,Informative session
+855,896,303,68,Helpful for interviews
+856,781,794,82,Informative session
+857,554,635,79,Informative session
+858,911,305,77,Informative session
+859,716,548,71,Helpful for interviews
+860,6,545,70,Good alumni connections
+861,179,692,70,Good alumni connections
+862,783,771,85,Great networking opportunity
+863,776,43,76,Great networking opportunity
+864,446,773,95,Good alumni connections
+865,818,913,70,Good alumni connections
+866,33,677,70,Good alumni connections
+867,736,323,79,Met potential employers
+868,125,253,71,Good alumni connections
+869,634,141,75,Informative session
+870,579,370,59,Relevant content
+871,675,87,76,Relevant content
+872,691,309,75,Met potential employers
+873,242,301,81,Great networking opportunity
+874,524,278,88,Great networking opportunity
+875,975,134,83,Relevant content
+876,806,968,74,Great networking opportunity
+877,592,42,91,Good alumni connections
+878,50,749,82,Helpful for interviews
+879,147,898,94,Good alumni connections
+880,816,441,72,Helpful for interviews
+881,374,913,77,Great networking opportunity
+882,214,377,97,Helpful for interviews
+883,4,695,48,Relevant content
+884,717,118,80,Met potential employers
+885,960,43,95,Good alumni connections
+886,257,703,66,Helpful for interviews
+887,181,583,64,Great networking opportunity
+888,500,271,55,Great networking opportunity
+889,67,642,81,Informative session
+890,746,891,100,Great networking opportunity
+891,408,734,84,Great networking opportunity
+892,219,740,92,Good alumni connections
+893,202,198,48,Informative session
+894,326,395,86,Good alumni connections
+895,861,1000,100,Average experience
+896,246,765,78,Informative session
+897,48,268,84,Good alumni connections
+898,316,213,70,Average experience
+899,55,72,94,Good alumni connections
+900,473,430,67,Good alumni connections
+901,431,87,84,Informative session
+902,341,541,74,Helpful for interviews
+903,126,218,57,Informative session
+904,142,663,79,Helpful for interviews
+905,662,394,71,Great networking opportunity
+906,424,957,74,Good alumni connections
+907,944,389,57,Helpful for interviews
+908,903,450,100,Helpful for interviews
+909,53,545,79,Informative session
+910,555,290,88,Great networking opportunity
+911,209,171,59,Informative session
+912,16,662,64,Good alumni connections
+913,165,610,53,Good alumni connections
+914,45,692,86,Informative session
+915,431,4,100,Informative session
+916,644,314,98,Relevant content
+917,344,174,91,Helpful for interviews
+918,840,692,96,Helpful for interviews
+919,542,239,85,Met potential employers
+920,482,29,67,Met potential employers
+921,622,17,100,Good alumni connections
+922,600,379,93,Average experience
+923,41,817,66,Met potential employers
+924,940,300,100,Informative session
+925,554,21,99,Average experience
+926,520,983,94,Good alumni connections
+927,504,494,66,Average experience
+928,575,59,93,Informative session
+929,88,898,91,Helpful for interviews
+930,658,418,62,Relevant content
+931,139,474,100,Average experience
+932,583,193,44,Relevant content
+933,603,505,46,Good alumni connections
+934,342,694,85,Helpful for interviews
+935,245,329,73,Relevant content
+936,721,912,65,Helpful for interviews
+937,305,359,84,Good alumni connections
+938,573,18,100,Met potential employers
+939,534,514,76,Relevant content
+940,48,114,71,Great networking opportunity
+941,647,506,59,Met potential employers
+942,236,503,63,Average experience
+943,477,641,84,Average experience
+944,232,499,100,Great networking opportunity
+945,47,988,76,Good alumni connections
+946,844,109,91,Met potential employers
+947,147,959,65,Informative session
+948,283,315,69,Average experience
+949,197,26,56,Helpful for interviews
+950,314,168,80,Relevant content
+951,244,980,83,Helpful for interviews
+952,913,658,60,Average experience
+953,974,820,67,Helpful for interviews
+954,947,894,92,Helpful for interviews
+955,227,748,80,Informative session
+956,200,145,73,Great networking opportunity
+957,664,195,35,Relevant content
+958,462,608,46,Good alumni connections
+959,969,414,98,Average experience
+960,180,897,59,Met potential employers
+961,217,563,99,Average experience
+962,161,955,89,Average experience
+963,382,228,77,Good alumni connections
+964,833,800,63,Relevant content
+965,792,277,100,Helpful for interviews
+966,381,543,47,Relevant content
+967,297,986,68,Informative session
+968,938,759,99,Average experience
+969,663,300,90,Helpful for interviews
+970,349,418,65,Great networking opportunity
+971,933,842,81,Relevant content
+972,183,238,76,Met potential employers
+973,330,913,98,Met potential employers
+974,288,489,82,Helpful for interviews
+975,350,191,85,Great networking opportunity
+976,80,287,89,Met potential employers
+977,57,277,87,Informative session
+978,99,76,83,Great networking opportunity
+979,754,702,82,Helpful for interviews
+980,114,437,67,Met potential employers
+981,90,274,84,Met potential employers
+982,832,59,85,Good alumni connections
+983,84,827,93,Relevant content
+984,290,830,100,Average experience
+985,991,213,41,Informative session
+986,457,34,100,Good alumni connections
+987,865,530,86,Met potential employers
+988,122,317,93,Met potential employers
+989,111,611,85,Average experience
+990,796,537,74,Met potential employers
+991,272,274,89,Helpful for interviews
+992,27,5,93,Good alumni connections
+993,317,327,100,Informative session
+994,950,532,69,Great networking opportunity
+995,788,517,100,Helpful for interviews
+996,346,248,82,Average experience
+997,503,374,72,Good alumni connections
+998,672,422,86,Great networking opportunity
+999,49,349,97,Average experience
+1000,80,670,78,Met potential employers

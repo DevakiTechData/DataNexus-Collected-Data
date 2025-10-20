@@ -1,0 +1,1001 @@
+Alumni_ID,First_Name,Last_Name,SLU_Email,Personal_Email,Degree,Major,Graduation_Year,Visa_Phase,City,State,Country
+1,Christy,Lopez,christy.lopez845@slu.edu,christy.lopez461@yahoo.com,MS,Finance,2015,Full-Time,Columbus,OH,USA
+2,Amy,Luna,amy.luna31@slu.edu,amy.luna661@yahoo.com,BS,Business Analytics,2018,Full-Time,Cambridge,MA,USA
+3,Nicholas,Zavala,nicholas.zavala483@slu.edu,nicholas.zavala580@yahoo.com,MS,Software Engineering,2015,Full-Time,Harrisburg,PA,USA
+4,Guy,Olson,guy.olson477@slu.edu,guy.olson788@outlook.com,BA,Information Systems,2020,Full-Time,Springfield,MO,USA
+5,Michael,Rogers,michael.rogers978@slu.edu,michael.rogers519@yahoo.com,MS,Business Analytics,2018,Full-Time,Clayton,MO,USA
+6,Kyle,White,kyle.white677@slu.edu,kyle.white343@gmail.com,PhD,Biostatistics,2018,Full-Time,St. Louis,MO,USA
+7,Jeremy,Barton,jeremy.barton843@slu.edu,jeremy.barton368@yahoo.com,MS,Information Systems,2016,Full-Time,Houston,TX,USA
+8,Kimberly,Farrell,kimberly.farrell16@slu.edu,kimberly.farrell654@outlook.com,PhD,Cybersecurity,2020,Full-Time,Cincinnati,OH,USA
+9,Ryan,Rogers,ryan.rogers106@slu.edu,ryan.rogers872@outlook.com,PhD,Marketing,2022,OPT,Cincinnati,OH,USA
+10,Kathryn,Cooper,kathryn.cooper410@slu.edu,kathryn.cooper359@yahoo.com,PhD,Biostatistics,2019,Full-Time,Fort Collins,CO,USA
+11,David,Zamora,david.zamora385@slu.edu,david.zamora894@gmail.com,PhD,Data Science,2021,Full-Time,Durham,NC,USA
+12,Victoria,Simmons,victoria.simmons740@slu.edu,victoria.simmons736@gmail.com,MBA,Business Analytics,2020,Full-Time,Rochester,NY,USA
+13,Jessica,Wu,jessica.wu285@slu.edu,jessica.wu271@yahoo.com,MBA,Business Analytics,2025,CPT,Peoria,IL,USA
+14,Kathryn,Alvarado,kathryn.alvarado617@slu.edu,kathryn.alvarado906@outlook.com,BS,Electrical Engineering,2019,Full-Time,Fort Collins,CO,USA
+15,Carla,Williams,carla.williams203@slu.edu,carla.williams350@yahoo.com,MS,Marketing,2023,OPT,Fort Collins,CO,USA
+16,Paige,Cuevas,paige.cuevas200@slu.edu,paige.cuevas980@yahoo.com,MS,Biostatistics,2022,OPT,Plano,TX,USA
+17,Jason,Graham,jason.graham993@slu.edu,jason.graham106@gmail.com,BS,Computer Science,2015,Full-Time,Grand Rapids,MI,USA
+18,Laura,Morales,laura.morales719@slu.edu,laura.morales302@yahoo.com,BS,Biostatistics,2022,OPT,Houston,TX,USA
+19,Jody,Woods,jody.woods609@slu.edu,jody.woods218@gmail.com,BA,Finance,2020,Full-Time,Irvine,CA,USA
+20,Kimberly,Gomez,kimberly.gomez563@slu.edu,kimberly.gomez830@gmail.com,PhD,Finance,2017,Full-Time,Buffalo,NY,USA
+21,Grant,Wright,grant.wright127@slu.edu,grant.wright92@gmail.com,MS,Computer Science,2021,Full-Time,Savannah,GA,USA
+22,Judy,Page,judy.page292@slu.edu,judy.page61@yahoo.com,BA,Electrical Engineering,2023,STEM-OPT,Los Angeles,CA,USA
+23,Ashley,Christian,ashley.christian936@slu.edu,ashley.christian46@gmail.com,PhD,Biostatistics,2015,Full-Time,Tacoma,WA,USA
+24,Kathryn,Martin,kathryn.martin459@slu.edu,kathryn.martin661@outlook.com,MS,Information Systems,2023,STEM-OPT,Somerville,MA,USA
+25,Laura,Brooks,laura.brooks230@slu.edu,laura.brooks580@gmail.com,BS,Biostatistics,2020,Full-Time,Raleigh,NC,USA
+26,John,Jackson,john.jackson711@slu.edu,john.jackson958@yahoo.com,PhD,Business Analytics,2025,CPT,Kansas City,MO,USA
+27,Bianca,Rodriguez,bianca.rodriguez545@slu.edu,bianca.rodriguez361@outlook.com,MBA,Software Engineering,2019,Full-Time,Jacksonville,FL,USA
+28,Adam,Martinez,adam.martinez843@slu.edu,adam.martinez84@yahoo.com,MS,Business Analytics,2015,Full-Time,New York,NY,USA
+29,James,Stanton,james.stanton365@slu.edu,james.stanton667@yahoo.com,PhD,Business Analytics,2015,Full-Time,Jacksonville,FL,USA
+30,Ashley,Richards,ashley.richards516@slu.edu,ashley.richards345@outlook.com,MS,Cybersecurity,2023,STEM-OPT,Cincinnati,OH,USA
+31,Christine,Chavez,christine.chavez920@slu.edu,christine.chavez87@yahoo.com,MBA,Cybersecurity,2017,Full-Time,Cleveland,OH,USA
+32,Michael,Ward,michael.ward983@slu.edu,michael.ward859@gmail.com,MS,Marketing,2017,Full-Time,Harrisburg,PA,USA
+33,Rachel,Johnson,rachel.johnson801@slu.edu,rachel.johnson263@gmail.com,BS,Finance,2015,Full-Time,Tampa,FL,USA
+34,Brandon,Williams,brandon.williams433@slu.edu,brandon.williams141@gmail.com,PhD,Business Analytics,2021,Full-Time,Grand Rapids,MI,USA
+35,Joshua,Frazier,joshua.frazier446@slu.edu,joshua.frazier670@outlook.com,MBA,Data Science,2017,Full-Time,Cincinnati,OH,USA
+36,Christopher,Nicholson,christopher.nicholson336@slu.edu,christopher.nicholson91@yahoo.com,MBA,Electrical Engineering,2015,Full-Time,Worcester,MA,USA
+37,Valerie,Bautista,valerie.bautista646@slu.edu,valerie.bautista980@gmail.com,MBA,Electrical Engineering,2017,Full-Time,Ann Arbor,MI,USA
+38,Kyle,Contreras,kyle.contreras568@slu.edu,kyle.contreras943@yahoo.com,MS,Computer Science,2024,CPT,Tucson,AZ,USA
+39,Ricky,Garcia,ricky.garcia829@slu.edu,ricky.garcia203@outlook.com,BA,Electrical Engineering,2019,Full-Time,Phoenix,AZ,USA
+40,Erin,Martinez,erin.martinez930@slu.edu,erin.martinez933@gmail.com,MS,Software Engineering,2023,STEM-OPT,Buffalo,NY,USA
+41,Christopher,Huber,christopher.huber120@slu.edu,christopher.huber294@outlook.com,BS,Software Engineering,2021,Full-Time,Philadelphia,PA,USA
+42,Beth,Roberson,beth.roberson525@slu.edu,beth.roberson231@outlook.com,BS,Marketing,2023,OPT,Savannah,GA,USA
+43,Christian,Arnold,christian.arnold818@slu.edu,christian.arnold172@gmail.com,MS,Computer Science,2022,STEM-OPT,Charlotte,NC,USA
+44,Gary,Stewart,gary.stewart606@slu.edu,gary.stewart272@gmail.com,BS,Information Systems,2016,Full-Time,Plano,TX,USA
+45,Lori,Stein,lori.stein942@slu.edu,lori.stein246@outlook.com,BA,Cybersecurity,2015,Full-Time,Somerville,MA,USA
+46,Garrett,Howard,garrett.howard665@slu.edu,garrett.howard743@gmail.com,MBA,Cybersecurity,2019,Full-Time,Tempe,AZ,USA
+47,Ian,Stewart,ian.stewart320@slu.edu,ian.stewart151@yahoo.com,BS,Biostatistics,2015,Full-Time,San Diego,CA,USA
+48,Nicole,George,nicole.george714@slu.edu,nicole.george47@gmail.com,BA,Biostatistics,2021,Full-Time,Orlando,FL,USA
+49,Ann,Rodriguez,ann.rodriguez850@slu.edu,ann.rodriguez595@outlook.com,MBA,Software Engineering,2024,OPT,Harrisburg,PA,USA
+50,Sierra,Guerrero,sierra.guerrero752@slu.edu,sierra.guerrero578@outlook.com,BS,Electrical Engineering,2017,Full-Time,Irvine,CA,USA
+51,Eric,Castro,eric.castro538@slu.edu,eric.castro847@outlook.com,MS,Electrical Engineering,2024,OPT,Plano,TX,USA
+52,Kelsey,Stewart,kelsey.stewart522@slu.edu,kelsey.stewart451@outlook.com,PhD,Finance,2024,OPT,Seattle,WA,USA
+53,George,Barton,george.barton161@slu.edu,george.barton419@yahoo.com,BS,Software Engineering,2015,Full-Time,Cleveland,OH,USA
+54,Michael,Ross,michael.ross43@slu.edu,michael.ross310@gmail.com,MBA,Data Science,2023,OPT,Tucson,AZ,USA
+55,Douglas,Robinson,douglas.robinson129@slu.edu,douglas.robinson914@yahoo.com,BA,Marketing,2023,OPT,Savannah,GA,USA
+56,Brittany,Morgan,brittany.morgan549@slu.edu,brittany.morgan772@gmail.com,BA,Information Systems,2015,Full-Time,Fort Collins,CO,USA
+57,Christopher,Martin,christopher.martin628@slu.edu,christopher.martin537@yahoo.com,MBA,Information Systems,2022,STEM-OPT,Detroit,MI,USA
+58,Dawn,Martinez,dawn.martinez776@slu.edu,dawn.martinez803@gmail.com,MS,Data Science,2020,Full-Time,Tampa,FL,USA
+59,Frederick,Ayers,frederick.ayers960@slu.edu,frederick.ayers475@outlook.com,MBA,Business Analytics,2015,Full-Time,Tucson,AZ,USA
+60,John,Davis,john.davis107@slu.edu,john.davis22@outlook.com,MS,Information Systems,2024,OPT,Tampa,FL,USA
+61,Greg,Ruiz,greg.ruiz511@slu.edu,greg.ruiz20@outlook.com,BA,Finance,2021,Full-Time,Bellevue,WA,USA
+62,Steven,Hall,steven.hall854@slu.edu,steven.hall640@yahoo.com,BS,Computer Science,2018,Full-Time,Seattle,WA,USA
+63,Raymond,Simpson,raymond.simpson483@slu.edu,raymond.simpson665@yahoo.com,BS,Finance,2017,Full-Time,Grand Rapids,MI,USA
+64,Jennifer,Thomas,jennifer.thomas894@slu.edu,jennifer.thomas193@outlook.com,MBA,Cybersecurity,2018,Full-Time,Somerville,MA,USA
+65,Olivia,Garrett,olivia.garrett952@slu.edu,olivia.garrett293@yahoo.com,PhD,Finance,2016,Full-Time,Charlotte,NC,USA
+66,Sharon,Ramsey,sharon.ramsey769@slu.edu,sharon.ramsey157@gmail.com,MS,Computer Science,2019,Full-Time,Cincinnati,OH,USA
+67,Samuel,Nixon,samuel.nixon236@slu.edu,samuel.nixon806@outlook.com,BA,Software Engineering,2020,Full-Time,Worcester,MA,USA
+68,Alex,Lucas,alex.lucas686@slu.edu,alex.lucas173@yahoo.com,MBA,Marketing,2022,STEM-OPT,Springfield,IL,USA
+69,Richard,Carrillo,richard.carrillo296@slu.edu,richard.carrillo992@yahoo.com,BS,Data Science,2022,OPT,Naperville,IL,USA
+70,Kyle,Alvarez,kyle.alvarez838@slu.edu,kyle.alvarez480@outlook.com,BS,Marketing,2015,Full-Time,San Diego,CA,USA
+71,Jennifer,Ferguson,jennifer.ferguson307@slu.edu,jennifer.ferguson534@yahoo.com,BS,Information Systems,2022,STEM-OPT,Charlotte,NC,USA
+72,Nicole,Smith,nicole.smith284@slu.edu,nicole.smith611@outlook.com,MBA,Electrical Engineering,2017,Full-Time,Detroit,MI,USA
+73,Dale,Adams,dale.adams236@slu.edu,dale.adams613@outlook.com,BS,Biostatistics,2025,CPT,Atlanta,GA,USA
+74,John,Boone,john.boone859@slu.edu,john.boone649@gmail.com,PhD,Data Science,2017,Full-Time,Cleveland,OH,USA
+75,Matthew,Hardy,matthew.hardy759@slu.edu,matthew.hardy219@yahoo.com,BS,Computer Science,2021,Full-Time,Ann Arbor,MI,USA
+76,John,Peterson,john.peterson494@slu.edu,john.peterson60@gmail.com,PhD,Cybersecurity,2023,OPT,Worcester,MA,USA
+77,April,James,april.james867@slu.edu,april.james724@gmail.com,PhD,Marketing,2020,Full-Time,Boulder,CO,USA
+78,Elizabeth,Flowers,elizabeth.flowers759@slu.edu,elizabeth.flowers650@outlook.com,BA,Finance,2023,STEM-OPT,Ann Arbor,MI,USA
+79,James,Stone,james.stone421@slu.edu,james.stone530@yahoo.com,MBA,Computer Science,2024,OPT,St. Louis,MO,USA
+80,Dustin,Cross,dustin.cross368@slu.edu,dustin.cross493@yahoo.com,BS,Finance,2015,Full-Time,San Jose,CA,USA
+81,Gregory,Gomez,gregory.gomez906@slu.edu,gregory.gomez305@yahoo.com,PhD,Cybersecurity,2022,OPT,Cincinnati,OH,USA
+82,Mallory,Jackson,mallory.jackson321@slu.edu,mallory.jackson221@gmail.com,PhD,Computer Science,2015,Full-Time,Irvine,CA,USA
+83,Jessica,Davis,jessica.davis730@slu.edu,jessica.davis522@gmail.com,MS,Software Engineering,2016,Full-Time,Tempe,AZ,USA
+84,Bryan,Jones,bryan.jones174@slu.edu,bryan.jones822@gmail.com,BA,Data Science,2017,Full-Time,Cary,NC,USA
+85,Kari,Mccarthy,kari.mccarthy898@slu.edu,kari.mccarthy425@outlook.com,MS,Information Systems,2025,CPT,Pittsburgh,PA,USA
+86,Benjamin,Romero,benjamin.romero53@slu.edu,benjamin.romero945@outlook.com,MS,Business Analytics,2023,STEM-OPT,Grand Rapids,MI,USA
+87,Ricardo,Sparks,ricardo.sparks255@slu.edu,ricardo.sparks251@gmail.com,MS,Business Analytics,2019,Full-Time,Buffalo,NY,USA
+88,Tina,Holmes,tina.holmes286@slu.edu,tina.holmes24@outlook.com,PhD,Finance,2022,STEM-OPT,Tampa,FL,USA
+89,Linda,Shepherd,linda.shepherd61@slu.edu,linda.shepherd130@yahoo.com,BS,Software Engineering,2021,Full-Time,Boulder,CO,USA
+90,David,Palmer,david.palmer687@slu.edu,david.palmer862@outlook.com,BS,Electrical Engineering,2020,Full-Time,Worcester,MA,USA
+91,Debbie,Taylor,debbie.taylor595@slu.edu,debbie.taylor285@outlook.com,BA,Computer Science,2025,CPT,San Antonio,TX,USA
+92,Zachary,Mendez,zachary.mendez559@slu.edu,zachary.mendez122@yahoo.com,BA,Cybersecurity,2016,Full-Time,Bellevue,WA,USA
+93,Jacqueline,Weaver,jacqueline.weaver761@slu.edu,jacqueline.weaver935@yahoo.com,MBA,Software Engineering,2020,Full-Time,Tacoma,WA,USA
+94,Melissa,Bennett,melissa.bennett626@slu.edu,melissa.bennett840@yahoo.com,MBA,Data Science,2025,CPT,Bellevue,WA,USA
+95,James,Cardenas,james.cardenas178@slu.edu,james.cardenas169@outlook.com,BA,Marketing,2015,Full-Time,Columbia,MO,USA
+96,Elizabeth,Parks,elizabeth.parks902@slu.edu,elizabeth.parks249@gmail.com,BA,Data Science,2021,Full-Time,Harrisburg,PA,USA
+97,Elizabeth,Smith,elizabeth.smith389@slu.edu,elizabeth.smith132@outlook.com,BS,Biostatistics,2019,Full-Time,Ann Arbor,MI,USA
+98,Erin,Young,erin.young569@slu.edu,erin.young103@outlook.com,MBA,Software Engineering,2023,OPT,Redmond,WA,USA
+99,Gary,Sanchez,gary.sanchez560@slu.edu,gary.sanchez451@yahoo.com,MS,Software Engineering,2024,OPT,Boston,MA,USA
+100,Amanda,Maddox,amanda.maddox639@slu.edu,amanda.maddox568@gmail.com,MBA,Marketing,2025,CPT,Somerville,MA,USA
+101,Jillian,Simmons,jillian.simmons826@slu.edu,jillian.simmons304@outlook.com,BA,Computer Science,2017,Full-Time,White Plains,NY,USA
+102,Mark,Rivera,mark.rivera70@slu.edu,mark.rivera797@yahoo.com,MS,Computer Science,2016,Full-Time,Miami,FL,USA
+103,Scott,Landry,scott.landry2@slu.edu,scott.landry976@gmail.com,PhD,Business Analytics,2024,OPT,Boston,MA,USA
+104,Thomas,Washington,thomas.washington670@slu.edu,thomas.washington581@gmail.com,MBA,Data Science,2019,Full-Time,Colorado Springs,CO,USA
+105,Bethany,Fuller,bethany.fuller848@slu.edu,bethany.fuller208@outlook.com,BA,Software Engineering,2015,Full-Time,Buffalo,NY,USA
+106,Melanie,Harris,melanie.harris129@slu.edu,melanie.harris297@yahoo.com,MS,Finance,2022,STEM-OPT,Detroit,MI,USA
+107,Heather,Parks,heather.parks701@slu.edu,heather.parks882@outlook.com,MBA,Electrical Engineering,2019,Full-Time,Boulder,CO,USA
+108,William,Cabrera,william.cabrera838@slu.edu,william.cabrera785@gmail.com,PhD,Cybersecurity,2019,Full-Time,Dallas,TX,USA
+109,Sharon,Holland,sharon.holland501@slu.edu,sharon.holland685@gmail.com,MS,Cybersecurity,2024,OPT,Phoenix,AZ,USA
+110,Mary,Allen,mary.allen993@slu.edu,mary.allen745@yahoo.com,MBA,Software Engineering,2023,OPT,Tucson,AZ,USA
+111,Lindsay,Lara,lindsay.lara306@slu.edu,lindsay.lara893@outlook.com,BS,Electrical Engineering,2017,Full-Time,Tampa,FL,USA
+112,Jermaine,Holmes,jermaine.holmes428@slu.edu,jermaine.holmes892@yahoo.com,MS,Information Systems,2015,Full-Time,Fort Collins,CO,USA
+113,Russell,Richards,russell.richards850@slu.edu,russell.richards134@gmail.com,PhD,Business Analytics,2021,Full-Time,Cleveland,OH,USA
+114,Ryan,Branch,ryan.branch600@slu.edu,ryan.branch235@outlook.com,MS,Computer Science,2020,Full-Time,Tempe,AZ,USA
+115,Vanessa,Clark,vanessa.clark338@slu.edu,vanessa.clark516@gmail.com,BA,Software Engineering,2015,Full-Time,Rochester,NY,USA
+116,Michele,Morrison,michele.morrison368@slu.edu,michele.morrison151@outlook.com,BA,Marketing,2021,Full-Time,Tampa,FL,USA
+117,Denise,Bishop,denise.bishop152@slu.edu,denise.bishop446@gmail.com,BA,Marketing,2016,Full-Time,Raleigh,NC,USA
+118,Benjamin,Reed,benjamin.reed476@slu.edu,benjamin.reed243@gmail.com,PhD,Electrical Engineering,2021,Full-Time,Tacoma,WA,USA
+119,Dustin,Davis,dustin.davis676@slu.edu,dustin.davis586@gmail.com,BS,Marketing,2015,Full-Time,Pittsburgh,PA,USA
+120,Wesley,Acosta,wesley.acosta707@slu.edu,wesley.acosta710@gmail.com,PhD,Information Systems,2025,CPT,Cleveland,OH,USA
+121,Taylor,Cordova,taylor.cordova185@slu.edu,taylor.cordova947@yahoo.com,PhD,Electrical Engineering,2024,OPT,Charlotte,NC,USA
+122,Thomas,Harris,thomas.harris548@slu.edu,thomas.harris44@yahoo.com,BA,Computer Science,2020,Full-Time,New York,NY,USA
+123,Lawrence,Castro,lawrence.castro628@slu.edu,lawrence.castro261@yahoo.com,MBA,Software Engineering,2020,Full-Time,Harrisburg,PA,USA
+124,Todd,Lee,todd.lee936@slu.edu,todd.lee705@gmail.com,BA,Information Systems,2016,Full-Time,Colorado Springs,CO,USA
+125,Stephanie,Jones,stephanie.jones98@slu.edu,stephanie.jones739@outlook.com,MBA,Business Analytics,2020,Full-Time,Harrisburg,PA,USA
+126,Laura,Flowers,laura.flowers84@slu.edu,laura.flowers749@yahoo.com,MBA,Computer Science,2020,Full-Time,St. Louis,MO,USA
+127,Tyler,Norris,tyler.norris587@slu.edu,tyler.norris809@gmail.com,MBA,Business Analytics,2016,Full-Time,Springfield,IL,USA
+128,Ellen,Hancock,ellen.hancock502@slu.edu,ellen.hancock110@gmail.com,BA,Cybersecurity,2019,Full-Time,Scottsdale,AZ,USA
+129,Ashley,Becker,ashley.becker979@slu.edu,ashley.becker890@outlook.com,PhD,Biostatistics,2024,OPT,Springfield,IL,USA
+130,Timothy,Johnson,timothy.johnson26@slu.edu,timothy.johnson485@yahoo.com,MS,Cybersecurity,2023,STEM-OPT,Detroit,MI,USA
+131,Selena,Avila,selena.avila211@slu.edu,selena.avila562@yahoo.com,MS,Business Analytics,2020,Full-Time,Houston,TX,USA
+132,Jeffrey,Hall,jeffrey.hall80@slu.edu,jeffrey.hall254@outlook.com,PhD,Data Science,2015,Full-Time,Chicago,IL,USA
+133,Christina,Barrera,christina.barrera322@slu.edu,christina.barrera790@yahoo.com,PhD,Information Systems,2016,Full-Time,Springfield,MO,USA
+134,Richard,Shannon,richard.shannon131@slu.edu,richard.shannon13@gmail.com,MBA,Biostatistics,2024,OPT,Savannah,GA,USA
+135,William,Sullivan,william.sullivan419@slu.edu,william.sullivan188@outlook.com,MBA,Finance,2015,Full-Time,Columbus,OH,USA
+136,Tiffany,Williams,tiffany.williams997@slu.edu,tiffany.williams941@gmail.com,BS,Information Systems,2022,OPT,Alpharetta,GA,USA
+137,Christopher,Johnson,christopher.johnson397@slu.edu,christopher.johnson46@outlook.com,MBA,Business Analytics,2020,Full-Time,Atlanta,GA,USA
+138,Antonio,Chapman,antonio.chapman608@slu.edu,antonio.chapman366@outlook.com,MBA,Electrical Engineering,2023,STEM-OPT,Raleigh,NC,USA
+139,Kelly,Gilbert,kelly.gilbert446@slu.edu,kelly.gilbert111@gmail.com,MBA,Information Systems,2025,CPT,Los Angeles,CA,USA
+140,Victoria,Perry,victoria.perry212@slu.edu,victoria.perry268@yahoo.com,MBA,Business Analytics,2023,OPT,Cleveland,OH,USA
+141,Amy,Schroeder,amy.schroeder535@slu.edu,amy.schroeder72@yahoo.com,MBA,Software Engineering,2023,STEM-OPT,Miami,FL,USA
+142,Randy,Smith,randy.smith706@slu.edu,randy.smith928@gmail.com,BA,Cybersecurity,2019,Full-Time,Denver,CO,USA
+143,Keith,Thornton,keith.thornton785@slu.edu,keith.thornton301@gmail.com,MS,Marketing,2021,Full-Time,Savannah,GA,USA
+144,Hannah,Hernandez,hannah.hernandez543@slu.edu,hannah.hernandez672@outlook.com,BS,Cybersecurity,2018,Full-Time,Columbus,OH,USA
+145,Andrew,Mendoza,andrew.mendoza468@slu.edu,andrew.mendoza433@outlook.com,MS,Finance,2019,Full-Time,Boston,MA,USA
+146,Dustin,George,dustin.george572@slu.edu,dustin.george299@gmail.com,MBA,Computer Science,2022,STEM-OPT,San Francisco,CA,USA
+147,Reginald,Edwards,reginald.edwards234@slu.edu,reginald.edwards777@yahoo.com,MS,Computer Science,2023,STEM-OPT,Miami,FL,USA
+148,Jonathan,Estrada,jonathan.estrada531@slu.edu,jonathan.estrada213@outlook.com,BA,Computer Science,2019,Full-Time,Raleigh,NC,USA
+149,Jill,Franklin,jill.franklin746@slu.edu,jill.franklin806@outlook.com,PhD,Marketing,2021,Full-Time,Los Angeles,CA,USA
+150,Stephanie,Davila,stephanie.davila80@slu.edu,stephanie.davila166@outlook.com,MBA,Data Science,2025,CPT,Cleveland,OH,USA
+151,Timothy,Olsen,timothy.olsen349@slu.edu,timothy.olsen962@outlook.com,BS,Software Engineering,2021,Full-Time,Somerville,MA,USA
+152,David,Bright,david.bright330@slu.edu,david.bright90@outlook.com,MS,Data Science,2016,Full-Time,San Antonio,TX,USA
+153,Martin,Davis,martin.davis537@slu.edu,martin.davis61@gmail.com,BS,Computer Science,2023,STEM-OPT,Peoria,IL,USA
+154,Alec,Clayton,alec.clayton577@slu.edu,alec.clayton701@yahoo.com,BS,Data Science,2015,Full-Time,St. Louis,MO,USA
+155,Thomas,Pollard,thomas.pollard322@slu.edu,thomas.pollard6@yahoo.com,BS,Biostatistics,2018,Full-Time,San Francisco,CA,USA
+156,Mark,Mercer,mark.mercer625@slu.edu,mark.mercer382@outlook.com,MS,Information Systems,2017,Full-Time,Kansas City,MO,USA
+157,Madison,Johnston,madison.johnston822@slu.edu,madison.johnston602@outlook.com,BA,Computer Science,2025,CPT,Tempe,AZ,USA
+158,John,Clark,john.clark630@slu.edu,john.clark69@yahoo.com,MS,Computer Science,2019,Full-Time,New York,NY,USA
+159,Stanley,Sanchez,stanley.sanchez32@slu.edu,stanley.sanchez308@outlook.com,BS,Data Science,2017,Full-Time,Grand Rapids,MI,USA
+160,Martin,Weaver,martin.weaver68@slu.edu,martin.weaver839@gmail.com,PhD,Computer Science,2019,Full-Time,Boston,MA,USA
+161,James,Avila,james.avila608@slu.edu,james.avila515@outlook.com,MS,Cybersecurity,2019,Full-Time,Charlotte,NC,USA
+162,Barbara,Guzman,barbara.guzman4@slu.edu,barbara.guzman126@gmail.com,MBA,Biostatistics,2021,Full-Time,Cincinnati,OH,USA
+163,Melissa,Gallagher,melissa.gallagher398@slu.edu,melissa.gallagher509@yahoo.com,BS,Data Science,2020,Full-Time,Springfield,MO,USA
+164,Ryan,Hall,ryan.hall137@slu.edu,ryan.hall421@outlook.com,BA,Biostatistics,2018,Full-Time,Clayton,MO,USA
+165,Anthony,Conrad,anthony.conrad258@slu.edu,anthony.conrad507@outlook.com,MBA,Biostatistics,2022,STEM-OPT,Savannah,GA,USA
+166,Robert,Norton,robert.norton371@slu.edu,robert.norton84@outlook.com,PhD,Finance,2023,STEM-OPT,Buffalo,NY,USA
+167,Sarah,Rivera,sarah.rivera7@slu.edu,sarah.rivera211@gmail.com,BS,Business Analytics,2021,Full-Time,Chicago,IL,USA
+168,Kenneth,Atkins,kenneth.atkins196@slu.edu,kenneth.atkins457@outlook.com,BA,Marketing,2017,Full-Time,Albany,NY,USA
+169,David,Wall,david.wall279@slu.edu,david.wall353@yahoo.com,MBA,Business Analytics,2025,CPT,Redmond,WA,USA
+170,Joseph,Watson,joseph.watson534@slu.edu,joseph.watson852@yahoo.com,MS,Finance,2023,OPT,Springfield,IL,USA
+171,Catherine,Brewer,catherine.brewer533@slu.edu,catherine.brewer124@outlook.com,PhD,Software Engineering,2015,Full-Time,Chesterfield,MO,USA
+172,Andrea,Maldonado,andrea.maldonado547@slu.edu,andrea.maldonado259@gmail.com,BS,Electrical Engineering,2015,Full-Time,San Francisco,CA,USA
+173,Billy,Dennis,billy.dennis876@slu.edu,billy.dennis219@yahoo.com,MS,Business Analytics,2019,Full-Time,St. Louis,MO,USA
+174,Theresa,Robinson,theresa.robinson354@slu.edu,theresa.robinson702@outlook.com,BA,Information Systems,2023,STEM-OPT,Charlotte,NC,USA
+175,Meredith,Buckley,meredith.buckley725@slu.edu,meredith.buckley276@outlook.com,BA,Finance,2019,Full-Time,Redmond,WA,USA
+176,Katie,Braun,katie.braun176@slu.edu,katie.braun3@yahoo.com,BS,Software Engineering,2017,Full-Time,Tacoma,WA,USA
+177,Heather,Mitchell,heather.mitchell962@slu.edu,heather.mitchell327@yahoo.com,BA,Marketing,2016,Full-Time,Tampa,FL,USA
+178,Rachel,Campos,rachel.campos969@slu.edu,rachel.campos799@outlook.com,MBA,Business Analytics,2022,OPT,Detroit,MI,USA
+179,Haley,Fischer,haley.fischer30@slu.edu,haley.fischer173@gmail.com,BA,Marketing,2015,Full-Time,Albany,NY,USA
+180,Blake,Pena,blake.pena869@slu.edu,blake.pena718@outlook.com,MBA,Software Engineering,2022,OPT,Miami,FL,USA
+181,Neil,Rogers,neil.rogers734@slu.edu,neil.rogers402@yahoo.com,BA,Cybersecurity,2017,Full-Time,Naperville,IL,USA
+182,Kristen,Gardner,kristen.gardner365@slu.edu,kristen.gardner950@yahoo.com,MBA,Marketing,2018,Full-Time,Columbus,OH,USA
+183,Christopher,Rowe,christopher.rowe61@slu.edu,christopher.rowe328@yahoo.com,BA,Computer Science,2022,STEM-OPT,Bellevue,WA,USA
+184,Michael,Khan,michael.khan408@slu.edu,michael.khan127@outlook.com,BA,Biostatistics,2025,CPT,Seattle,WA,USA
+185,Sean,Weaver,sean.weaver673@slu.edu,sean.weaver396@yahoo.com,BS,Marketing,2016,Full-Time,Ann Arbor,MI,USA
+186,Melissa,Miller,melissa.miller668@slu.edu,melissa.miller644@outlook.com,MS,Biostatistics,2016,Full-Time,Atlanta,GA,USA
+187,Jamie,Robertson,jamie.robertson188@slu.edu,jamie.robertson101@gmail.com,PhD,Marketing,2024,CPT,New York,NY,USA
+188,Kenneth,Davis,kenneth.davis646@slu.edu,kenneth.davis197@yahoo.com,BS,Electrical Engineering,2023,STEM-OPT,Albany,NY,USA
+189,Heather,Ward,heather.ward315@slu.edu,heather.ward862@yahoo.com,MBA,Computer Science,2016,Full-Time,Cary,NC,USA
+190,Jenny,Lopez,jenny.lopez111@slu.edu,jenny.lopez609@outlook.com,BA,Finance,2016,Full-Time,Denver,CO,USA
+191,Erin,Cummings,erin.cummings216@slu.edu,erin.cummings635@gmail.com,BA,Cybersecurity,2015,Full-Time,Chesterfield,MO,USA
+192,Timothy,Andersen,timothy.andersen961@slu.edu,timothy.andersen373@yahoo.com,BS,Computer Science,2018,Full-Time,Colorado Springs,CO,USA
+193,Nancy,Brown,nancy.brown603@slu.edu,nancy.brown223@gmail.com,BA,Marketing,2024,OPT,Plano,TX,USA
+194,Joseph,Chang,joseph.chang528@slu.edu,joseph.chang452@gmail.com,BS,Marketing,2017,Full-Time,Buffalo,NY,USA
+195,Amanda,Walker,amanda.walker899@slu.edu,amanda.walker208@gmail.com,BA,Marketing,2019,Full-Time,San Francisco,CA,USA
+196,James,Hanson,james.hanson29@slu.edu,james.hanson771@yahoo.com,PhD,Electrical Engineering,2018,Full-Time,Denver,CO,USA
+197,Eric,Floyd,eric.floyd712@slu.edu,eric.floyd79@outlook.com,BS,Cybersecurity,2020,Full-Time,Durham,NC,USA
+198,Christina,Johnson,christina.johnson896@slu.edu,christina.johnson298@gmail.com,PhD,Software Engineering,2017,Full-Time,Durham,NC,USA
+199,John,Brown,john.brown100@slu.edu,john.brown551@yahoo.com,BA,Information Systems,2019,Full-Time,Cleveland,OH,USA
+200,Amanda,Buchanan,amanda.buchanan541@slu.edu,amanda.buchanan93@outlook.com,PhD,Electrical Engineering,2018,Full-Time,Clayton,MO,USA
+201,Jennifer,Callahan,jennifer.callahan84@slu.edu,jennifer.callahan343@outlook.com,PhD,Computer Science,2019,Full-Time,Philadelphia,PA,USA
+202,Seth,Herman,seth.herman52@slu.edu,seth.herman17@yahoo.com,BA,Marketing,2019,Full-Time,Pittsburgh,PA,USA
+203,Michael,Lewis,michael.lewis770@slu.edu,michael.lewis696@yahoo.com,BA,Electrical Engineering,2022,OPT,Boulder,CO,USA
+204,Andrew,Blackwell,andrew.blackwell191@slu.edu,andrew.blackwell459@outlook.com,PhD,Finance,2021,Full-Time,Harrisburg,PA,USA
+205,Kevin,Cooper,kevin.cooper350@slu.edu,kevin.cooper573@outlook.com,MS,Finance,2017,Full-Time,New York,NY,USA
+206,Chelsea,French,chelsea.french592@slu.edu,chelsea.french15@yahoo.com,MBA,Marketing,2015,Full-Time,Harrisburg,PA,USA
+207,Rebecca,Price,rebecca.price349@slu.edu,rebecca.price387@yahoo.com,BS,Software Engineering,2015,Full-Time,New York,NY,USA
+208,April,Moore,april.moore879@slu.edu,april.moore61@outlook.com,BS,Finance,2023,STEM-OPT,Alpharetta,GA,USA
+209,James,Lopez,james.lopez945@slu.edu,james.lopez492@gmail.com,MS,Information Systems,2015,Full-Time,Columbia,MO,USA
+210,Kelly,Young,kelly.young599@slu.edu,kelly.young104@gmail.com,BS,Finance,2015,Full-Time,New York,NY,USA
+211,Jamie,Brown,jamie.brown703@slu.edu,jamie.brown91@yahoo.com,BS,Software Engineering,2016,Full-Time,San Francisco,CA,USA
+212,Katherine,Jackson,katherine.jackson519@slu.edu,katherine.jackson811@outlook.com,MBA,Computer Science,2019,Full-Time,Ann Arbor,MI,USA
+213,Megan,Vasquez,megan.vasquez405@slu.edu,megan.vasquez674@yahoo.com,PhD,Data Science,2024,OPT,Seattle,WA,USA
+214,Anna,Wang,anna.wang731@slu.edu,anna.wang177@yahoo.com,PhD,Marketing,2025,CPT,Plano,TX,USA
+215,Christine,Fletcher,christine.fletcher147@slu.edu,christine.fletcher608@outlook.com,BS,Software Engineering,2020,Full-Time,New York,NY,USA
+216,Bradley,Cooper,bradley.cooper993@slu.edu,bradley.cooper358@yahoo.com,PhD,Biostatistics,2024,CPT,Cleveland,OH,USA
+217,Thomas,Rubio,thomas.rubio48@slu.edu,thomas.rubio711@outlook.com,BA,Cybersecurity,2016,Full-Time,Los Angeles,CA,USA
+218,Michael,Olson,michael.olson335@slu.edu,michael.olson642@outlook.com,MS,Marketing,2015,Full-Time,Houston,TX,USA
+219,Kevin,Davis,kevin.davis422@slu.edu,kevin.davis442@yahoo.com,MBA,Biostatistics,2025,CPT,Irvine,CA,USA
+220,Cynthia,Myers,cynthia.myers836@slu.edu,cynthia.myers311@yahoo.com,BA,Finance,2020,Full-Time,Denver,CO,USA
+221,Tracey,Parsons,tracey.parsons824@slu.edu,tracey.parsons145@gmail.com,BS,Business Analytics,2019,Full-Time,Tempe,AZ,USA
+222,William,Reed,william.reed350@slu.edu,william.reed50@yahoo.com,BS,Information Systems,2023,STEM-OPT,Denver,CO,USA
+223,Sherry,Robertson,sherry.robertson795@slu.edu,sherry.robertson429@gmail.com,MBA,Electrical Engineering,2025,CPT,Scottsdale,AZ,USA
+224,Justin,Lee,justin.lee159@slu.edu,justin.lee952@gmail.com,BS,Information Systems,2020,Full-Time,Detroit,MI,USA
+225,Christian,Miller,christian.miller96@slu.edu,christian.miller247@gmail.com,BA,Business Analytics,2016,Full-Time,New York,NY,USA
+226,Mitchell,Leon,mitchell.leon748@slu.edu,mitchell.leon30@outlook.com,BS,Electrical Engineering,2025,CPT,Albany,NY,USA
+227,Mary,Wade,mary.wade262@slu.edu,mary.wade339@gmail.com,MBA,Data Science,2020,Full-Time,Kansas City,MO,USA
+228,Joel,Hernandez,joel.hernandez383@slu.edu,joel.hernandez298@outlook.com,BS,Software Engineering,2019,Full-Time,Raleigh,NC,USA
+229,Thomas,Mills,thomas.mills905@slu.edu,thomas.mills383@outlook.com,MS,Computer Science,2020,Full-Time,Redmond,WA,USA
+230,Frank,Ray,frank.ray313@slu.edu,frank.ray702@gmail.com,PhD,Computer Science,2024,CPT,Savannah,GA,USA
+231,Brian,Macdonald,brian.macdonald933@slu.edu,brian.macdonald173@yahoo.com,MBA,Business Analytics,2021,Full-Time,Denver,CO,USA
+232,Ashley,Branch,ashley.branch591@slu.edu,ashley.branch541@yahoo.com,BS,Electrical Engineering,2016,Full-Time,Cleveland,OH,USA
+233,Edward,Jones,edward.jones824@slu.edu,edward.jones352@yahoo.com,BA,Finance,2015,Full-Time,Columbus,OH,USA
+234,Daniel,Mahoney,daniel.mahoney794@slu.edu,daniel.mahoney853@yahoo.com,BA,Information Systems,2018,Full-Time,Atlanta,GA,USA
+235,Keith,Reed,keith.reed215@slu.edu,keith.reed310@yahoo.com,BS,Electrical Engineering,2023,STEM-OPT,Detroit,MI,USA
+236,Sara,Ramirez,sara.ramirez458@slu.edu,sara.ramirez179@yahoo.com,BA,Software Engineering,2025,CPT,Cary,NC,USA
+237,Curtis,Rogers,curtis.rogers13@slu.edu,curtis.rogers766@gmail.com,BA,Biostatistics,2017,Full-Time,Houston,TX,USA
+238,Michael,Turner,michael.turner350@slu.edu,michael.turner731@yahoo.com,PhD,Electrical Engineering,2018,Full-Time,Denver,CO,USA
+239,Robin,Calhoun,robin.calhoun271@slu.edu,robin.calhoun44@outlook.com,BA,Data Science,2016,Full-Time,Cary,NC,USA
+240,Melissa,Ball,melissa.ball990@slu.edu,melissa.ball940@yahoo.com,BA,Data Science,2023,OPT,Denver,CO,USA
+241,Joshua,Martinez,joshua.martinez432@slu.edu,joshua.martinez332@outlook.com,MS,Electrical Engineering,2015,Full-Time,Seattle,WA,USA
+242,Christina,Berry,christina.berry338@slu.edu,christina.berry729@gmail.com,MBA,Business Analytics,2024,OPT,Grand Rapids,MI,USA
+243,Kathryn,Harris,kathryn.harris645@slu.edu,kathryn.harris672@outlook.com,BA,Electrical Engineering,2016,Full-Time,Seattle,WA,USA
+244,Alyssa,Holloway,alyssa.holloway737@slu.edu,alyssa.holloway509@yahoo.com,PhD,Electrical Engineering,2018,Full-Time,Savannah,GA,USA
+245,Marissa,Robinson,marissa.robinson4@slu.edu,marissa.robinson391@outlook.com,BA,Information Systems,2015,Full-Time,San Diego,CA,USA
+246,Tanya,Edwards,tanya.edwards15@slu.edu,tanya.edwards883@yahoo.com,PhD,Cybersecurity,2024,OPT,White Plains,NY,USA
+247,Anthony,Welch,anthony.welch408@slu.edu,anthony.welch901@outlook.com,MS,Information Systems,2023,OPT,Redmond,WA,USA
+248,Ashley,Romero,ashley.romero553@slu.edu,ashley.romero54@gmail.com,MS,Electrical Engineering,2021,Full-Time,Phoenix,AZ,USA
+249,Lisa,Garza,lisa.garza666@slu.edu,lisa.garza526@outlook.com,BA,Information Systems,2016,Full-Time,Dallas,TX,USA
+250,Angela,Tyler,angela.tyler677@slu.edu,angela.tyler116@gmail.com,BS,Cybersecurity,2017,Full-Time,Tampa,FL,USA
+251,Katelyn,Diaz,katelyn.diaz963@slu.edu,katelyn.diaz434@yahoo.com,BA,Business Analytics,2015,Full-Time,Atlanta,GA,USA
+252,Elizabeth,Torres,elizabeth.torres83@slu.edu,elizabeth.torres394@yahoo.com,MS,Cybersecurity,2024,OPT,Naperville,IL,USA
+253,Joseph,Herrera,joseph.herrera359@slu.edu,joseph.herrera753@gmail.com,MS,Computer Science,2024,CPT,Grand Rapids,MI,USA
+254,John,Velazquez,john.velazquez900@slu.edu,john.velazquez141@outlook.com,BS,Software Engineering,2025,CPT,Atlanta,GA,USA
+255,Aaron,Ferguson,aaron.ferguson224@slu.edu,aaron.ferguson783@gmail.com,BA,Information Systems,2021,Full-Time,Seattle,WA,USA
+256,Laurie,Goodman,laurie.goodman111@slu.edu,laurie.goodman200@yahoo.com,BA,Marketing,2016,Full-Time,Charlotte,NC,USA
+257,Diana,Taylor,diana.taylor206@slu.edu,diana.taylor629@gmail.com,BS,Business Analytics,2015,Full-Time,San Diego,CA,USA
+258,Luis,Payne,luis.payne879@slu.edu,luis.payne559@yahoo.com,PhD,Finance,2018,Full-Time,St. Louis,MO,USA
+259,Rebecca,Mcclure,rebecca.mcclure131@slu.edu,rebecca.mcclure151@yahoo.com,MS,Information Systems,2018,Full-Time,Scottsdale,AZ,USA
+260,James,Wagner,james.wagner368@slu.edu,james.wagner36@yahoo.com,MBA,Marketing,2016,Full-Time,Alpharetta,GA,USA
+261,James,Harper,james.harper23@slu.edu,james.harper946@gmail.com,PhD,Electrical Engineering,2020,Full-Time,Naperville,IL,USA
+262,Julia,Nelson,julia.nelson747@slu.edu,julia.nelson240@outlook.com,PhD,Computer Science,2018,Full-Time,San Antonio,TX,USA
+263,Ashley,Mills,ashley.mills814@slu.edu,ashley.mills449@outlook.com,MS,Computer Science,2021,Full-Time,Phoenix,AZ,USA
+264,Collin,Robertson,collin.robertson750@slu.edu,collin.robertson648@gmail.com,MS,Computer Science,2020,Full-Time,Jacksonville,FL,USA
+265,Veronica,Gonzales,veronica.gonzales770@slu.edu,veronica.gonzales75@gmail.com,MS,Cybersecurity,2016,Full-Time,Ann Arbor,MI,USA
+266,Craig,Burch,craig.burch885@slu.edu,craig.burch20@gmail.com,MS,Information Systems,2017,Full-Time,Tampa,FL,USA
+267,Vanessa,Knight,vanessa.knight265@slu.edu,vanessa.knight24@outlook.com,MBA,Computer Science,2021,Full-Time,San Antonio,TX,USA
+268,Regina,Perez,regina.perez623@slu.edu,regina.perez844@gmail.com,MS,Finance,2023,STEM-OPT,Grand Rapids,MI,USA
+269,Carol,Allen,carol.allen520@slu.edu,carol.allen922@outlook.com,BS,Business Analytics,2016,Full-Time,Atlanta,GA,USA
+270,David,Anthony,david.anthony691@slu.edu,david.anthony106@gmail.com,MBA,Finance,2025,CPT,San Antonio,TX,USA
+271,Joseph,Henry,joseph.henry739@slu.edu,joseph.henry643@yahoo.com,PhD,Marketing,2018,Full-Time,San Diego,CA,USA
+272,Charles,Hill,charles.hill541@slu.edu,charles.hill485@outlook.com,PhD,Biostatistics,2017,Full-Time,Tempe,AZ,USA
+273,Jenny,Luna,jenny.luna362@slu.edu,jenny.luna259@gmail.com,BA,Finance,2024,OPT,Savannah,GA,USA
+274,Ashley,Cooke,ashley.cooke324@slu.edu,ashley.cooke284@gmail.com,MBA,Information Systems,2023,OPT,Redmond,WA,USA
+275,Raymond,Davis,raymond.davis549@slu.edu,raymond.davis759@yahoo.com,BS,Business Analytics,2025,CPT,Somerville,MA,USA
+276,Angela,Parker,angela.parker207@slu.edu,angela.parker149@gmail.com,BS,Cybersecurity,2015,Full-Time,Clayton,MO,USA
+277,Ronald,Hill,ronald.hill104@slu.edu,ronald.hill387@outlook.com,BS,Business Analytics,2021,Full-Time,Peoria,IL,USA
+278,Michael,Martin,michael.martin696@slu.edu,michael.martin477@gmail.com,MS,Software Engineering,2016,Full-Time,Buffalo,NY,USA
+279,Justin,Wiggins,justin.wiggins524@slu.edu,justin.wiggins668@gmail.com,MBA,Computer Science,2021,Full-Time,Raleigh,NC,USA
+280,Todd,Mcdaniel,todd.mcdaniel243@slu.edu,todd.mcdaniel130@yahoo.com,MS,Business Analytics,2023,STEM-OPT,Atlanta,GA,USA
+281,Cole,Perry,cole.perry985@slu.edu,cole.perry19@gmail.com,MBA,Marketing,2017,Full-Time,Irvine,CA,USA
+282,Jared,Bishop,jared.bishop32@slu.edu,jared.bishop597@yahoo.com,MS,Electrical Engineering,2022,STEM-OPT,Philadelphia,PA,USA
+283,Tiffany,Spears,tiffany.spears942@slu.edu,tiffany.spears914@gmail.com,BA,Software Engineering,2016,Full-Time,Cary,NC,USA
+284,Eric,Hill,eric.hill611@slu.edu,eric.hill934@yahoo.com,BA,Marketing,2021,Full-Time,San Francisco,CA,USA
+285,William,Robinson,william.robinson241@slu.edu,william.robinson795@outlook.com,PhD,Business Analytics,2022,OPT,New York,NY,USA
+286,Jeffrey,Guerra,jeffrey.guerra889@slu.edu,jeffrey.guerra509@outlook.com,PhD,Finance,2024,CPT,Philadelphia,PA,USA
+287,Zachary,Bernard,zachary.bernard207@slu.edu,zachary.bernard531@outlook.com,MS,Computer Science,2015,Full-Time,Plano,TX,USA
+288,Courtney,Johnson,courtney.johnson853@slu.edu,courtney.johnson128@outlook.com,BS,Biostatistics,2019,Full-Time,Alpharetta,GA,USA
+289,Lisa,Martin,lisa.martin885@slu.edu,lisa.martin994@gmail.com,MS,Data Science,2025,CPT,Colorado Springs,CO,USA
+290,John,Gibson,john.gibson14@slu.edu,john.gibson831@gmail.com,PhD,Computer Science,2025,CPT,Boulder,CO,USA
+291,Mary,Taylor,mary.taylor823@slu.edu,mary.taylor675@yahoo.com,MS,Electrical Engineering,2025,CPT,Dallas,TX,USA
+292,Michelle,Werner,michelle.werner560@slu.edu,michelle.werner724@yahoo.com,BS,Software Engineering,2016,Full-Time,Peoria,IL,USA
+293,Wayne,Johnson,wayne.johnson946@slu.edu,wayne.johnson440@outlook.com,MBA,Electrical Engineering,2019,Full-Time,Dallas,TX,USA
+294,Michelle,Gonzalez,michelle.gonzalez440@slu.edu,michelle.gonzalez993@yahoo.com,PhD,Electrical Engineering,2019,Full-Time,San Jose,CA,USA
+295,Jennifer,Carter,jennifer.carter386@slu.edu,jennifer.carter242@gmail.com,BS,Data Science,2024,OPT,Atlanta,GA,USA
+296,Jeanne,Reed,jeanne.reed504@slu.edu,jeanne.reed562@gmail.com,BS,Information Systems,2019,Full-Time,Jacksonville,FL,USA
+297,Kenneth,Oconnor,kenneth.oconnor689@slu.edu,kenneth.oconnor719@yahoo.com,BS,Business Analytics,2022,OPT,Boulder,CO,USA
+298,Rebecca,Villegas,rebecca.villegas711@slu.edu,rebecca.villegas44@gmail.com,MS,Electrical Engineering,2016,Full-Time,Fort Collins,CO,USA
+299,William,Underwood,william.underwood410@slu.edu,william.underwood273@yahoo.com,MBA,Finance,2019,Full-Time,San Jose,CA,USA
+300,Kathleen,Perry,kathleen.perry503@slu.edu,kathleen.perry160@yahoo.com,BS,Information Systems,2015,Full-Time,Tacoma,WA,USA
+301,Jose,Coleman,jose.coleman376@slu.edu,jose.coleman744@outlook.com,BA,Marketing,2019,Full-Time,Tampa,FL,USA
+302,Courtney,Gallagher,courtney.gallagher911@slu.edu,courtney.gallagher860@gmail.com,PhD,Computer Science,2023,STEM-OPT,Peoria,IL,USA
+303,Daisy,White,daisy.white57@slu.edu,daisy.white580@yahoo.com,BS,Business Analytics,2022,STEM-OPT,Peoria,IL,USA
+304,Travis,Singleton,travis.singleton741@slu.edu,travis.singleton933@outlook.com,MS,Electrical Engineering,2020,Full-Time,New York,NY,USA
+305,Carl,Sims,carl.sims325@slu.edu,carl.sims418@yahoo.com,MS,Software Engineering,2022,STEM-OPT,Chesterfield,MO,USA
+306,Mark,Wong,mark.wong743@slu.edu,mark.wong154@yahoo.com,MBA,Software Engineering,2024,CPT,Pittsburgh,PA,USA
+307,Duane,Brown,duane.brown85@slu.edu,duane.brown865@yahoo.com,MBA,Finance,2016,Full-Time,Boston,MA,USA
+308,Cynthia,Medina,cynthia.medina914@slu.edu,cynthia.medina261@yahoo.com,PhD,Marketing,2022,STEM-OPT,Raleigh,NC,USA
+309,Diana,Duke,diana.duke848@slu.edu,diana.duke7@gmail.com,BS,Data Science,2021,Full-Time,Charlotte,NC,USA
+310,Karen,Taylor,karen.taylor209@slu.edu,karen.taylor197@outlook.com,MBA,Business Analytics,2015,Full-Time,San Francisco,CA,USA
+311,Gerald,Rodriguez,gerald.rodriguez536@slu.edu,gerald.rodriguez859@yahoo.com,MBA,Information Systems,2017,Full-Time,Boulder,CO,USA
+312,Derek,Chandler,derek.chandler984@slu.edu,derek.chandler915@gmail.com,BS,Cybersecurity,2019,Full-Time,Boston,MA,USA
+313,Anthony,Spencer,anthony.spencer708@slu.edu,anthony.spencer887@gmail.com,PhD,Finance,2020,Full-Time,San Jose,CA,USA
+314,Laura,Hall,laura.hall482@slu.edu,laura.hall111@outlook.com,MBA,Information Systems,2022,STEM-OPT,Kansas City,MO,USA
+315,Jessica,Fleming,jessica.fleming365@slu.edu,jessica.fleming124@gmail.com,BS,Biostatistics,2019,Full-Time,Los Angeles,CA,USA
+316,Teresa,Nguyen,teresa.nguyen631@slu.edu,teresa.nguyen929@gmail.com,MS,Software Engineering,2023,OPT,Buffalo,NY,USA
+317,William,Sanders,william.sanders840@slu.edu,william.sanders27@yahoo.com,BS,Marketing,2022,OPT,Peoria,IL,USA
+318,Candice,Green,candice.green371@slu.edu,candice.green732@outlook.com,BA,Biostatistics,2019,Full-Time,Chicago,IL,USA
+319,Mark,Booth,mark.booth745@slu.edu,mark.booth136@yahoo.com,BS,Business Analytics,2024,OPT,Bellevue,WA,USA
+320,Laura,Hernandez,laura.hernandez756@slu.edu,laura.hernandez941@outlook.com,BA,Software Engineering,2025,CPT,Tucson,AZ,USA
+321,Melanie,Bryant,melanie.bryant485@slu.edu,melanie.bryant241@yahoo.com,MBA,Marketing,2015,Full-Time,Savannah,GA,USA
+322,Thomas,Hahn,thomas.hahn103@slu.edu,thomas.hahn482@yahoo.com,MS,Finance,2023,STEM-OPT,Somerville,MA,USA
+323,Michael,Johnson,michael.johnson337@slu.edu,michael.johnson506@gmail.com,MS,Biostatistics,2016,Full-Time,Orlando,FL,USA
+324,Garrett,Thomas,garrett.thomas508@slu.edu,garrett.thomas873@yahoo.com,BA,Marketing,2016,Full-Time,Philadelphia,PA,USA
+325,Cheryl,Sullivan,cheryl.sullivan298@slu.edu,cheryl.sullivan802@outlook.com,MBA,Marketing,2020,Full-Time,Buffalo,NY,USA
+326,Patricia,Day,patricia.day92@slu.edu,patricia.day815@outlook.com,PhD,Cybersecurity,2021,Full-Time,Cambridge,MA,USA
+327,Jacqueline,Brown,jacqueline.brown980@slu.edu,jacqueline.brown399@yahoo.com,MBA,Software Engineering,2015,Full-Time,San Francisco,CA,USA
+328,Lisa,Singh,lisa.singh286@slu.edu,lisa.singh275@outlook.com,MBA,Electrical Engineering,2019,Full-Time,Philadelphia,PA,USA
+329,Michael,West,michael.west67@slu.edu,michael.west580@gmail.com,BA,Marketing,2020,Full-Time,Columbus,OH,USA
+330,Amber,Clark,amber.clark550@slu.edu,amber.clark973@outlook.com,MS,Finance,2019,Full-Time,Boulder,CO,USA
+331,Mackenzie,Kemp,mackenzie.kemp635@slu.edu,mackenzie.kemp803@gmail.com,BA,Finance,2019,Full-Time,Boulder,CO,USA
+332,Jordan,Harris,jordan.harris828@slu.edu,jordan.harris887@yahoo.com,BA,Information Systems,2025,CPT,San Jose,CA,USA
+333,Julia,Roberts,julia.roberts216@slu.edu,julia.roberts532@gmail.com,PhD,Finance,2017,Full-Time,Ann Arbor,MI,USA
+334,David,Kelly,david.kelly776@slu.edu,david.kelly61@yahoo.com,MBA,Data Science,2020,Full-Time,Albany,NY,USA
+335,Bob,Hamilton,bob.hamilton200@slu.edu,bob.hamilton69@outlook.com,BA,Data Science,2025,CPT,Seattle,WA,USA
+336,Sandra,Gilbert,sandra.gilbert623@slu.edu,sandra.gilbert691@yahoo.com,BS,Biostatistics,2019,Full-Time,Boston,MA,USA
+337,Charles,Estrada,charles.estrada151@slu.edu,charles.estrada34@outlook.com,BS,Cybersecurity,2020,Full-Time,Miami,FL,USA
+338,Michael,Walker,michael.walker51@slu.edu,michael.walker405@gmail.com,PhD,Business Analytics,2015,Full-Time,San Jose,CA,USA
+339,Stephanie,Nelson,stephanie.nelson222@slu.edu,stephanie.nelson599@outlook.com,MBA,Cybersecurity,2019,Full-Time,Plano,TX,USA
+340,Laura,Meza,laura.meza394@slu.edu,laura.meza488@gmail.com,MS,Computer Science,2021,Full-Time,St. Louis,MO,USA
+341,David,Harris,david.harris382@slu.edu,david.harris779@outlook.com,BA,Marketing,2025,CPT,Los Angeles,CA,USA
+342,Isaiah,Salazar,isaiah.salazar430@slu.edu,isaiah.salazar664@outlook.com,PhD,Electrical Engineering,2018,Full-Time,Tacoma,WA,USA
+343,Joseph,Woods,joseph.woods23@slu.edu,joseph.woods279@gmail.com,BS,Business Analytics,2017,Full-Time,White Plains,NY,USA
+344,Monica,Tucker,monica.tucker630@slu.edu,monica.tucker772@outlook.com,MBA,Electrical Engineering,2024,OPT,Albany,NY,USA
+345,David,Mccarthy,david.mccarthy148@slu.edu,david.mccarthy193@gmail.com,BA,Data Science,2021,Full-Time,Colorado Springs,CO,USA
+346,Stanley,Oliver,stanley.oliver746@slu.edu,stanley.oliver359@yahoo.com,BS,Information Systems,2020,Full-Time,St. Louis,MO,USA
+347,Jeremy,Roth,jeremy.roth134@slu.edu,jeremy.roth187@gmail.com,MS,Electrical Engineering,2017,Full-Time,Savannah,GA,USA
+348,Rebecca,Jennings,rebecca.jennings188@slu.edu,rebecca.jennings819@outlook.com,MS,Marketing,2025,CPT,Tacoma,WA,USA
+349,Ashley,Edwards,ashley.edwards179@slu.edu,ashley.edwards718@gmail.com,MBA,Electrical Engineering,2022,OPT,Columbia,MO,USA
+350,Brian,Benitez,brian.benitez247@slu.edu,brian.benitez412@outlook.com,PhD,Marketing,2017,Full-Time,Savannah,GA,USA
+351,Sheila,Wagner,sheila.wagner138@slu.edu,sheila.wagner397@yahoo.com,BA,Data Science,2018,Full-Time,Detroit,MI,USA
+352,Lisa,Anderson,lisa.anderson388@slu.edu,lisa.anderson696@gmail.com,BA,Data Science,2025,CPT,Urbana,IL,USA
+353,Tony,Bridges,tony.bridges304@slu.edu,tony.bridges241@yahoo.com,MS,Information Systems,2018,Full-Time,Denver,CO,USA
+354,Whitney,Stein,whitney.stein623@slu.edu,whitney.stein721@outlook.com,BS,Computer Science,2017,Full-Time,San Antonio,TX,USA
+355,Andre,Olson,andre.olson402@slu.edu,andre.olson757@yahoo.com,PhD,Biostatistics,2015,Full-Time,Columbus,OH,USA
+356,Charles,Fleming,charles.fleming330@slu.edu,charles.fleming597@yahoo.com,BS,Software Engineering,2021,Full-Time,Atlanta,GA,USA
+357,Kimberly,Chang,kimberly.chang321@slu.edu,kimberly.chang796@outlook.com,BA,Marketing,2021,Full-Time,Atlanta,GA,USA
+358,Michelle,Brooks,michelle.brooks506@slu.edu,michelle.brooks461@yahoo.com,PhD,Electrical Engineering,2018,Full-Time,White Plains,NY,USA
+359,Melanie,White,melanie.white63@slu.edu,melanie.white89@gmail.com,MS,Information Systems,2019,Full-Time,Plano,TX,USA
+360,Chad,Montgomery,chad.montgomery64@slu.edu,chad.montgomery291@gmail.com,BS,Electrical Engineering,2019,Full-Time,Savannah,GA,USA
+361,Danielle,Bruce,danielle.bruce723@slu.edu,danielle.bruce331@yahoo.com,MBA,Computer Science,2017,Full-Time,Denver,CO,USA
+362,Julie,Lopez,julie.lopez653@slu.edu,julie.lopez718@gmail.com,PhD,Finance,2019,Full-Time,St. Louis,MO,USA
+363,Paul,Harris,paul.harris899@slu.edu,paul.harris715@outlook.com,PhD,Business Analytics,2019,Full-Time,Columbus,OH,USA
+364,Tyler,May,tyler.may864@slu.edu,tyler.may97@outlook.com,MBA,Electrical Engineering,2021,Full-Time,Irvine,CA,USA
+365,Andrew,Jenkins,andrew.jenkins517@slu.edu,andrew.jenkins347@yahoo.com,PhD,Software Engineering,2020,Full-Time,Phoenix,AZ,USA
+366,Rachael,Frey,rachael.frey814@slu.edu,rachael.frey826@outlook.com,MBA,Electrical Engineering,2021,Full-Time,Detroit,MI,USA
+367,Jonathan,Dorsey,jonathan.dorsey179@slu.edu,jonathan.dorsey351@gmail.com,BS,Cybersecurity,2017,Full-Time,Alpharetta,GA,USA
+368,Christopher,Scott,christopher.scott295@slu.edu,christopher.scott88@gmail.com,MBA,Biostatistics,2017,Full-Time,Denver,CO,USA
+369,Jacob,King,jacob.king757@slu.edu,jacob.king697@yahoo.com,BS,Cybersecurity,2018,Full-Time,Detroit,MI,USA
+370,Jeremy,Everett,jeremy.everett638@slu.edu,jeremy.everett618@gmail.com,PhD,Electrical Engineering,2023,STEM-OPT,Columbus,OH,USA
+371,Brandy,Lewis,brandy.lewis131@slu.edu,brandy.lewis935@gmail.com,BA,Software Engineering,2024,CPT,Tampa,FL,USA
+372,Sherri,Aguilar,sherri.aguilar982@slu.edu,sherri.aguilar481@yahoo.com,BA,Information Systems,2021,Full-Time,Worcester,MA,USA
+373,Stephen,Nichols,stephen.nichols345@slu.edu,stephen.nichols527@yahoo.com,MBA,Biostatistics,2023,STEM-OPT,Clayton,MO,USA
+374,Alexandra,Campbell,alexandra.campbell663@slu.edu,alexandra.campbell1@gmail.com,BS,Business Analytics,2019,Full-Time,Savannah,GA,USA
+375,Grant,Melendez,grant.melendez546@slu.edu,grant.melendez371@gmail.com,MBA,Biostatistics,2025,CPT,St. Louis,MO,USA
+376,Stephanie,Wood,stephanie.wood196@slu.edu,stephanie.wood126@gmail.com,MBA,Biostatistics,2022,STEM-OPT,Pittsburgh,PA,USA
+377,Kent,Gardner,kent.gardner644@slu.edu,kent.gardner735@outlook.com,BS,Marketing,2021,Full-Time,Buffalo,NY,USA
+378,Lisa,Robertson,lisa.robertson562@slu.edu,lisa.robertson569@gmail.com,MS,Finance,2025,CPT,Cleveland,OH,USA
+379,Kimberly,Robinson,kimberly.robinson40@slu.edu,kimberly.robinson701@yahoo.com,MBA,Business Analytics,2017,Full-Time,Columbia,MO,USA
+380,Melinda,Jimenez,melinda.jimenez469@slu.edu,melinda.jimenez223@yahoo.com,PhD,Finance,2015,Full-Time,Alpharetta,GA,USA
+381,Joseph,Daugherty,joseph.daugherty174@slu.edu,joseph.daugherty217@gmail.com,MS,Data Science,2018,Full-Time,Worcester,MA,USA
+382,Eric,Pineda,eric.pineda131@slu.edu,eric.pineda438@gmail.com,BA,Electrical Engineering,2015,Full-Time,Naperville,IL,USA
+383,Jonathan,Daniel,jonathan.daniel577@slu.edu,jonathan.daniel375@gmail.com,MBA,Electrical Engineering,2025,CPT,New York,NY,USA
+384,Jason,Stewart,jason.stewart661@slu.edu,jason.stewart207@outlook.com,PhD,Software Engineering,2020,Full-Time,Redmond,WA,USA
+385,Joshua,Eaton,joshua.eaton808@slu.edu,joshua.eaton420@gmail.com,MBA,Computer Science,2020,Full-Time,San Francisco,CA,USA
+386,Zachary,Miller,zachary.miller608@slu.edu,zachary.miller269@outlook.com,PhD,Biostatistics,2019,Full-Time,Somerville,MA,USA
+387,Christine,Alexander,christine.alexander741@slu.edu,christine.alexander282@gmail.com,MS,Biostatistics,2024,OPT,Worcester,MA,USA
+388,Jeanette,Reed,jeanette.reed451@slu.edu,jeanette.reed499@outlook.com,BS,Software Engineering,2024,CPT,Grand Rapids,MI,USA
+389,Hannah,Oneal,hannah.oneal43@slu.edu,hannah.oneal464@gmail.com,MS,Business Analytics,2025,CPT,Raleigh,NC,USA
+390,Jacqueline,Bell,jacqueline.bell939@slu.edu,jacqueline.bell587@outlook.com,BS,Data Science,2023,OPT,San Francisco,CA,USA
+391,Ariel,Benson,ariel.benson84@slu.edu,ariel.benson455@gmail.com,MS,Finance,2018,Full-Time,Grand Rapids,MI,USA
+392,Caitlin,Henry,caitlin.henry956@slu.edu,caitlin.henry119@yahoo.com,PhD,Business Analytics,2025,CPT,Worcester,MA,USA
+393,Jonathan,Richards,jonathan.richards658@slu.edu,jonathan.richards608@yahoo.com,PhD,Data Science,2024,CPT,Seattle,WA,USA
+394,Stacey,Young,stacey.young167@slu.edu,stacey.young510@yahoo.com,MBA,Cybersecurity,2023,OPT,Orlando,FL,USA
+395,Tricia,Martinez,tricia.martinez484@slu.edu,tricia.martinez612@gmail.com,BA,Biostatistics,2018,Full-Time,Tacoma,WA,USA
+396,Carlos,Davenport,carlos.davenport26@slu.edu,carlos.davenport605@gmail.com,BA,Information Systems,2025,CPT,Tucson,AZ,USA
+397,Amy,Richard,amy.richard669@slu.edu,amy.richard136@outlook.com,MS,Information Systems,2019,Full-Time,St. Louis,MO,USA
+398,Erin,Mclaughlin,erin.mclaughlin420@slu.edu,erin.mclaughlin109@yahoo.com,PhD,Marketing,2017,Full-Time,Buffalo,NY,USA
+399,Tracey,Holder,tracey.holder33@slu.edu,tracey.holder747@gmail.com,MBA,Computer Science,2015,Full-Time,Dallas,TX,USA
+400,Daniel,Rojas,daniel.rojas930@slu.edu,daniel.rojas425@outlook.com,PhD,Software Engineering,2017,Full-Time,San Antonio,TX,USA
+401,Eric,Duncan,eric.duncan801@slu.edu,eric.duncan294@yahoo.com,PhD,Computer Science,2020,Full-Time,Tempe,AZ,USA
+402,Maria,Gonzales,maria.gonzales179@slu.edu,maria.gonzales813@yahoo.com,MBA,Business Analytics,2022,STEM-OPT,Chicago,IL,USA
+403,Kimberly,Williams,kimberly.williams349@slu.edu,kimberly.williams454@outlook.com,BS,Marketing,2015,Full-Time,San Antonio,TX,USA
+404,Samantha,Wagner,samantha.wagner790@slu.edu,samantha.wagner947@outlook.com,BS,Biostatistics,2019,Full-Time,San Diego,CA,USA
+405,Melissa,Matthews,melissa.matthews703@slu.edu,melissa.matthews213@outlook.com,BS,Business Analytics,2021,Full-Time,Kansas City,MO,USA
+406,Abigail,Adams,abigail.adams176@slu.edu,abigail.adams454@gmail.com,PhD,Data Science,2023,STEM-OPT,Tucson,AZ,USA
+407,Ryan,Douglas,ryan.douglas509@slu.edu,ryan.douglas670@gmail.com,MS,Information Systems,2019,Full-Time,Tacoma,WA,USA
+408,Walter,Lyons,walter.lyons773@slu.edu,walter.lyons910@yahoo.com,MS,Data Science,2025,CPT,Jacksonville,FL,USA
+409,Steven,Rogers,steven.rogers596@slu.edu,steven.rogers101@gmail.com,BA,Electrical Engineering,2021,Full-Time,Durham,NC,USA
+410,Lacey,Leonard,lacey.leonard263@slu.edu,lacey.leonard708@yahoo.com,MS,Software Engineering,2019,Full-Time,Worcester,MA,USA
+411,Andre,Joseph,andre.joseph941@slu.edu,andre.joseph947@gmail.com,BA,Cybersecurity,2015,Full-Time,Colorado Springs,CO,USA
+412,Michael,Brown,michael.brown126@slu.edu,michael.brown736@gmail.com,BA,Marketing,2019,Full-Time,Cambridge,MA,USA
+413,Taylor,Robinson,taylor.robinson520@slu.edu,taylor.robinson131@yahoo.com,BS,Computer Science,2019,Full-Time,Albany,NY,USA
+414,Sarah,Mitchell,sarah.mitchell562@slu.edu,sarah.mitchell485@outlook.com,BS,Biostatistics,2024,CPT,Chesterfield,MO,USA
+415,Toni,Rose,toni.rose208@slu.edu,toni.rose151@outlook.com,BA,Information Systems,2024,CPT,Phoenix,AZ,USA
+416,Natalie,Black,natalie.black107@slu.edu,natalie.black8@outlook.com,MS,Information Systems,2018,Full-Time,New York,NY,USA
+417,Carla,Walton,carla.walton635@slu.edu,carla.walton436@outlook.com,BS,Data Science,2021,Full-Time,Urbana,IL,USA
+418,Ariel,Lopez,ariel.lopez539@slu.edu,ariel.lopez360@outlook.com,MS,Electrical Engineering,2023,STEM-OPT,Charlotte,NC,USA
+419,Sarah,Hernandez,sarah.hernandez321@slu.edu,sarah.hernandez81@gmail.com,MS,Marketing,2020,Full-Time,Philadelphia,PA,USA
+420,Kristin,Bailey,kristin.bailey794@slu.edu,kristin.bailey645@outlook.com,MS,Software Engineering,2024,CPT,Springfield,MO,USA
+421,Julia,Ramos,julia.ramos436@slu.edu,julia.ramos265@yahoo.com,BS,Software Engineering,2021,Full-Time,Springfield,MO,USA
+422,Anthony,Jacobs,anthony.jacobs466@slu.edu,anthony.jacobs511@yahoo.com,BA,Software Engineering,2015,Full-Time,Worcester,MA,USA
+423,Tiffany,Moore,tiffany.moore448@slu.edu,tiffany.moore429@gmail.com,BS,Electrical Engineering,2016,Full-Time,Detroit,MI,USA
+424,Renee,Johns,renee.johns74@slu.edu,renee.johns899@gmail.com,PhD,Biostatistics,2019,Full-Time,Grand Rapids,MI,USA
+425,Amanda,Martinez,amanda.martinez76@slu.edu,amanda.martinez955@yahoo.com,BS,Cybersecurity,2015,Full-Time,Columbus,OH,USA
+426,Kristine,Coleman,kristine.coleman277@slu.edu,kristine.coleman628@outlook.com,MBA,Marketing,2025,CPT,Clayton,MO,USA
+427,Daniel,Holloway,daniel.holloway604@slu.edu,daniel.holloway768@outlook.com,BA,Biostatistics,2019,Full-Time,Harrisburg,PA,USA
+428,Joshua,Brewer,joshua.brewer372@slu.edu,joshua.brewer124@gmail.com,BS,Biostatistics,2023,STEM-OPT,Cleveland,OH,USA
+429,Rebecca,Chen,rebecca.chen579@slu.edu,rebecca.chen47@outlook.com,BS,Cybersecurity,2024,OPT,Austin,TX,USA
+430,Cheyenne,Lam,cheyenne.lam596@slu.edu,cheyenne.lam235@yahoo.com,BS,Software Engineering,2020,Full-Time,Ann Arbor,MI,USA
+431,Stacy,York,stacy.york556@slu.edu,stacy.york737@outlook.com,PhD,Electrical Engineering,2016,Full-Time,Tacoma,WA,USA
+432,Chelsea,Moreno,chelsea.moreno367@slu.edu,chelsea.moreno501@outlook.com,MS,Finance,2021,Full-Time,Tacoma,WA,USA
+433,Teresa,Bradley,teresa.bradley545@slu.edu,teresa.bradley107@yahoo.com,BA,Biostatistics,2022,OPT,Phoenix,AZ,USA
+434,Nicole,Estrada,nicole.estrada766@slu.edu,nicole.estrada353@gmail.com,BS,Electrical Engineering,2017,Full-Time,Springfield,MO,USA
+435,Stephen,Martinez,stephen.martinez421@slu.edu,stephen.martinez810@gmail.com,MS,Cybersecurity,2025,CPT,Dallas,TX,USA
+436,Matthew,Jacobs,matthew.jacobs765@slu.edu,matthew.jacobs524@yahoo.com,BA,Finance,2022,STEM-OPT,Buffalo,NY,USA
+437,Joe,Bell,joe.bell155@slu.edu,joe.bell737@gmail.com,MS,Finance,2022,STEM-OPT,Cincinnati,OH,USA
+438,Todd,Fernandez,todd.fernandez373@slu.edu,todd.fernandez460@gmail.com,MBA,Biostatistics,2023,OPT,Boston,MA,USA
+439,Mary,Thompson,mary.thompson28@slu.edu,mary.thompson18@yahoo.com,MBA,Biostatistics,2023,STEM-OPT,Cleveland,OH,USA
+440,Chelsea,Wade,chelsea.wade753@slu.edu,chelsea.wade114@gmail.com,MS,Biostatistics,2024,OPT,Miami,FL,USA
+441,Courtney,Castro,courtney.castro374@slu.edu,courtney.castro837@outlook.com,MBA,Cybersecurity,2023,STEM-OPT,Boulder,CO,USA
+442,John,Evans,john.evans867@slu.edu,john.evans129@yahoo.com,PhD,Cybersecurity,2024,CPT,Colorado Springs,CO,USA
+443,Patricia,Rodgers,patricia.rodgers118@slu.edu,patricia.rodgers978@gmail.com,MBA,Electrical Engineering,2022,OPT,Harrisburg,PA,USA
+444,Jennifer,Hogan,jennifer.hogan947@slu.edu,jennifer.hogan822@yahoo.com,MS,Marketing,2020,Full-Time,Alpharetta,GA,USA
+445,Troy,Parker,troy.parker348@slu.edu,troy.parker17@gmail.com,BS,Information Systems,2017,Full-Time,Cambridge,MA,USA
+446,Aaron,Robles,aaron.robles571@slu.edu,aaron.robles920@outlook.com,MS,Software Engineering,2020,Full-Time,Cincinnati,OH,USA
+447,Kristina,Peterson,kristina.peterson433@slu.edu,kristina.peterson710@outlook.com,BA,Computer Science,2016,Full-Time,Raleigh,NC,USA
+448,Kristen,Harris,kristen.harris270@slu.edu,kristen.harris272@yahoo.com,BS,Marketing,2020,Full-Time,Tampa,FL,USA
+449,Christopher,Walker,christopher.walker815@slu.edu,christopher.walker231@outlook.com,BS,Marketing,2020,Full-Time,Springfield,IL,USA
+450,Nancy,Day,nancy.day213@slu.edu,nancy.day643@yahoo.com,BA,Finance,2020,Full-Time,Dallas,TX,USA
+451,Courtney,Evans,courtney.evans238@slu.edu,courtney.evans633@outlook.com,MBA,Finance,2015,Full-Time,Philadelphia,PA,USA
+452,Patrick,Vincent,patrick.vincent315@slu.edu,patrick.vincent714@gmail.com,PhD,Data Science,2020,Full-Time,Somerville,MA,USA
+453,Colleen,Owens,colleen.owens919@slu.edu,colleen.owens501@yahoo.com,MS,Business Analytics,2025,CPT,Savannah,GA,USA
+454,Gloria,Baker,gloria.baker382@slu.edu,gloria.baker718@outlook.com,PhD,Finance,2016,Full-Time,Boston,MA,USA
+455,Ernest,Rivera,ernest.rivera244@slu.edu,ernest.rivera300@yahoo.com,BS,Information Systems,2019,Full-Time,Pittsburgh,PA,USA
+456,Courtney,Lee,courtney.lee752@slu.edu,courtney.lee753@outlook.com,MBA,Cybersecurity,2019,Full-Time,Boulder,CO,USA
+457,Harry,Wilkinson,harry.wilkinson944@slu.edu,harry.wilkinson230@outlook.com,BS,Electrical Engineering,2023,OPT,Clayton,MO,USA
+458,Taylor,Foster,taylor.foster590@slu.edu,taylor.foster879@yahoo.com,BA,Software Engineering,2021,Full-Time,Harrisburg,PA,USA
+459,Diana,Mercado,diana.mercado418@slu.edu,diana.mercado209@yahoo.com,MS,Marketing,2022,OPT,Harrisburg,PA,USA
+460,Kristen,Waters,kristen.waters681@slu.edu,kristen.waters532@outlook.com,MBA,Software Engineering,2021,Full-Time,Kansas City,MO,USA
+461,Timothy,Morrison,timothy.morrison843@slu.edu,timothy.morrison128@gmail.com,BS,Computer Science,2024,OPT,Columbus,OH,USA
+462,Kelsey,Davila,kelsey.davila993@slu.edu,kelsey.davila632@yahoo.com,MS,Information Systems,2021,Full-Time,White Plains,NY,USA
+463,James,Richards,james.richards776@slu.edu,james.richards800@outlook.com,PhD,Business Analytics,2019,Full-Time,Savannah,GA,USA
+464,Thomas,Williams,thomas.williams735@slu.edu,thomas.williams690@outlook.com,PhD,Computer Science,2025,CPT,Alpharetta,GA,USA
+465,Sherri,Woods,sherri.woods222@slu.edu,sherri.woods428@yahoo.com,BS,Business Analytics,2025,CPT,Naperville,IL,USA
+466,Raymond,Newman,raymond.newman799@slu.edu,raymond.newman539@gmail.com,BA,Computer Science,2018,Full-Time,Raleigh,NC,USA
+467,Heather,Jones,heather.jones778@slu.edu,heather.jones580@gmail.com,BA,Computer Science,2023,STEM-OPT,Springfield,MO,USA
+468,Matthew,Williams,matthew.williams960@slu.edu,matthew.williams343@yahoo.com,BA,Finance,2017,Full-Time,White Plains,NY,USA
+469,Joel,Green,joel.green42@slu.edu,joel.green828@gmail.com,BA,Business Analytics,2018,Full-Time,Tucson,AZ,USA
+470,Monica,Blankenship,monica.blankenship214@slu.edu,monica.blankenship474@yahoo.com,MBA,Data Science,2017,Full-Time,Atlanta,GA,USA
+471,Frank,Hayes,frank.hayes654@slu.edu,frank.hayes3@yahoo.com,BA,Biostatistics,2023,OPT,Philadelphia,PA,USA
+472,Yvette,Clements,yvette.clements876@slu.edu,yvette.clements286@outlook.com,PhD,Information Systems,2015,Full-Time,Urbana,IL,USA
+473,Danny,Lopez,danny.lopez865@slu.edu,danny.lopez2@gmail.com,MBA,Software Engineering,2023,OPT,Charlotte,NC,USA
+474,Sarah,Kelly,sarah.kelly927@slu.edu,sarah.kelly421@outlook.com,BA,Marketing,2025,CPT,Durham,NC,USA
+475,Dawn,Smith,dawn.smith196@slu.edu,dawn.smith871@gmail.com,PhD,Data Science,2023,STEM-OPT,Urbana,IL,USA
+476,Aaron,Marks,aaron.marks557@slu.edu,aaron.marks445@outlook.com,BA,Data Science,2020,Full-Time,St. Louis,MO,USA
+477,Tiffany,Bryant,tiffany.bryant442@slu.edu,tiffany.bryant359@gmail.com,MS,Software Engineering,2022,OPT,Harrisburg,PA,USA
+478,Sean,Fernandez,sean.fernandez338@slu.edu,sean.fernandez641@outlook.com,BA,Business Analytics,2016,Full-Time,Colorado Springs,CO,USA
+479,Kerry,Andrews,kerry.andrews153@slu.edu,kerry.andrews841@outlook.com,MS,Biostatistics,2017,Full-Time,Atlanta,GA,USA
+480,Thomas,Russell,thomas.russell717@slu.edu,thomas.russell816@gmail.com,BS,Electrical Engineering,2023,STEM-OPT,Phoenix,AZ,USA
+481,William,Franco,william.franco519@slu.edu,william.franco320@yahoo.com,PhD,Cybersecurity,2020,Full-Time,Cincinnati,OH,USA
+482,Marie,Higgins,marie.higgins255@slu.edu,marie.higgins804@yahoo.com,BS,Finance,2018,Full-Time,Tacoma,WA,USA
+483,Luis,Rivera,luis.rivera441@slu.edu,luis.rivera307@yahoo.com,MS,Biostatistics,2017,Full-Time,Cambridge,MA,USA
+484,Sara,Williamson,sara.williamson660@slu.edu,sara.williamson194@yahoo.com,BA,Information Systems,2019,Full-Time,Denver,CO,USA
+485,Kayla,Gordon,kayla.gordon67@slu.edu,kayla.gordon702@gmail.com,BS,Computer Science,2019,Full-Time,Rochester,NY,USA
+486,Tina,Eaton,tina.eaton53@slu.edu,tina.eaton512@outlook.com,PhD,Data Science,2024,CPT,Chesterfield,MO,USA
+487,Kimberly,Hogan,kimberly.hogan973@slu.edu,kimberly.hogan3@yahoo.com,MBA,Business Analytics,2023,OPT,San Francisco,CA,USA
+488,Mary,Mccarthy,mary.mccarthy225@slu.edu,mary.mccarthy851@outlook.com,BA,Software Engineering,2022,OPT,Cleveland,OH,USA
+489,Jessica,Smith,jessica.smith810@slu.edu,jessica.smith496@gmail.com,MBA,Biostatistics,2017,Full-Time,Ann Arbor,MI,USA
+490,Robert,Anderson,robert.anderson122@slu.edu,robert.anderson546@gmail.com,PhD,Electrical Engineering,2022,STEM-OPT,Springfield,IL,USA
+491,Scott,Thomas,scott.thomas112@slu.edu,scott.thomas933@outlook.com,PhD,Finance,2020,Full-Time,Kansas City,MO,USA
+492,Roberta,Osborne,roberta.osborne259@slu.edu,roberta.osborne78@yahoo.com,PhD,Software Engineering,2023,OPT,Clayton,MO,USA
+493,Jasmine,Hardy,jasmine.hardy356@slu.edu,jasmine.hardy744@outlook.com,MBA,Marketing,2019,Full-Time,Plano,TX,USA
+494,John,Sanders,john.sanders880@slu.edu,john.sanders549@yahoo.com,BS,Software Engineering,2017,Full-Time,Philadelphia,PA,USA
+495,Courtney,Key,courtney.key658@slu.edu,courtney.key413@gmail.com,BS,Business Analytics,2025,CPT,Columbus,OH,USA
+496,David,Wilson,david.wilson529@slu.edu,david.wilson751@outlook.com,MBA,Cybersecurity,2019,Full-Time,Orlando,FL,USA
+497,Angela,George,angela.george14@slu.edu,angela.george576@outlook.com,MBA,Information Systems,2024,CPT,Seattle,WA,USA
+498,Christopher,Russell,christopher.russell400@slu.edu,christopher.russell855@yahoo.com,MBA,Marketing,2021,Full-Time,Clayton,MO,USA
+499,James,Weiss,james.weiss543@slu.edu,james.weiss753@gmail.com,BS,Software Engineering,2016,Full-Time,Austin,TX,USA
+500,Jason,Dixon,jason.dixon430@slu.edu,jason.dixon970@gmail.com,MS,Computer Science,2021,Full-Time,Clayton,MO,USA
+501,Julie,Fernandez,julie.fernandez201@slu.edu,julie.fernandez645@gmail.com,MS,Finance,2024,OPT,San Antonio,TX,USA
+502,David,Hill,david.hill686@slu.edu,david.hill744@yahoo.com,PhD,Data Science,2024,OPT,Redmond,WA,USA
+503,Isabella,Neal,isabella.neal701@slu.edu,isabella.neal823@gmail.com,BS,Electrical Engineering,2023,OPT,Urbana,IL,USA
+504,Tara,Ballard,tara.ballard433@slu.edu,tara.ballard104@outlook.com,BA,Biostatistics,2015,Full-Time,Tempe,AZ,USA
+505,Lauren,Garcia,lauren.garcia810@slu.edu,lauren.garcia649@outlook.com,PhD,Software Engineering,2025,CPT,Jacksonville,FL,USA
+506,Rebecca,Gray,rebecca.gray983@slu.edu,rebecca.gray954@gmail.com,BA,Finance,2018,Full-Time,Albany,NY,USA
+507,Scott,Hicks,scott.hicks325@slu.edu,scott.hicks712@gmail.com,MS,Biostatistics,2021,Full-Time,Buffalo,NY,USA
+508,Dawn,Zamora,dawn.zamora665@slu.edu,dawn.zamora474@outlook.com,MBA,Marketing,2015,Full-Time,Kansas City,MO,USA
+509,Bryan,Marshall,bryan.marshall45@slu.edu,bryan.marshall555@yahoo.com,BA,Data Science,2023,STEM-OPT,Tempe,AZ,USA
+510,Kayla,Leon,kayla.leon953@slu.edu,kayla.leon584@yahoo.com,MS,Information Systems,2016,Full-Time,Springfield,MO,USA
+511,Anthony,Watkins,anthony.watkins522@slu.edu,anthony.watkins886@yahoo.com,PhD,Business Analytics,2019,Full-Time,Philadelphia,PA,USA
+512,Dale,Davis,dale.davis460@slu.edu,dale.davis678@yahoo.com,MS,Software Engineering,2021,Full-Time,Worcester,MA,USA
+513,Erin,Cole,erin.cole193@slu.edu,erin.cole542@outlook.com,BS,Data Science,2021,Full-Time,Albany,NY,USA
+514,Michael,Beasley,michael.beasley15@slu.edu,michael.beasley59@outlook.com,BS,Business Analytics,2020,Full-Time,Scottsdale,AZ,USA
+515,John,Porter,john.porter865@slu.edu,john.porter385@yahoo.com,MS,Cybersecurity,2020,Full-Time,Grand Rapids,MI,USA
+516,Michelle,Vincent,michelle.vincent769@slu.edu,michelle.vincent103@gmail.com,MBA,Software Engineering,2015,Full-Time,Springfield,IL,USA
+517,Michael,Bailey,michael.bailey262@slu.edu,michael.bailey232@outlook.com,MBA,Marketing,2023,STEM-OPT,Tampa,FL,USA
+518,Pamela,Mitchell,pamela.mitchell678@slu.edu,pamela.mitchell518@gmail.com,BA,Business Analytics,2025,CPT,Cary,NC,USA
+519,Susan,Andrade,susan.andrade924@slu.edu,susan.andrade96@outlook.com,PhD,Computer Science,2019,Full-Time,Columbia,MO,USA
+520,Michael,Campbell,michael.campbell8@slu.edu,michael.campbell773@outlook.com,MS,Biostatistics,2020,Full-Time,Atlanta,GA,USA
+521,Anna,Dunn,anna.dunn161@slu.edu,anna.dunn370@gmail.com,BS,Business Analytics,2025,CPT,Peoria,IL,USA
+522,Amanda,Herrera,amanda.herrera548@slu.edu,amanda.herrera502@outlook.com,MBA,Business Analytics,2025,CPT,Somerville,MA,USA
+523,Kimberly,Brooks,kimberly.brooks531@slu.edu,kimberly.brooks894@yahoo.com,BA,Marketing,2017,Full-Time,Atlanta,GA,USA
+524,Julian,Evans,julian.evans494@slu.edu,julian.evans190@gmail.com,MBA,Data Science,2015,Full-Time,Columbus,OH,USA
+525,Teresa,Davis,teresa.davis659@slu.edu,teresa.davis193@outlook.com,BS,Electrical Engineering,2018,Full-Time,Phoenix,AZ,USA
+526,Francisco,Jones,francisco.jones873@slu.edu,francisco.jones642@outlook.com,BA,Marketing,2024,OPT,St. Louis,MO,USA
+527,Andrew,Williams,andrew.williams35@slu.edu,andrew.williams985@outlook.com,MBA,Data Science,2016,Full-Time,Redmond,WA,USA
+528,Brian,Summers,brian.summers960@slu.edu,brian.summers334@gmail.com,MBA,Information Systems,2017,Full-Time,Seattle,WA,USA
+529,Jasmine,Holland,jasmine.holland397@slu.edu,jasmine.holland489@gmail.com,PhD,Data Science,2023,STEM-OPT,Charlotte,NC,USA
+530,Samuel,Wilson,samuel.wilson757@slu.edu,samuel.wilson818@outlook.com,MS,Information Systems,2022,OPT,White Plains,NY,USA
+531,Tiffany,Blackburn,tiffany.blackburn814@slu.edu,tiffany.blackburn177@gmail.com,BA,Electrical Engineering,2025,CPT,Philadelphia,PA,USA
+532,Gilbert,Rodriguez,gilbert.rodriguez337@slu.edu,gilbert.rodriguez328@outlook.com,PhD,Finance,2023,STEM-OPT,San Diego,CA,USA
+533,Felicia,Thompson,felicia.thompson597@slu.edu,felicia.thompson147@gmail.com,BS,Information Systems,2023,STEM-OPT,Chesterfield,MO,USA
+534,Thomas,Smith,thomas.smith384@slu.edu,thomas.smith19@outlook.com,PhD,Information Systems,2025,CPT,Rochester,NY,USA
+535,Nathaniel,Morgan,nathaniel.morgan871@slu.edu,nathaniel.morgan953@gmail.com,PhD,Finance,2025,CPT,Savannah,GA,USA
+536,Jeremy,Young,jeremy.young819@slu.edu,jeremy.young342@outlook.com,MS,Information Systems,2019,Full-Time,Ann Arbor,MI,USA
+537,Melissa,Stout,melissa.stout717@slu.edu,melissa.stout405@outlook.com,MBA,Cybersecurity,2018,Full-Time,Seattle,WA,USA
+538,Anthony,Roberts,anthony.roberts280@slu.edu,anthony.roberts233@gmail.com,BA,Cybersecurity,2015,Full-Time,Redmond,WA,USA
+539,Joseph,Elliott,joseph.elliott487@slu.edu,joseph.elliott295@outlook.com,MBA,Computer Science,2022,OPT,Los Angeles,CA,USA
+540,Jennifer,Crawford,jennifer.crawford616@slu.edu,jennifer.crawford873@gmail.com,PhD,Data Science,2020,Full-Time,New York,NY,USA
+541,Mary,Cooper,mary.cooper983@slu.edu,mary.cooper696@outlook.com,MBA,Biostatistics,2023,STEM-OPT,Worcester,MA,USA
+542,Stephen,Kelley,stephen.kelley812@slu.edu,stephen.kelley593@yahoo.com,MBA,Information Systems,2016,Full-Time,San Diego,CA,USA
+543,Jennifer,Jackson,jennifer.jackson523@slu.edu,jennifer.jackson817@gmail.com,MBA,Electrical Engineering,2017,Full-Time,Somerville,MA,USA
+544,Corey,Beard,corey.beard665@slu.edu,corey.beard813@yahoo.com,MS,Business Analytics,2022,OPT,Savannah,GA,USA
+545,Amanda,Parker,amanda.parker3@slu.edu,amanda.parker616@yahoo.com,BS,Cybersecurity,2018,Full-Time,Alpharetta,GA,USA
+546,Daniel,Smith,daniel.smith697@slu.edu,daniel.smith563@gmail.com,PhD,Business Analytics,2020,Full-Time,Columbus,OH,USA
+547,Katherine,Vasquez,katherine.vasquez725@slu.edu,katherine.vasquez933@gmail.com,PhD,Business Analytics,2015,Full-Time,Tempe,AZ,USA
+548,Michael,Cameron,michael.cameron505@slu.edu,michael.cameron116@gmail.com,BS,Computer Science,2025,CPT,Seattle,WA,USA
+549,Devin,Richardson,devin.richardson57@slu.edu,devin.richardson549@yahoo.com,BS,Biostatistics,2015,Full-Time,Irvine,CA,USA
+550,Dawn,Olsen,dawn.olsen785@slu.edu,dawn.olsen443@yahoo.com,BA,Data Science,2021,Full-Time,Phoenix,AZ,USA
+551,Judith,Nguyen,judith.nguyen881@slu.edu,judith.nguyen523@outlook.com,PhD,Electrical Engineering,2015,Full-Time,San Diego,CA,USA
+552,Gregory,Duarte,gregory.duarte809@slu.edu,gregory.duarte499@yahoo.com,BS,Electrical Engineering,2021,Full-Time,Orlando,FL,USA
+553,Jack,Morgan,jack.morgan581@slu.edu,jack.morgan705@gmail.com,PhD,Marketing,2025,CPT,Orlando,FL,USA
+554,Joseph,Ortega,joseph.ortega979@slu.edu,joseph.ortega678@yahoo.com,BS,Computer Science,2020,Full-Time,Alpharetta,GA,USA
+555,Maurice,Moreno,maurice.moreno561@slu.edu,maurice.moreno953@gmail.com,PhD,Business Analytics,2015,Full-Time,Seattle,WA,USA
+556,Angela,Shepherd,angela.shepherd38@slu.edu,angela.shepherd319@gmail.com,BS,Computer Science,2022,OPT,San Francisco,CA,USA
+557,Adrian,Barr,adrian.barr537@slu.edu,adrian.barr38@gmail.com,BS,Data Science,2021,Full-Time,Redmond,WA,USA
+558,John,Nelson,john.nelson45@slu.edu,john.nelson721@gmail.com,BS,Information Systems,2017,Full-Time,San Antonio,TX,USA
+559,Ryan,Shelton,ryan.shelton967@slu.edu,ryan.shelton178@outlook.com,BS,Biostatistics,2020,Full-Time,Grand Rapids,MI,USA
+560,Thomas,James,thomas.james276@slu.edu,thomas.james836@yahoo.com,MS,Computer Science,2024,OPT,Boulder,CO,USA
+561,Alexandria,Williams,alexandria.williams579@slu.edu,alexandria.williams849@gmail.com,BA,Finance,2022,STEM-OPT,Detroit,MI,USA
+562,Matthew,Johnson,matthew.johnson323@slu.edu,matthew.johnson848@gmail.com,BA,Biostatistics,2016,Full-Time,Bellevue,WA,USA
+563,John,Marshall,john.marshall730@slu.edu,john.marshall687@yahoo.com,BA,Biostatistics,2021,Full-Time,Colorado Springs,CO,USA
+564,Christina,Dickson,christina.dickson341@slu.edu,christina.dickson368@outlook.com,BS,Electrical Engineering,2020,Full-Time,Raleigh,NC,USA
+565,Jessica,Curry,jessica.curry298@slu.edu,jessica.curry533@yahoo.com,MS,Information Systems,2021,Full-Time,Albany,NY,USA
+566,Bianca,Daniels,bianca.daniels77@slu.edu,bianca.daniels333@outlook.com,BA,Biostatistics,2016,Full-Time,Cambridge,MA,USA
+567,Melody,Ali,melody.ali940@slu.edu,melody.ali320@yahoo.com,BS,Data Science,2017,Full-Time,San Francisco,CA,USA
+568,Hunter,Ashley,hunter.ashley13@slu.edu,hunter.ashley904@yahoo.com,MBA,Software Engineering,2025,CPT,Clayton,MO,USA
+569,Leah,Dunn,leah.dunn357@slu.edu,leah.dunn330@yahoo.com,BS,Information Systems,2015,Full-Time,Cambridge,MA,USA
+570,William,Miller,william.miller16@slu.edu,william.miller329@yahoo.com,MBA,Software Engineering,2017,Full-Time,Columbus,OH,USA
+571,James,Smith,james.smith325@slu.edu,james.smith604@yahoo.com,MS,Business Analytics,2024,OPT,Buffalo,NY,USA
+572,Caroline,Salazar,caroline.salazar837@slu.edu,caroline.salazar23@outlook.com,BS,Computer Science,2018,Full-Time,Philadelphia,PA,USA
+573,Steven,Thompson,steven.thompson86@slu.edu,steven.thompson32@outlook.com,MS,Cybersecurity,2022,STEM-OPT,Grand Rapids,MI,USA
+574,Jenny,Pugh,jenny.pugh656@slu.edu,jenny.pugh681@outlook.com,PhD,Marketing,2021,Full-Time,Columbus,OH,USA
+575,Jessica,Rios,jessica.rios942@slu.edu,jessica.rios354@gmail.com,MBA,Biostatistics,2020,Full-Time,Cincinnati,OH,USA
+576,Lisa,Ruiz,lisa.ruiz944@slu.edu,lisa.ruiz652@gmail.com,PhD,Software Engineering,2017,Full-Time,Phoenix,AZ,USA
+577,Todd,Acosta,todd.acosta93@slu.edu,todd.acosta842@outlook.com,BS,Biostatistics,2021,Full-Time,Bellevue,WA,USA
+578,Lisa,Jones,lisa.jones108@slu.edu,lisa.jones786@gmail.com,PhD,Electrical Engineering,2016,Full-Time,Houston,TX,USA
+579,Michael,Anderson,michael.anderson440@slu.edu,michael.anderson507@yahoo.com,BS,Marketing,2021,Full-Time,Austin,TX,USA
+580,Alexander,Arnold,alexander.arnold336@slu.edu,alexander.arnold510@gmail.com,BA,Information Systems,2020,Full-Time,Boston,MA,USA
+581,Jason,Lee,jason.lee149@slu.edu,jason.lee203@gmail.com,BS,Marketing,2023,STEM-OPT,Cincinnati,OH,USA
+582,Samuel,Mcdonald,samuel.mcdonald272@slu.edu,samuel.mcdonald622@outlook.com,BA,Biostatistics,2023,OPT,Columbus,OH,USA
+583,Alyssa,Walker,alyssa.walker814@slu.edu,alyssa.walker564@yahoo.com,BS,Information Systems,2023,STEM-OPT,Redmond,WA,USA
+584,Ian,Bell,ian.bell939@slu.edu,ian.bell236@outlook.com,MBA,Information Systems,2019,Full-Time,Tampa,FL,USA
+585,Donna,Fisher,donna.fisher287@slu.edu,donna.fisher251@gmail.com,MS,Data Science,2025,CPT,Tempe,AZ,USA
+586,Sheri,Reed,sheri.reed606@slu.edu,sheri.reed759@yahoo.com,MS,Finance,2016,Full-Time,Colorado Springs,CO,USA
+587,Courtney,Hill,courtney.hill561@slu.edu,courtney.hill994@outlook.com,PhD,Marketing,2020,Full-Time,Detroit,MI,USA
+588,James,Mendez,james.mendez490@slu.edu,james.mendez881@gmail.com,MBA,Data Science,2016,Full-Time,Durham,NC,USA
+589,Tara,Carter,tara.carter775@slu.edu,tara.carter564@yahoo.com,BS,Software Engineering,2024,OPT,Raleigh,NC,USA
+590,Chad,Cole,chad.cole806@slu.edu,chad.cole492@yahoo.com,MBA,Biostatistics,2025,CPT,Charlotte,NC,USA
+591,Michele,Carpenter,michele.carpenter664@slu.edu,michele.carpenter329@outlook.com,BA,Marketing,2017,Full-Time,Springfield,IL,USA
+592,Keith,King,keith.king525@slu.edu,keith.king413@outlook.com,MBA,Business Analytics,2016,Full-Time,Orlando,FL,USA
+593,Sherri,Knight,sherri.knight435@slu.edu,sherri.knight454@outlook.com,PhD,Marketing,2021,Full-Time,Alpharetta,GA,USA
+594,Keith,Koch,keith.koch619@slu.edu,keith.koch697@outlook.com,MBA,Information Systems,2023,OPT,Charlotte,NC,USA
+595,Peter,Noble,peter.noble77@slu.edu,peter.noble297@gmail.com,MBA,Information Systems,2022,OPT,Boulder,CO,USA
+596,Jennifer,Brown,jennifer.brown202@slu.edu,jennifer.brown695@outlook.com,MBA,Biostatistics,2024,OPT,Houston,TX,USA
+597,Alejandro,Collins,alejandro.collins419@slu.edu,alejandro.collins987@yahoo.com,PhD,Data Science,2016,Full-Time,San Francisco,CA,USA
+598,Mike,Schmidt,mike.schmidt561@slu.edu,mike.schmidt341@yahoo.com,BS,Computer Science,2024,OPT,Clayton,MO,USA
+599,Jonathan,Brown,jonathan.brown898@slu.edu,jonathan.brown778@outlook.com,BA,Business Analytics,2024,OPT,San Antonio,TX,USA
+600,Steven,Cruz,steven.cruz156@slu.edu,steven.cruz737@gmail.com,MBA,Marketing,2017,Full-Time,Boulder,CO,USA
+601,Darlene,Martin,darlene.martin274@slu.edu,darlene.martin146@yahoo.com,BS,Electrical Engineering,2024,OPT,Durham,NC,USA
+602,Natalie,Howard,natalie.howard139@slu.edu,natalie.howard114@yahoo.com,BA,Business Analytics,2018,Full-Time,St. Louis,MO,USA
+603,Brandon,Hernandez,brandon.hernandez34@slu.edu,brandon.hernandez524@yahoo.com,BS,Finance,2015,Full-Time,San Diego,CA,USA
+604,Angela,Villanueva,angela.villanueva525@slu.edu,angela.villanueva981@yahoo.com,PhD,Business Analytics,2016,Full-Time,Ann Arbor,MI,USA
+605,Isaac,Moran,isaac.moran214@slu.edu,isaac.moran988@yahoo.com,BS,Data Science,2019,Full-Time,Fort Collins,CO,USA
+606,Jeremy,Chen,jeremy.chen230@slu.edu,jeremy.chen644@yahoo.com,BA,Software Engineering,2018,Full-Time,Detroit,MI,USA
+607,Rhonda,Davis,rhonda.davis372@slu.edu,rhonda.davis330@gmail.com,PhD,Finance,2025,CPT,Cambridge,MA,USA
+608,Michael,Avila,michael.avila953@slu.edu,michael.avila671@gmail.com,BS,Cybersecurity,2017,Full-Time,St. Louis,MO,USA
+609,Kelly,Thomas,kelly.thomas561@slu.edu,kelly.thomas61@gmail.com,MS,Cybersecurity,2024,OPT,Clayton,MO,USA
+610,Colleen,White,colleen.white622@slu.edu,colleen.white11@gmail.com,MBA,Marketing,2021,Full-Time,Irvine,CA,USA
+611,Nicholas,Clark,nicholas.clark829@slu.edu,nicholas.clark256@yahoo.com,BA,Finance,2016,Full-Time,Jacksonville,FL,USA
+612,Cassandra,Woodward,cassandra.woodward511@slu.edu,cassandra.woodward465@yahoo.com,BS,Computer Science,2019,Full-Time,Alpharetta,GA,USA
+613,James,Herman,james.herman460@slu.edu,james.herman279@gmail.com,MS,Cybersecurity,2025,CPT,New York,NY,USA
+614,Max,Sherman,max.sherman642@slu.edu,max.sherman736@yahoo.com,BA,Biostatistics,2025,CPT,Irvine,CA,USA
+615,Amber,Calderon,amber.calderon35@slu.edu,amber.calderon138@gmail.com,BS,Business Analytics,2022,STEM-OPT,Albany,NY,USA
+616,Brandy,Morales,brandy.morales68@slu.edu,brandy.morales363@yahoo.com,PhD,Business Analytics,2021,Full-Time,Worcester,MA,USA
+617,Bobby,Duncan,bobby.duncan908@slu.edu,bobby.duncan159@outlook.com,MBA,Electrical Engineering,2022,OPT,Harrisburg,PA,USA
+618,Mary,Rodriguez,mary.rodriguez239@slu.edu,mary.rodriguez185@outlook.com,PhD,Computer Science,2018,Full-Time,Jacksonville,FL,USA
+619,Jack,Coleman,jack.coleman917@slu.edu,jack.coleman5@gmail.com,PhD,Information Systems,2023,OPT,Cambridge,MA,USA
+620,Wesley,Ramirez,wesley.ramirez829@slu.edu,wesley.ramirez546@outlook.com,MBA,Marketing,2021,Full-Time,Seattle,WA,USA
+621,Donna,Evans,donna.evans994@slu.edu,donna.evans302@yahoo.com,BA,Data Science,2015,Full-Time,Somerville,MA,USA
+622,Lori,Conley,lori.conley708@slu.edu,lori.conley287@yahoo.com,MBA,Information Systems,2020,Full-Time,Orlando,FL,USA
+623,Ashley,Burgess,ashley.burgess553@slu.edu,ashley.burgess534@gmail.com,BA,Software Engineering,2019,Full-Time,Los Angeles,CA,USA
+624,Sandra,Shaw,sandra.shaw472@slu.edu,sandra.shaw140@yahoo.com,BS,Marketing,2023,STEM-OPT,Miami,FL,USA
+625,James,Watson,james.watson948@slu.edu,james.watson346@outlook.com,MS,Data Science,2016,Full-Time,Los Angeles,CA,USA
+626,Hannah,Frost,hannah.frost985@slu.edu,hannah.frost836@yahoo.com,BA,Marketing,2020,Full-Time,Tucson,AZ,USA
+627,Margaret,Garrett,margaret.garrett697@slu.edu,margaret.garrett135@gmail.com,BA,Electrical Engineering,2018,Full-Time,Atlanta,GA,USA
+628,Richard,Knight,richard.knight866@slu.edu,richard.knight649@outlook.com,BA,Marketing,2020,Full-Time,Springfield,MO,USA
+629,Adam,Adams,adam.adams138@slu.edu,adam.adams965@yahoo.com,MS,Biostatistics,2017,Full-Time,Cleveland,OH,USA
+630,Robert,Wilcox,robert.wilcox746@slu.edu,robert.wilcox880@yahoo.com,MBA,Data Science,2022,OPT,Philadelphia,PA,USA
+631,Edward,Kirk,edward.kirk455@slu.edu,edward.kirk912@gmail.com,BA,Data Science,2023,OPT,Savannah,GA,USA
+632,Ashley,Mendoza,ashley.mendoza676@slu.edu,ashley.mendoza427@outlook.com,BS,Biostatistics,2015,Full-Time,Durham,NC,USA
+633,David,Gomez,david.gomez127@slu.edu,david.gomez868@yahoo.com,MS,Business Analytics,2022,OPT,Naperville,IL,USA
+634,Alexandra,Anthony,alexandra.anthony776@slu.edu,alexandra.anthony307@yahoo.com,MS,Data Science,2016,Full-Time,St. Louis,MO,USA
+635,Tiffany,Garcia,tiffany.garcia469@slu.edu,tiffany.garcia724@outlook.com,MBA,Marketing,2019,Full-Time,Jacksonville,FL,USA
+636,Shawn,Myers,shawn.myers365@slu.edu,shawn.myers583@yahoo.com,MBA,Data Science,2017,Full-Time,Harrisburg,PA,USA
+637,Michael,Peterson,michael.peterson963@slu.edu,michael.peterson727@yahoo.com,BA,Biostatistics,2025,CPT,Seattle,WA,USA
+638,Nicole,Ruiz,nicole.ruiz407@slu.edu,nicole.ruiz32@yahoo.com,MS,Data Science,2015,Full-Time,Houston,TX,USA
+639,Darrell,Singh,darrell.singh607@slu.edu,darrell.singh617@outlook.com,BA,Biostatistics,2019,Full-Time,Atlanta,GA,USA
+640,Anthony,Ramirez,anthony.ramirez936@slu.edu,anthony.ramirez418@outlook.com,PhD,Electrical Engineering,2024,OPT,Clayton,MO,USA
+641,Dawn,Dyer,dawn.dyer70@slu.edu,dawn.dyer421@gmail.com,MBA,Cybersecurity,2022,STEM-OPT,Harrisburg,PA,USA
+642,Kenneth,Wong,kenneth.wong3@slu.edu,kenneth.wong601@yahoo.com,BS,Finance,2017,Full-Time,Tucson,AZ,USA
+643,Rachael,Miller,rachael.miller428@slu.edu,rachael.miller589@outlook.com,BA,Biostatistics,2021,Full-Time,Cary,NC,USA
+644,William,Benson,william.benson75@slu.edu,william.benson891@outlook.com,BA,Biostatistics,2024,CPT,Tucson,AZ,USA
+645,William,Smith,william.smith99@slu.edu,william.smith598@gmail.com,MS,Information Systems,2025,CPT,Irvine,CA,USA
+646,Frederick,Adkins,frederick.adkins79@slu.edu,frederick.adkins575@gmail.com,BA,Information Systems,2018,Full-Time,Harrisburg,PA,USA
+647,Jessica,George,jessica.george593@slu.edu,jessica.george391@outlook.com,MBA,Finance,2018,Full-Time,San Francisco,CA,USA
+648,Shelley,Williams,shelley.williams995@slu.edu,shelley.williams905@outlook.com,MS,Electrical Engineering,2025,CPT,Somerville,MA,USA
+649,Andrew,Wallace,andrew.wallace120@slu.edu,andrew.wallace860@yahoo.com,MS,Marketing,2025,CPT,Irvine,CA,USA
+650,Charles,Jenkins,charles.jenkins412@slu.edu,charles.jenkins193@outlook.com,BS,Electrical Engineering,2025,CPT,Raleigh,NC,USA
+651,Brian,Parker,brian.parker848@slu.edu,brian.parker863@outlook.com,BS,Electrical Engineering,2022,STEM-OPT,Urbana,IL,USA
+652,Michele,Donovan,michele.donovan280@slu.edu,michele.donovan733@yahoo.com,MS,Computer Science,2016,Full-Time,Naperville,IL,USA
+653,Michelle,Brock,michelle.brock432@slu.edu,michelle.brock401@yahoo.com,BS,Data Science,2022,STEM-OPT,Clayton,MO,USA
+654,Andrea,Dorsey,andrea.dorsey738@slu.edu,andrea.dorsey463@outlook.com,PhD,Information Systems,2015,Full-Time,Atlanta,GA,USA
+655,Michael,Johnson,michael.johnson84@slu.edu,michael.johnson478@outlook.com,MBA,Business Analytics,2019,Full-Time,Phoenix,AZ,USA
+656,Robert,Payne,robert.payne267@slu.edu,robert.payne798@gmail.com,PhD,Data Science,2023,OPT,Houston,TX,USA
+657,Nancy,Gonzalez,nancy.gonzalez267@slu.edu,nancy.gonzalez405@gmail.com,PhD,Business Analytics,2020,Full-Time,San Diego,CA,USA
+658,Thomas,Keith,thomas.keith666@slu.edu,thomas.keith452@gmail.com,MBA,Software Engineering,2016,Full-Time,Austin,TX,USA
+659,Jeremiah,Kirby,jeremiah.kirby732@slu.edu,jeremiah.kirby25@outlook.com,MS,Cybersecurity,2022,OPT,Alpharetta,GA,USA
+660,Donald,Bass,donald.bass371@slu.edu,donald.bass93@gmail.com,BS,Business Analytics,2023,OPT,Tacoma,WA,USA
+661,Julia,Kim,julia.kim370@slu.edu,julia.kim463@outlook.com,BS,Information Systems,2024,CPT,Atlanta,GA,USA
+662,Kevin,Davis,kevin.davis504@slu.edu,kevin.davis375@outlook.com,MS,Business Analytics,2022,STEM-OPT,Harrisburg,PA,USA
+663,Michael,Johnson,michael.johnson213@slu.edu,michael.johnson673@outlook.com,MS,Software Engineering,2024,CPT,Ann Arbor,MI,USA
+664,Julie,Hernandez,julie.hernandez665@slu.edu,julie.hernandez494@gmail.com,MBA,Cybersecurity,2023,STEM-OPT,Austin,TX,USA
+665,Michael,Martin,michael.martin400@slu.edu,michael.martin661@outlook.com,MBA,Cybersecurity,2018,Full-Time,Durham,NC,USA
+666,Mark,Ray,mark.ray942@slu.edu,mark.ray196@yahoo.com,MBA,Information Systems,2019,Full-Time,Columbus,OH,USA
+667,Jessica,Leach,jessica.leach965@slu.edu,jessica.leach55@outlook.com,BA,Information Systems,2022,OPT,Bellevue,WA,USA
+668,Gary,Cortez,gary.cortez355@slu.edu,gary.cortez831@yahoo.com,BA,Finance,2025,CPT,San Francisco,CA,USA
+669,Patricia,Phillips,patricia.phillips882@slu.edu,patricia.phillips239@yahoo.com,MS,Marketing,2019,Full-Time,Colorado Springs,CO,USA
+670,Nicole,Smith,nicole.smith404@slu.edu,nicole.smith73@gmail.com,PhD,Electrical Engineering,2018,Full-Time,Grand Rapids,MI,USA
+671,Diana,Koch,diana.koch501@slu.edu,diana.koch268@outlook.com,BS,Marketing,2018,Full-Time,Springfield,IL,USA
+672,Gary,Caldwell,gary.caldwell403@slu.edu,gary.caldwell989@gmail.com,MS,Electrical Engineering,2016,Full-Time,Springfield,MO,USA
+673,Edward,Sanders,edward.sanders331@slu.edu,edward.sanders438@yahoo.com,MBA,Business Analytics,2018,Full-Time,Tempe,AZ,USA
+674,John,Wallace,john.wallace315@slu.edu,john.wallace180@gmail.com,BS,Data Science,2015,Full-Time,Dallas,TX,USA
+675,Charles,Smith,charles.smith264@slu.edu,charles.smith965@outlook.com,BA,Computer Science,2024,OPT,Redmond,WA,USA
+676,Thomas,Scott,thomas.scott518@slu.edu,thomas.scott110@yahoo.com,MBA,Finance,2025,CPT,Philadelphia,PA,USA
+677,Alex,Morris,alex.morris253@slu.edu,alex.morris317@yahoo.com,MS,Software Engineering,2020,Full-Time,Colorado Springs,CO,USA
+678,Jordan,Maldonado,jordan.maldonado970@slu.edu,jordan.maldonado662@outlook.com,BS,Finance,2020,Full-Time,Kansas City,MO,USA
+679,Joseph,Jones,joseph.jones986@slu.edu,joseph.jones689@outlook.com,BS,Data Science,2023,OPT,Irvine,CA,USA
+680,Stacy,Wilson,stacy.wilson92@slu.edu,stacy.wilson857@yahoo.com,PhD,Finance,2023,OPT,Harrisburg,PA,USA
+681,Samantha,Morgan,samantha.morgan695@slu.edu,samantha.morgan963@yahoo.com,MBA,Data Science,2021,Full-Time,San Jose,CA,USA
+682,Pamela,Lara,pamela.lara660@slu.edu,pamela.lara513@gmail.com,BS,Finance,2023,OPT,Detroit,MI,USA
+683,April,Rojas,april.rojas677@slu.edu,april.rojas831@yahoo.com,MS,Marketing,2015,Full-Time,Rochester,NY,USA
+684,James,Nguyen,james.nguyen237@slu.edu,james.nguyen40@gmail.com,PhD,Cybersecurity,2023,OPT,Boston,MA,USA
+685,Jeffery,Cooper,jeffery.cooper469@slu.edu,jeffery.cooper254@outlook.com,MS,Biostatistics,2023,STEM-OPT,Irvine,CA,USA
+686,Antonio,Shea,antonio.shea999@slu.edu,antonio.shea754@gmail.com,BS,Computer Science,2016,Full-Time,Harrisburg,PA,USA
+687,Virginia,Murphy,virginia.murphy122@slu.edu,virginia.murphy353@gmail.com,MBA,Computer Science,2024,CPT,Chicago,IL,USA
+688,David,Gonzalez,david.gonzalez632@slu.edu,david.gonzalez143@outlook.com,BA,Cybersecurity,2019,Full-Time,Tampa,FL,USA
+689,Laura,Finley,laura.finley872@slu.edu,laura.finley192@gmail.com,MS,Information Systems,2024,OPT,Urbana,IL,USA
+690,Steven,Morris,steven.morris37@slu.edu,steven.morris289@gmail.com,BA,Business Analytics,2019,Full-Time,San Francisco,CA,USA
+691,Donald,Kelly,donald.kelly300@slu.edu,donald.kelly638@gmail.com,MS,Marketing,2022,STEM-OPT,Durham,NC,USA
+692,Michael,Martinez,michael.martinez724@slu.edu,michael.martinez115@gmail.com,BA,Biostatistics,2021,Full-Time,Raleigh,NC,USA
+693,Anita,Burton,anita.burton362@slu.edu,anita.burton214@gmail.com,BS,Data Science,2022,OPT,Cleveland,OH,USA
+694,Duane,Sherman,duane.sherman449@slu.edu,duane.sherman476@outlook.com,BA,Biostatistics,2017,Full-Time,Fort Collins,CO,USA
+695,Brian,Foster,brian.foster837@slu.edu,brian.foster265@outlook.com,MS,Business Analytics,2015,Full-Time,San Diego,CA,USA
+696,Jamie,Mason,jamie.mason699@slu.edu,jamie.mason728@outlook.com,PhD,Software Engineering,2022,OPT,Raleigh,NC,USA
+697,Shannon,Richardson,shannon.richardson512@slu.edu,shannon.richardson313@yahoo.com,BS,Computer Science,2020,Full-Time,Tucson,AZ,USA
+698,Terri,Barnes,terri.barnes80@slu.edu,terri.barnes201@yahoo.com,MS,Data Science,2020,Full-Time,Seattle,WA,USA
+699,Elijah,Benson,elijah.benson11@slu.edu,elijah.benson732@outlook.com,PhD,Business Analytics,2019,Full-Time,Buffalo,NY,USA
+700,Christina,Horn,christina.horn964@slu.edu,christina.horn766@yahoo.com,PhD,Software Engineering,2019,Full-Time,San Francisco,CA,USA
+701,Michael,Chavez,michael.chavez334@slu.edu,michael.chavez84@yahoo.com,PhD,Marketing,2025,CPT,Alpharetta,GA,USA
+702,Wanda,Carter,wanda.carter695@slu.edu,wanda.carter709@yahoo.com,MS,Marketing,2024,OPT,Redmond,WA,USA
+703,Gabrielle,Wyatt,gabrielle.wyatt749@slu.edu,gabrielle.wyatt437@gmail.com,MS,Information Systems,2021,Full-Time,Denver,CO,USA
+704,James,Gonzalez,james.gonzalez226@slu.edu,james.gonzalez855@yahoo.com,BS,Electrical Engineering,2021,Full-Time,Irvine,CA,USA
+705,Heather,Gray,heather.gray831@slu.edu,heather.gray565@outlook.com,MS,Business Analytics,2023,STEM-OPT,Naperville,IL,USA
+706,Cody,Vargas,cody.vargas461@slu.edu,cody.vargas87@gmail.com,BS,Computer Science,2024,OPT,Harrisburg,PA,USA
+707,David,Macdonald,david.macdonald100@slu.edu,david.macdonald233@yahoo.com,BA,Software Engineering,2018,Full-Time,Springfield,MO,USA
+708,Jonathan,Baker,jonathan.baker897@slu.edu,jonathan.baker65@yahoo.com,BA,Data Science,2018,Full-Time,Worcester,MA,USA
+709,Lauren,Miranda,lauren.miranda305@slu.edu,lauren.miranda942@yahoo.com,BA,Computer Science,2021,Full-Time,Chesterfield,MO,USA
+710,Joshua,Johnson,joshua.johnson332@slu.edu,joshua.johnson865@outlook.com,BS,Biostatistics,2016,Full-Time,Redmond,WA,USA
+711,Daniel,Turner,daniel.turner684@slu.edu,daniel.turner874@gmail.com,PhD,Electrical Engineering,2018,Full-Time,Savannah,GA,USA
+712,Cristian,Sweeney,cristian.sweeney751@slu.edu,cristian.sweeney445@yahoo.com,BS,Computer Science,2018,Full-Time,Pittsburgh,PA,USA
+713,Mark,Fuentes,mark.fuentes498@slu.edu,mark.fuentes55@outlook.com,BA,Finance,2021,Full-Time,Albany,NY,USA
+714,Diane,Duffy,diane.duffy340@slu.edu,diane.duffy581@outlook.com,PhD,Cybersecurity,2015,Full-Time,Jacksonville,FL,USA
+715,Howard,Jimenez,howard.jimenez755@slu.edu,howard.jimenez541@outlook.com,PhD,Software Engineering,2020,Full-Time,Miami,FL,USA
+716,Pamela,King,pamela.king705@slu.edu,pamela.king252@gmail.com,MS,Marketing,2021,Full-Time,Pittsburgh,PA,USA
+717,Aaron,Wong,aaron.wong463@slu.edu,aaron.wong975@gmail.com,BA,Biostatistics,2021,Full-Time,Tampa,FL,USA
+718,Omar,Moreno,omar.moreno904@slu.edu,omar.moreno277@yahoo.com,MS,Biostatistics,2025,CPT,Cleveland,OH,USA
+719,Shelley,Morrow,shelley.morrow868@slu.edu,shelley.morrow213@outlook.com,MS,Cybersecurity,2025,CPT,Grand Rapids,MI,USA
+720,Amy,Peterson,amy.peterson883@slu.edu,amy.peterson456@yahoo.com,MS,Information Systems,2017,Full-Time,Naperville,IL,USA
+721,Angel,Cortez,angel.cortez568@slu.edu,angel.cortez654@yahoo.com,PhD,Finance,2023,OPT,Raleigh,NC,USA
+722,Lance,Jackson,lance.jackson247@slu.edu,lance.jackson548@outlook.com,MS,Data Science,2017,Full-Time,Cary,NC,USA
+723,Mitchell,Bailey,mitchell.bailey639@slu.edu,mitchell.bailey59@gmail.com,MBA,Electrical Engineering,2017,Full-Time,Columbus,OH,USA
+724,Manuel,Russell,manuel.russell739@slu.edu,manuel.russell172@outlook.com,MS,Software Engineering,2024,CPT,Peoria,IL,USA
+725,Alejandro,Ward,alejandro.ward850@slu.edu,alejandro.ward2@gmail.com,BA,Marketing,2022,OPT,Harrisburg,PA,USA
+726,Michael,Rodriguez,michael.rodriguez407@slu.edu,michael.rodriguez399@outlook.com,BS,Marketing,2021,Full-Time,Alpharetta,GA,USA
+727,Linda,Johnson,linda.johnson444@slu.edu,linda.johnson565@yahoo.com,PhD,Data Science,2019,Full-Time,Cleveland,OH,USA
+728,Ashley,Martinez,ashley.martinez524@slu.edu,ashley.martinez125@yahoo.com,BA,Data Science,2024,OPT,Alpharetta,GA,USA
+729,Madeline,Pearson,madeline.pearson456@slu.edu,madeline.pearson669@gmail.com,PhD,Software Engineering,2025,CPT,Austin,TX,USA
+730,Scott,Brooks,scott.brooks566@slu.edu,scott.brooks993@yahoo.com,MS,Cybersecurity,2018,Full-Time,Dallas,TX,USA
+731,Emily,Carter,emily.carter604@slu.edu,emily.carter321@yahoo.com,MS,Data Science,2020,Full-Time,Los Angeles,CA,USA
+732,Dawn,Espinoza,dawn.espinoza359@slu.edu,dawn.espinoza751@yahoo.com,BA,Computer Science,2015,Full-Time,Cambridge,MA,USA
+733,Bruce,Price,bruce.price559@slu.edu,bruce.price225@outlook.com,PhD,Information Systems,2016,Full-Time,Fort Collins,CO,USA
+734,Hannah,Ward,hannah.ward857@slu.edu,hannah.ward266@outlook.com,BA,Data Science,2015,Full-Time,Detroit,MI,USA
+735,Helen,Williams,helen.williams31@slu.edu,helen.williams9@yahoo.com,PhD,Data Science,2024,OPT,Naperville,IL,USA
+736,James,Meyers,james.meyers197@slu.edu,james.meyers17@outlook.com,MS,Data Science,2016,Full-Time,Chicago,IL,USA
+737,Destiny,Yu,destiny.yu794@slu.edu,destiny.yu893@gmail.com,MS,Computer Science,2020,Full-Time,Charlotte,NC,USA
+738,Brandon,Ryan,brandon.ryan109@slu.edu,brandon.ryan705@outlook.com,PhD,Biostatistics,2018,Full-Time,Kansas City,MO,USA
+739,Christopher,Bradley,christopher.bradley504@slu.edu,christopher.bradley283@gmail.com,BS,Marketing,2020,Full-Time,Durham,NC,USA
+740,Michaela,Fox,michaela.fox769@slu.edu,michaela.fox168@gmail.com,PhD,Data Science,2019,Full-Time,Bellevue,WA,USA
+741,Kristen,Petersen,kristen.petersen911@slu.edu,kristen.petersen427@gmail.com,MS,Biostatistics,2020,Full-Time,Bellevue,WA,USA
+742,Michael,Rodriguez,michael.rodriguez83@slu.edu,michael.rodriguez961@outlook.com,BA,Business Analytics,2015,Full-Time,Pittsburgh,PA,USA
+743,Jerry,Moreno,jerry.moreno889@slu.edu,jerry.moreno625@gmail.com,BA,Software Engineering,2021,Full-Time,Detroit,MI,USA
+744,Catherine,Mitchell,catherine.mitchell309@slu.edu,catherine.mitchell806@yahoo.com,PhD,Finance,2017,Full-Time,Austin,TX,USA
+745,Mary,Banks,mary.banks939@slu.edu,mary.banks999@outlook.com,BA,Business Analytics,2021,Full-Time,Rochester,NY,USA
+746,Jeffery,Stephenson,jeffery.stephenson6@slu.edu,jeffery.stephenson55@yahoo.com,MBA,Data Science,2022,OPT,Phoenix,AZ,USA
+747,April,Brandt,april.brandt331@slu.edu,april.brandt400@outlook.com,BS,Business Analytics,2019,Full-Time,Bellevue,WA,USA
+748,Angela,Wells,angela.wells216@slu.edu,angela.wells252@outlook.com,PhD,Electrical Engineering,2021,Full-Time,Tempe,AZ,USA
+749,Elizabeth,Rodgers,elizabeth.rodgers707@slu.edu,elizabeth.rodgers715@gmail.com,BS,Data Science,2020,Full-Time,Savannah,GA,USA
+750,Lindsey,Vance,lindsey.vance943@slu.edu,lindsey.vance782@yahoo.com,BS,Finance,2016,Full-Time,Cincinnati,OH,USA
+751,Andrew,Green,andrew.green870@slu.edu,andrew.green112@yahoo.com,BS,Finance,2024,OPT,Detroit,MI,USA
+752,Luis,Hart,luis.hart930@slu.edu,luis.hart870@yahoo.com,BA,Information Systems,2015,Full-Time,San Francisco,CA,USA
+753,Megan,Colon,megan.colon679@slu.edu,megan.colon564@outlook.com,BS,Finance,2019,Full-Time,Savannah,GA,USA
+754,Joseph,Robinson,joseph.robinson7@slu.edu,joseph.robinson100@outlook.com,MS,Computer Science,2017,Full-Time,Colorado Springs,CO,USA
+755,John,Harris,john.harris775@slu.edu,john.harris573@yahoo.com,BS,Cybersecurity,2021,Full-Time,Ann Arbor,MI,USA
+756,Alexis,Hernandez,alexis.hernandez830@slu.edu,alexis.hernandez275@gmail.com,MS,Information Systems,2017,Full-Time,Ann Arbor,MI,USA
+757,Lisa,Powell,lisa.powell926@slu.edu,lisa.powell653@gmail.com,MS,Data Science,2024,OPT,Plano,TX,USA
+758,Eric,Fleming,eric.fleming581@slu.edu,eric.fleming510@yahoo.com,PhD,Information Systems,2021,Full-Time,Raleigh,NC,USA
+759,Lori,Rasmussen,lori.rasmussen887@slu.edu,lori.rasmussen520@yahoo.com,MBA,Software Engineering,2021,Full-Time,Boston,MA,USA
+760,Adam,Larsen,adam.larsen205@slu.edu,adam.larsen997@yahoo.com,MS,Electrical Engineering,2017,Full-Time,Urbana,IL,USA
+761,Kathleen,Doyle,kathleen.doyle590@slu.edu,kathleen.doyle399@outlook.com,BA,Computer Science,2020,Full-Time,Springfield,IL,USA
+762,Robert,Murphy,robert.murphy929@slu.edu,robert.murphy183@outlook.com,MBA,Information Systems,2022,STEM-OPT,Grand Rapids,MI,USA
+763,Toni,Burch,toni.burch235@slu.edu,toni.burch620@yahoo.com,MBA,Computer Science,2022,STEM-OPT,Plano,TX,USA
+764,Tanner,Peterson,tanner.peterson400@slu.edu,tanner.peterson844@gmail.com,BS,Cybersecurity,2017,Full-Time,Alpharetta,GA,USA
+765,John,Roach,john.roach174@slu.edu,john.roach135@gmail.com,MBA,Marketing,2021,Full-Time,Ann Arbor,MI,USA
+766,Jennifer,Ford,jennifer.ford536@slu.edu,jennifer.ford993@outlook.com,PhD,Finance,2017,Full-Time,New York,NY,USA
+767,Jennifer,Brown,jennifer.brown425@slu.edu,jennifer.brown253@yahoo.com,MS,Marketing,2017,Full-Time,Plano,TX,USA
+768,Sabrina,Johnson,sabrina.johnson882@slu.edu,sabrina.johnson165@gmail.com,MS,Cybersecurity,2022,OPT,Philadelphia,PA,USA
+769,Danielle,Yang,danielle.yang646@slu.edu,danielle.yang458@yahoo.com,PhD,Business Analytics,2018,Full-Time,Ann Arbor,MI,USA
+770,Ronald,Maxwell,ronald.maxwell728@slu.edu,ronald.maxwell743@yahoo.com,BA,Software Engineering,2022,OPT,Ann Arbor,MI,USA
+771,Bradley,Johnson,bradley.johnson393@slu.edu,bradley.johnson131@outlook.com,BA,Data Science,2021,Full-Time,Cambridge,MA,USA
+772,Martha,Li,martha.li772@slu.edu,martha.li948@gmail.com,MS,Computer Science,2017,Full-Time,Durham,NC,USA
+773,Samuel,Reed,samuel.reed260@slu.edu,samuel.reed979@gmail.com,BA,Computer Science,2020,Full-Time,Somerville,MA,USA
+774,Maria,Anderson,maria.anderson648@slu.edu,maria.anderson597@yahoo.com,BS,Data Science,2016,Full-Time,White Plains,NY,USA
+775,Anthony,Hunter,anthony.hunter721@slu.edu,anthony.hunter316@outlook.com,MBA,Cybersecurity,2015,Full-Time,Miami,FL,USA
+776,Michael,Hall,michael.hall939@slu.edu,michael.hall291@outlook.com,BS,Computer Science,2024,CPT,Los Angeles,CA,USA
+777,Shane,Gonzalez,shane.gonzalez250@slu.edu,shane.gonzalez51@gmail.com,BS,Electrical Engineering,2025,CPT,Alpharetta,GA,USA
+778,Jessica,Olson,jessica.olson127@slu.edu,jessica.olson584@outlook.com,BS,Business Analytics,2018,Full-Time,Tucson,AZ,USA
+779,Bonnie,Banks,bonnie.banks702@slu.edu,bonnie.banks294@yahoo.com,MBA,Software Engineering,2018,Full-Time,Springfield,IL,USA
+780,Timothy,Gallagher,timothy.gallagher272@slu.edu,timothy.gallagher421@gmail.com,BS,Finance,2025,CPT,Dallas,TX,USA
+781,Robert,Smith,robert.smith915@slu.edu,robert.smith127@outlook.com,BA,Biostatistics,2017,Full-Time,Cleveland,OH,USA
+782,Jordan,Garza,jordan.garza745@slu.edu,jordan.garza535@yahoo.com,BA,Finance,2021,Full-Time,White Plains,NY,USA
+783,Gwendolyn,Miller,gwendolyn.miller481@slu.edu,gwendolyn.miller370@yahoo.com,BS,Computer Science,2024,OPT,Chicago,IL,USA
+784,Steven,Smith,steven.smith91@slu.edu,steven.smith512@outlook.com,MBA,Information Systems,2025,CPT,Phoenix,AZ,USA
+785,Vincent,Miller,vincent.miller917@slu.edu,vincent.miller101@gmail.com,PhD,Biostatistics,2016,Full-Time,Colorado Springs,CO,USA
+786,Rachel,Frost,rachel.frost166@slu.edu,rachel.frost477@outlook.com,MS,Electrical Engineering,2023,STEM-OPT,Denver,CO,USA
+787,Kristin,Porter,kristin.porter325@slu.edu,kristin.porter577@yahoo.com,MS,Computer Science,2023,OPT,Detroit,MI,USA
+788,Nicholas,Johnson,nicholas.johnson633@slu.edu,nicholas.johnson279@yahoo.com,MBA,Finance,2020,Full-Time,Redmond,WA,USA
+789,Robert,Wade,robert.wade867@slu.edu,robert.wade876@yahoo.com,PhD,Software Engineering,2015,Full-Time,Houston,TX,USA
+790,Ryan,Erickson,ryan.erickson533@slu.edu,ryan.erickson539@yahoo.com,MS,Business Analytics,2025,CPT,Phoenix,AZ,USA
+791,Lori,Daniel,lori.daniel570@slu.edu,lori.daniel15@yahoo.com,PhD,Data Science,2023,STEM-OPT,Tucson,AZ,USA
+792,Don,Tran,don.tran879@slu.edu,don.tran261@outlook.com,BS,Electrical Engineering,2018,Full-Time,Detroit,MI,USA
+793,Donald,Gibson,donald.gibson10@slu.edu,donald.gibson316@yahoo.com,BA,Business Analytics,2019,Full-Time,Tempe,AZ,USA
+794,Tracy,Wilson,tracy.wilson32@slu.edu,tracy.wilson763@yahoo.com,BA,Software Engineering,2015,Full-Time,White Plains,NY,USA
+795,Jonathan,Gates,jonathan.gates861@slu.edu,jonathan.gates994@gmail.com,PhD,Information Systems,2015,Full-Time,Cincinnati,OH,USA
+796,Lynn,Fox,lynn.fox353@slu.edu,lynn.fox730@yahoo.com,BA,Biostatistics,2019,Full-Time,Alpharetta,GA,USA
+797,Jeffrey,James,jeffrey.james155@slu.edu,jeffrey.james994@outlook.com,MBA,Information Systems,2018,Full-Time,Philadelphia,PA,USA
+798,Matthew,Morgan,matthew.morgan720@slu.edu,matthew.morgan549@yahoo.com,MS,Business Analytics,2019,Full-Time,Grand Rapids,MI,USA
+799,Marvin,Campbell,marvin.campbell692@slu.edu,marvin.campbell290@yahoo.com,BS,Electrical Engineering,2018,Full-Time,Pittsburgh,PA,USA
+800,Robert,Clark,robert.clark411@slu.edu,robert.clark151@yahoo.com,MBA,Data Science,2022,OPT,Cary,NC,USA
+801,Debra,Fletcher,debra.fletcher351@slu.edu,debra.fletcher141@gmail.com,BS,Business Analytics,2020,Full-Time,Grand Rapids,MI,USA
+802,Joshua,Macias,joshua.macias64@slu.edu,joshua.macias126@gmail.com,PhD,Electrical Engineering,2018,Full-Time,Atlanta,GA,USA
+803,Jake,Green,jake.green402@slu.edu,jake.green648@outlook.com,MS,Software Engineering,2025,CPT,Boulder,CO,USA
+804,Antonio,Miller,antonio.miller232@slu.edu,antonio.miller690@yahoo.com,MBA,Data Science,2021,Full-Time,Scottsdale,AZ,USA
+805,Timothy,Miles,timothy.miles946@slu.edu,timothy.miles522@yahoo.com,BA,Biostatistics,2019,Full-Time,Alpharetta,GA,USA
+806,Jason,Cervantes,jason.cervantes944@slu.edu,jason.cervantes346@gmail.com,MS,Cybersecurity,2015,Full-Time,Fort Collins,CO,USA
+807,Nathan,Webb,nathan.webb371@slu.edu,nathan.webb726@yahoo.com,MS,Electrical Engineering,2023,STEM-OPT,Irvine,CA,USA
+808,Mitchell,Rodriguez,mitchell.rodriguez472@slu.edu,mitchell.rodriguez558@gmail.com,MBA,Cybersecurity,2024,OPT,Atlanta,GA,USA
+809,Sean,Garcia,sean.garcia485@slu.edu,sean.garcia398@outlook.com,MBA,Information Systems,2025,CPT,Fort Collins,CO,USA
+810,Carolyn,Hancock,carolyn.hancock61@slu.edu,carolyn.hancock593@outlook.com,MS,Cybersecurity,2020,Full-Time,Columbus,OH,USA
+811,Lauren,Garcia,lauren.garcia229@slu.edu,lauren.garcia840@gmail.com,MBA,Data Science,2020,Full-Time,Columbia,MO,USA
+812,Lori,Weeks,lori.weeks205@slu.edu,lori.weeks190@gmail.com,MBA,Business Analytics,2017,Full-Time,San Diego,CA,USA
+813,Taylor,Rogers,taylor.rogers793@slu.edu,taylor.rogers807@gmail.com,BA,Marketing,2017,Full-Time,Jacksonville,FL,USA
+814,Heidi,Hendrix,heidi.hendrix666@slu.edu,heidi.hendrix837@gmail.com,MBA,Biostatistics,2023,STEM-OPT,Atlanta,GA,USA
+815,Brittany,Vaughn,brittany.vaughn792@slu.edu,brittany.vaughn498@gmail.com,PhD,Business Analytics,2017,Full-Time,Naperville,IL,USA
+816,Kathy,Yates,kathy.yates54@slu.edu,kathy.yates64@outlook.com,BA,Finance,2021,Full-Time,Cincinnati,OH,USA
+817,Susan,Washington,susan.washington695@slu.edu,susan.washington120@yahoo.com,PhD,Electrical Engineering,2019,Full-Time,Scottsdale,AZ,USA
+818,Lisa,Harvey,lisa.harvey264@slu.edu,lisa.harvey223@yahoo.com,MS,Information Systems,2018,Full-Time,Springfield,IL,USA
+819,Timothy,Mercer,timothy.mercer63@slu.edu,timothy.mercer43@outlook.com,PhD,Data Science,2017,Full-Time,Miami,FL,USA
+820,Dawn,Evans,dawn.evans992@slu.edu,dawn.evans734@gmail.com,PhD,Marketing,2017,Full-Time,Chesterfield,MO,USA
+821,Christopher,Collins,christopher.collins910@slu.edu,christopher.collins115@gmail.com,MS,Finance,2016,Full-Time,Raleigh,NC,USA
+822,Kristina,Rodriguez,kristina.rodriguez390@slu.edu,kristina.rodriguez345@outlook.com,MS,Computer Science,2021,Full-Time,Detroit,MI,USA
+823,Melissa,Williams,melissa.williams966@slu.edu,melissa.williams344@gmail.com,BA,Electrical Engineering,2020,Full-Time,Seattle,WA,USA
+824,Lisa,White,lisa.white530@slu.edu,lisa.white577@yahoo.com,MS,Finance,2021,Full-Time,Irvine,CA,USA
+825,Hannah,Hopkins,hannah.hopkins610@slu.edu,hannah.hopkins981@outlook.com,MS,Biostatistics,2022,STEM-OPT,Miami,FL,USA
+826,Raven,Johnson,raven.johnson429@slu.edu,raven.johnson78@gmail.com,MS,Business Analytics,2025,CPT,Colorado Springs,CO,USA
+827,Jennifer,Barker,jennifer.barker727@slu.edu,jennifer.barker309@outlook.com,PhD,Electrical Engineering,2021,Full-Time,Harrisburg,PA,USA
+828,Ashley,Castaneda,ashley.castaneda955@slu.edu,ashley.castaneda296@yahoo.com,MBA,Data Science,2018,Full-Time,Columbus,OH,USA
+829,Jessica,Long,jessica.long117@slu.edu,jessica.long889@outlook.com,BS,Computer Science,2024,CPT,Harrisburg,PA,USA
+830,Cassandra,Chen,cassandra.chen996@slu.edu,cassandra.chen135@gmail.com,BA,Finance,2016,Full-Time,Plano,TX,USA
+831,Stephanie,Ayala,stephanie.ayala40@slu.edu,stephanie.ayala674@yahoo.com,BA,Software Engineering,2025,CPT,Austin,TX,USA
+832,Nicholas,Rodriguez,nicholas.rodriguez501@slu.edu,nicholas.rodriguez455@yahoo.com,MBA,Electrical Engineering,2015,Full-Time,White Plains,NY,USA
+833,Christian,Bennett,christian.bennett644@slu.edu,christian.bennett307@gmail.com,PhD,Software Engineering,2025,CPT,Phoenix,AZ,USA
+834,Sarah,Heath,sarah.heath493@slu.edu,sarah.heath480@yahoo.com,MS,Computer Science,2019,Full-Time,Harrisburg,PA,USA
+835,Bonnie,Wilson,bonnie.wilson985@slu.edu,bonnie.wilson118@yahoo.com,MS,Biostatistics,2019,Full-Time,Atlanta,GA,USA
+836,Sharon,Williams,sharon.williams16@slu.edu,sharon.williams25@outlook.com,PhD,Software Engineering,2024,CPT,Grand Rapids,MI,USA
+837,Ralph,Romero,ralph.romero899@slu.edu,ralph.romero205@yahoo.com,BA,Electrical Engineering,2023,OPT,New York,NY,USA
+838,Allen,Rivera,allen.rivera920@slu.edu,allen.rivera275@gmail.com,BS,Electrical Engineering,2018,Full-Time,Columbus,OH,USA
+839,Jessica,Lane,jessica.lane899@slu.edu,jessica.lane699@yahoo.com,MBA,Business Analytics,2020,Full-Time,Durham,NC,USA
+840,Jessica,Sullivan,jessica.sullivan340@slu.edu,jessica.sullivan176@gmail.com,BA,Biostatistics,2024,OPT,Rochester,NY,USA
+841,Hannah,Stark,hannah.stark741@slu.edu,hannah.stark467@yahoo.com,PhD,Data Science,2021,Full-Time,Raleigh,NC,USA
+842,Susan,Young,susan.young510@slu.edu,susan.young32@outlook.com,BS,Electrical Engineering,2017,Full-Time,Chesterfield,MO,USA
+843,Patricia,Nicholson,patricia.nicholson500@slu.edu,patricia.nicholson461@yahoo.com,MS,Marketing,2022,OPT,Alpharetta,GA,USA
+844,Albert,Miller,albert.miller129@slu.edu,albert.miller741@outlook.com,PhD,Business Analytics,2018,Full-Time,Chicago,IL,USA
+845,Bill,Patterson,bill.patterson559@slu.edu,bill.patterson852@gmail.com,BA,Software Engineering,2022,STEM-OPT,Miami,FL,USA
+846,Kayla,Hart,kayla.hart812@slu.edu,kayla.hart68@gmail.com,MBA,Biostatistics,2018,Full-Time,Rochester,NY,USA
+847,Donna,Wright,donna.wright451@slu.edu,donna.wright213@outlook.com,BA,Finance,2021,Full-Time,Cleveland,OH,USA
+848,Vanessa,Woods,vanessa.woods867@slu.edu,vanessa.woods217@yahoo.com,MS,Marketing,2023,STEM-OPT,Detroit,MI,USA
+849,Juan,Ferrell,juan.ferrell780@slu.edu,juan.ferrell116@outlook.com,PhD,Information Systems,2018,Full-Time,Irvine,CA,USA
+850,Angela,Watkins,angela.watkins37@slu.edu,angela.watkins99@gmail.com,BS,Marketing,2024,CPT,Cincinnati,OH,USA
+851,Mark,Baird,mark.baird303@slu.edu,mark.baird578@gmail.com,MS,Biostatistics,2021,Full-Time,Rochester,NY,USA
+852,Jennifer,Thomas,jennifer.thomas550@slu.edu,jennifer.thomas132@outlook.com,BA,Marketing,2022,STEM-OPT,Clayton,MO,USA
+853,David,Gardner,david.gardner436@slu.edu,david.gardner514@yahoo.com,PhD,Software Engineering,2021,Full-Time,Austin,TX,USA
+854,Kelsey,Webster,kelsey.webster537@slu.edu,kelsey.webster927@gmail.com,BA,Biostatistics,2018,Full-Time,Irvine,CA,USA
+855,Joshua,Miller,joshua.miller372@slu.edu,joshua.miller548@gmail.com,PhD,Biostatistics,2016,Full-Time,Tempe,AZ,USA
+856,Sonia,Hill,sonia.hill631@slu.edu,sonia.hill857@outlook.com,BS,Computer Science,2022,OPT,Peoria,IL,USA
+857,Russell,Cohen,russell.cohen718@slu.edu,russell.cohen6@gmail.com,BA,Data Science,2020,Full-Time,Savannah,GA,USA
+858,Doris,Wolfe,doris.wolfe216@slu.edu,doris.wolfe370@yahoo.com,BS,Business Analytics,2025,CPT,Ann Arbor,MI,USA
+859,Joe,Fox,joe.fox725@slu.edu,joe.fox261@yahoo.com,BS,Cybersecurity,2022,OPT,Buffalo,NY,USA
+860,Walter,Wolfe,walter.wolfe631@slu.edu,walter.wolfe294@gmail.com,MS,Computer Science,2019,Full-Time,Springfield,IL,USA
+861,Amanda,Wyatt,amanda.wyatt118@slu.edu,amanda.wyatt535@outlook.com,PhD,Data Science,2020,Full-Time,Cary,NC,USA
+862,Stephanie,Murphy,stephanie.murphy287@slu.edu,stephanie.murphy45@gmail.com,PhD,Marketing,2024,OPT,Raleigh,NC,USA
+863,David,Griffin,david.griffin463@slu.edu,david.griffin177@gmail.com,BS,Cybersecurity,2017,Full-Time,Tucson,AZ,USA
+864,Danielle,Martinez,danielle.martinez478@slu.edu,danielle.martinez489@outlook.com,BA,Cybersecurity,2015,Full-Time,Atlanta,GA,USA
+865,Sara,Kelly,sara.kelly264@slu.edu,sara.kelly18@outlook.com,BS,Electrical Engineering,2025,CPT,Boulder,CO,USA
+866,Caleb,Mccullough,caleb.mccullough83@slu.edu,caleb.mccullough718@yahoo.com,MBA,Marketing,2022,STEM-OPT,Columbia,MO,USA
+867,John,Joseph,john.joseph304@slu.edu,john.joseph997@yahoo.com,BA,Computer Science,2017,Full-Time,Cary,NC,USA
+868,James,Newman,james.newman779@slu.edu,james.newman24@yahoo.com,MS,Information Systems,2021,Full-Time,Seattle,WA,USA
+869,Seth,Dodson,seth.dodson999@slu.edu,seth.dodson47@outlook.com,PhD,Biostatistics,2021,Full-Time,Detroit,MI,USA
+870,Emily,Floyd,emily.floyd93@slu.edu,emily.floyd196@yahoo.com,MBA,Software Engineering,2016,Full-Time,Miami,FL,USA
+871,Ronald,Mullins,ronald.mullins361@slu.edu,ronald.mullins840@outlook.com,MS,Information Systems,2017,Full-Time,Clayton,MO,USA
+872,Brooke,Raymond,brooke.raymond783@slu.edu,brooke.raymond39@yahoo.com,MBA,Biostatistics,2020,Full-Time,Austin,TX,USA
+873,Matthew,Johnson,matthew.johnson699@slu.edu,matthew.johnson693@yahoo.com,MS,Finance,2015,Full-Time,Ann Arbor,MI,USA
+874,Amber,Nelson,amber.nelson543@slu.edu,amber.nelson124@outlook.com,BA,Finance,2016,Full-Time,Naperville,IL,USA
+875,Danielle,Fisher,danielle.fisher600@slu.edu,danielle.fisher923@yahoo.com,MBA,Software Engineering,2019,Full-Time,Plano,TX,USA
+876,Paul,Holmes,paul.holmes566@slu.edu,paul.holmes152@yahoo.com,BA,Information Systems,2017,Full-Time,Clayton,MO,USA
+877,Matthew,Phillips,matthew.phillips450@slu.edu,matthew.phillips389@gmail.com,MBA,Computer Science,2015,Full-Time,Rochester,NY,USA
+878,Jonathan,Willis,jonathan.willis49@slu.edu,jonathan.willis297@yahoo.com,BA,Marketing,2019,Full-Time,Dallas,TX,USA
+879,Amy,Weaver,amy.weaver712@slu.edu,amy.weaver501@outlook.com,PhD,Marketing,2021,Full-Time,Plano,TX,USA
+880,Randy,Mcdaniel,randy.mcdaniel967@slu.edu,randy.mcdaniel925@gmail.com,BA,Software Engineering,2016,Full-Time,Houston,TX,USA
+881,James,Barnes,james.barnes68@slu.edu,james.barnes143@gmail.com,PhD,Information Systems,2024,CPT,Cincinnati,OH,USA
+882,Sarah,Harvey,sarah.harvey980@slu.edu,sarah.harvey52@yahoo.com,BA,Cybersecurity,2019,Full-Time,Worcester,MA,USA
+883,Christine,Cohen,christine.cohen937@slu.edu,christine.cohen484@gmail.com,MS,Computer Science,2025,CPT,Harrisburg,PA,USA
+884,Kathy,Walter,kathy.walter586@slu.edu,kathy.walter294@yahoo.com,BS,Biostatistics,2018,Full-Time,Dallas,TX,USA
+885,Hannah,Casey,hannah.casey601@slu.edu,hannah.casey67@outlook.com,BA,Computer Science,2019,Full-Time,Charlotte,NC,USA
+886,Angel,Greer,angel.greer164@slu.edu,angel.greer243@yahoo.com,MBA,Electrical Engineering,2020,Full-Time,Ann Arbor,MI,USA
+887,Angela,Beck,angela.beck211@slu.edu,angela.beck179@outlook.com,MBA,Biostatistics,2025,CPT,Colorado Springs,CO,USA
+888,Diana,Hull,diana.hull520@slu.edu,diana.hull93@yahoo.com,BS,Cybersecurity,2022,STEM-OPT,Scottsdale,AZ,USA
+889,Scott,Holder,scott.holder618@slu.edu,scott.holder731@gmail.com,BA,Marketing,2023,STEM-OPT,Harrisburg,PA,USA
+890,Gabrielle,Fernandez,gabrielle.fernandez626@slu.edu,gabrielle.fernandez355@yahoo.com,MS,Business Analytics,2025,CPT,Dallas,TX,USA
+891,Vanessa,Thomas,vanessa.thomas775@slu.edu,vanessa.thomas917@yahoo.com,MBA,Electrical Engineering,2019,Full-Time,Pittsburgh,PA,USA
+892,Darrell,Ruiz,darrell.ruiz603@slu.edu,darrell.ruiz510@outlook.com,BS,Information Systems,2023,OPT,Austin,TX,USA
+893,Joseph,Ellis,joseph.ellis380@slu.edu,joseph.ellis135@outlook.com,MBA,Biostatistics,2019,Full-Time,Worcester,MA,USA
+894,Ashley,Cruz,ashley.cruz538@slu.edu,ashley.cruz13@yahoo.com,MBA,Business Analytics,2019,Full-Time,New York,NY,USA
+895,Katie,Gallagher,katie.gallagher952@slu.edu,katie.gallagher110@gmail.com,BS,Computer Science,2025,CPT,Pittsburgh,PA,USA
+896,Juan,Reeves,juan.reeves394@slu.edu,juan.reeves120@yahoo.com,MBA,Marketing,2020,Full-Time,Redmond,WA,USA
+897,Heather,Hill,heather.hill633@slu.edu,heather.hill331@outlook.com,MS,Software Engineering,2017,Full-Time,Columbia,MO,USA
+898,Andrew,Munoz,andrew.munoz273@slu.edu,andrew.munoz809@yahoo.com,BS,Marketing,2022,OPT,Charlotte,NC,USA
+899,Kelli,Alvarez,kelli.alvarez652@slu.edu,kelli.alvarez128@gmail.com,MS,Cybersecurity,2015,Full-Time,Atlanta,GA,USA
+900,Kelly,Howard,kelly.howard978@slu.edu,kelly.howard980@outlook.com,MBA,Computer Science,2020,Full-Time,Miami,FL,USA
+901,Justin,Herrera,justin.herrera244@slu.edu,justin.herrera664@outlook.com,BA,Information Systems,2021,Full-Time,Fort Collins,CO,USA
+902,Lauren,Turner,lauren.turner519@slu.edu,lauren.turner256@yahoo.com,PhD,Electrical Engineering,2016,Full-Time,Atlanta,GA,USA
+903,Benjamin,Gray,benjamin.gray238@slu.edu,benjamin.gray458@yahoo.com,BA,Software Engineering,2017,Full-Time,Tampa,FL,USA
+904,James,Wood,james.wood83@slu.edu,james.wood294@gmail.com,BS,Cybersecurity,2023,OPT,Redmond,WA,USA
+905,Hannah,Clark,hannah.clark311@slu.edu,hannah.clark376@gmail.com,PhD,Biostatistics,2020,Full-Time,Redmond,WA,USA
+906,Joseph,Shepherd,joseph.shepherd322@slu.edu,joseph.shepherd319@gmail.com,MS,Marketing,2019,Full-Time,Ann Arbor,MI,USA
+907,Patricia,Bryant,patricia.bryant186@slu.edu,patricia.bryant69@outlook.com,PhD,Marketing,2019,Full-Time,Pittsburgh,PA,USA
+908,Paul,Williams,paul.williams673@slu.edu,paul.williams874@outlook.com,MBA,Information Systems,2018,Full-Time,Cambridge,MA,USA
+909,Anna,Martinez,anna.martinez868@slu.edu,anna.martinez769@gmail.com,PhD,Information Systems,2019,Full-Time,Urbana,IL,USA
+910,Raymond,White,raymond.white478@slu.edu,raymond.white334@outlook.com,MBA,Data Science,2021,Full-Time,Tacoma,WA,USA
+911,Dalton,Olson,dalton.olson912@slu.edu,dalton.olson473@outlook.com,PhD,Finance,2015,Full-Time,Ann Arbor,MI,USA
+912,Tammy,Brown,tammy.brown464@slu.edu,tammy.brown462@gmail.com,BS,Data Science,2019,Full-Time,Boulder,CO,USA
+913,Andrew,Barajas,andrew.barajas211@slu.edu,andrew.barajas428@yahoo.com,BS,Marketing,2025,CPT,White Plains,NY,USA
+914,Colleen,Smith,colleen.smith601@slu.edu,colleen.smith761@outlook.com,BS,Business Analytics,2015,Full-Time,Atlanta,GA,USA
+915,Andrew,Jones,andrew.jones965@slu.edu,andrew.jones670@outlook.com,MBA,Software Engineering,2020,Full-Time,San Antonio,TX,USA
+916,Jonathan,Rogers,jonathan.rogers208@slu.edu,jonathan.rogers442@gmail.com,MBA,Computer Science,2022,STEM-OPT,Bellevue,WA,USA
+917,James,Pena,james.pena993@slu.edu,james.pena835@outlook.com,PhD,Business Analytics,2019,Full-Time,Harrisburg,PA,USA
+918,Jason,Warner,jason.warner375@slu.edu,jason.warner788@outlook.com,MS,Information Systems,2017,Full-Time,Albany,NY,USA
+919,Justin,Velez,justin.velez551@slu.edu,justin.velez41@outlook.com,BS,Finance,2024,OPT,Detroit,MI,USA
+920,Matthew,Callahan,matthew.callahan704@slu.edu,matthew.callahan335@outlook.com,PhD,Finance,2019,Full-Time,Columbia,MO,USA
+921,Cheryl,Green,cheryl.green666@slu.edu,cheryl.green271@yahoo.com,MBA,Computer Science,2025,CPT,San Diego,CA,USA
+922,Selena,Golden,selena.golden597@slu.edu,selena.golden349@outlook.com,PhD,Business Analytics,2017,Full-Time,San Jose,CA,USA
+923,James,Johnson,james.johnson998@slu.edu,james.johnson583@outlook.com,MS,Biostatistics,2015,Full-Time,Tampa,FL,USA
+924,James,Hernandez,james.hernandez420@slu.edu,james.hernandez140@outlook.com,BA,Data Science,2020,Full-Time,Columbia,MO,USA
+925,Christopher,Martinez,christopher.martinez747@slu.edu,christopher.martinez201@outlook.com,BS,Biostatistics,2025,CPT,Springfield,MO,USA
+926,Brian,Schmidt,brian.schmidt223@slu.edu,brian.schmidt752@yahoo.com,PhD,Cybersecurity,2017,Full-Time,Jacksonville,FL,USA
+927,Barbara,Clark,barbara.clark95@slu.edu,barbara.clark789@yahoo.com,BS,Cybersecurity,2022,OPT,Buffalo,NY,USA
+928,Brandon,Smith,brandon.smith341@slu.edu,brandon.smith590@yahoo.com,PhD,Electrical Engineering,2016,Full-Time,Worcester,MA,USA
+929,Felicia,Nicholson,felicia.nicholson319@slu.edu,felicia.nicholson868@outlook.com,PhD,Business Analytics,2020,Full-Time,Ann Arbor,MI,USA
+930,James,Bright,james.bright788@slu.edu,james.bright793@gmail.com,BS,Cybersecurity,2018,Full-Time,Boulder,CO,USA
+931,Stephanie,Kline,stephanie.kline929@slu.edu,stephanie.kline665@gmail.com,MS,Biostatistics,2021,Full-Time,San Jose,CA,USA
+932,Hunter,Miller,hunter.miller138@slu.edu,hunter.miller912@outlook.com,MS,Business Analytics,2024,OPT,Cambridge,MA,USA
+933,David,Williams,david.williams19@slu.edu,david.williams996@yahoo.com,BA,Marketing,2021,Full-Time,Denver,CO,USA
+934,Jennifer,Dalton,jennifer.dalton147@slu.edu,jennifer.dalton930@gmail.com,BA,Biostatistics,2025,CPT,San Francisco,CA,USA
+935,David,Davis,david.davis795@slu.edu,david.davis554@gmail.com,BS,Computer Science,2020,Full-Time,Philadelphia,PA,USA
+936,Robert,James,robert.james135@slu.edu,robert.james965@outlook.com,PhD,Business Analytics,2018,Full-Time,Cincinnati,OH,USA
+937,Richard,Tucker,richard.tucker955@slu.edu,richard.tucker247@outlook.com,PhD,Information Systems,2019,Full-Time,Tampa,FL,USA
+938,Joshua,Moore,joshua.moore791@slu.edu,joshua.moore192@gmail.com,BS,Data Science,2024,OPT,Columbia,MO,USA
+939,Stacy,Gonzalez,stacy.gonzalez138@slu.edu,stacy.gonzalez968@outlook.com,PhD,Software Engineering,2018,Full-Time,Plano,TX,USA
+940,Andrew,Jennings,andrew.jennings735@slu.edu,andrew.jennings922@yahoo.com,BA,Cybersecurity,2024,CPT,Worcester,MA,USA
+941,Mary,Morton,mary.morton107@slu.edu,mary.morton744@outlook.com,BA,Computer Science,2015,Full-Time,Cincinnati,OH,USA
+942,Nicholas,Villegas,nicholas.villegas498@slu.edu,nicholas.villegas138@yahoo.com,MS,Marketing,2019,Full-Time,Miami,FL,USA
+943,Pamela,Smith,pamela.smith647@slu.edu,pamela.smith995@yahoo.com,PhD,Electrical Engineering,2025,CPT,Detroit,MI,USA
+944,Courtney,Kelley,courtney.kelley574@slu.edu,courtney.kelley348@outlook.com,BA,Software Engineering,2019,Full-Time,Tacoma,WA,USA
+945,Elizabeth,Coleman,elizabeth.coleman299@slu.edu,elizabeth.coleman18@outlook.com,MBA,Marketing,2023,OPT,Boston,MA,USA
+946,Ruth,Martinez,ruth.martinez819@slu.edu,ruth.martinez628@outlook.com,PhD,Marketing,2017,Full-Time,Fort Collins,CO,USA
+947,Cassidy,Harper,cassidy.harper388@slu.edu,cassidy.harper740@yahoo.com,PhD,Information Systems,2020,Full-Time,Tempe,AZ,USA
+948,Amanda,Burns,amanda.burns580@slu.edu,amanda.burns773@outlook.com,BA,Electrical Engineering,2024,OPT,Ann Arbor,MI,USA
+949,Carol,Payne,carol.payne392@slu.edu,carol.payne933@gmail.com,PhD,Software Engineering,2022,OPT,Chicago,IL,USA
+950,Brenda,Mccullough,brenda.mccullough450@slu.edu,brenda.mccullough311@gmail.com,MS,Data Science,2015,Full-Time,San Francisco,CA,USA
+951,Peter,Maxwell,peter.maxwell384@slu.edu,peter.maxwell82@gmail.com,MS,Computer Science,2015,Full-Time,Detroit,MI,USA
+952,Deborah,Martinez,deborah.martinez610@slu.edu,deborah.martinez404@gmail.com,MS,Finance,2020,Full-Time,Bellevue,WA,USA
+953,Michael,Sanchez,michael.sanchez208@slu.edu,michael.sanchez261@outlook.com,BS,Data Science,2018,Full-Time,White Plains,NY,USA
+954,Ashley,Mccoy,ashley.mccoy193@slu.edu,ashley.mccoy86@outlook.com,BS,Finance,2021,Full-Time,Tucson,AZ,USA
+955,Robert,Watson,robert.watson194@slu.edu,robert.watson634@gmail.com,MBA,Cybersecurity,2018,Full-Time,San Francisco,CA,USA
+956,John,Alvarado,john.alvarado412@slu.edu,john.alvarado15@gmail.com,PhD,Software Engineering,2024,CPT,Worcester,MA,USA
+957,Elizabeth,Hill,elizabeth.hill565@slu.edu,elizabeth.hill131@gmail.com,MBA,Cybersecurity,2019,Full-Time,Phoenix,AZ,USA
+958,Tiffany,Blair,tiffany.blair73@slu.edu,tiffany.blair226@outlook.com,BS,Business Analytics,2015,Full-Time,Tacoma,WA,USA
+959,Rachel,Jensen,rachel.jensen988@slu.edu,rachel.jensen491@yahoo.com,MS,Finance,2019,Full-Time,Cleveland,OH,USA
+960,Shane,Lopez,shane.lopez846@slu.edu,shane.lopez278@yahoo.com,BS,Software Engineering,2024,OPT,White Plains,NY,USA
+961,James,Lawrence,james.lawrence572@slu.edu,james.lawrence594@gmail.com,MBA,Electrical Engineering,2020,Full-Time,Atlanta,GA,USA
+962,Steven,Riley,steven.riley900@slu.edu,steven.riley413@gmail.com,MS,Marketing,2015,Full-Time,Cleveland,OH,USA
+963,Jessica,Short,jessica.short84@slu.edu,jessica.short144@yahoo.com,BA,Business Analytics,2015,Full-Time,Orlando,FL,USA
+964,Daniel,Molina,daniel.molina859@slu.edu,daniel.molina1@yahoo.com,PhD,Cybersecurity,2019,Full-Time,Detroit,MI,USA
+965,Tommy,Peterson,tommy.peterson465@slu.edu,tommy.peterson251@yahoo.com,MS,Business Analytics,2021,Full-Time,Columbia,MO,USA
+966,Rachael,Gonzales,rachael.gonzales198@slu.edu,rachael.gonzales609@gmail.com,MBA,Software Engineering,2018,Full-Time,Cary,NC,USA
+967,Ryan,Vargas,ryan.vargas244@slu.edu,ryan.vargas82@outlook.com,BA,Biostatistics,2022,OPT,Ann Arbor,MI,USA
+968,Jerry,Patton,jerry.patton521@slu.edu,jerry.patton879@gmail.com,BS,Computer Science,2018,Full-Time,Seattle,WA,USA
+969,Nancy,Edwards,nancy.edwards149@slu.edu,nancy.edwards443@gmail.com,MBA,Electrical Engineering,2018,Full-Time,Bellevue,WA,USA
+970,Erin,Cain,erin.cain15@slu.edu,erin.cain160@yahoo.com,BA,Business Analytics,2017,Full-Time,Somerville,MA,USA
+971,Scott,Jordan,scott.jordan969@slu.edu,scott.jordan706@outlook.com,PhD,Marketing,2019,Full-Time,Philadelphia,PA,USA
+972,Tami,Gardner,tami.gardner862@slu.edu,tami.gardner397@outlook.com,MBA,Computer Science,2015,Full-Time,St. Louis,MO,USA
+973,Eric,Williams,eric.williams343@slu.edu,eric.williams35@yahoo.com,BA,Electrical Engineering,2025,CPT,Colorado Springs,CO,USA
+974,David,Cook,david.cook774@slu.edu,david.cook217@yahoo.com,MBA,Finance,2015,Full-Time,Grand Rapids,MI,USA
+975,Caleb,Robles,caleb.robles51@slu.edu,caleb.robles833@gmail.com,MS,Business Analytics,2024,OPT,Jacksonville,FL,USA
+976,Joseph,Sosa,joseph.sosa301@slu.edu,joseph.sosa997@yahoo.com,MBA,Marketing,2020,Full-Time,Atlanta,GA,USA
+977,James,Walsh,james.walsh405@slu.edu,james.walsh568@outlook.com,BA,Computer Science,2015,Full-Time,Tacoma,WA,USA
+978,Philip,Burke,philip.burke490@slu.edu,philip.burke680@gmail.com,MBA,Computer Science,2019,Full-Time,Buffalo,NY,USA
+979,Danielle,Vargas,danielle.vargas558@slu.edu,danielle.vargas830@outlook.com,PhD,Biostatistics,2017,Full-Time,Los Angeles,CA,USA
+980,Jessica,Watson,jessica.watson922@slu.edu,jessica.watson121@outlook.com,MS,Finance,2019,Full-Time,Houston,TX,USA
+981,Kelly,Williamson,kelly.williamson598@slu.edu,kelly.williamson207@outlook.com,BS,Electrical Engineering,2019,Full-Time,Plano,TX,USA
+982,Jo,Torres,jo.torres386@slu.edu,jo.torres268@gmail.com,PhD,Computer Science,2021,Full-Time,Cincinnati,OH,USA
+983,Gary,Adams,gary.adams28@slu.edu,gary.adams315@yahoo.com,MBA,Business Analytics,2022,OPT,Clayton,MO,USA
+984,Sherry,Harding,sherry.harding48@slu.edu,sherry.harding200@gmail.com,BS,Information Systems,2022,OPT,Cleveland,OH,USA
+985,Linda,Montgomery,linda.montgomery844@slu.edu,linda.montgomery337@yahoo.com,MS,Information Systems,2019,Full-Time,Boston,MA,USA
+986,Susan,Schneider,susan.schneider782@slu.edu,susan.schneider727@yahoo.com,PhD,Electrical Engineering,2019,Full-Time,Cary,NC,USA
+987,Meghan,Roberts,meghan.roberts183@slu.edu,meghan.roberts432@gmail.com,BS,Software Engineering,2016,Full-Time,Fort Collins,CO,USA
+988,Jennifer,Watkins,jennifer.watkins20@slu.edu,jennifer.watkins780@outlook.com,PhD,Business Analytics,2017,Full-Time,Colorado Springs,CO,USA
+989,Christian,Hebert,christian.hebert476@slu.edu,christian.hebert436@yahoo.com,PhD,Biostatistics,2015,Full-Time,Cincinnati,OH,USA
+990,Harry,Cox,harry.cox10@slu.edu,harry.cox271@yahoo.com,MS,Marketing,2021,Full-Time,San Jose,CA,USA
+991,Brian,Williams,brian.williams954@slu.edu,brian.williams154@gmail.com,PhD,Software Engineering,2015,Full-Time,Phoenix,AZ,USA
+992,Thomas,Sanchez,thomas.sanchez628@slu.edu,thomas.sanchez251@outlook.com,MBA,Business Analytics,2021,Full-Time,Alpharetta,GA,USA
+993,Michael,Adams,michael.adams550@slu.edu,michael.adams392@gmail.com,MBA,Marketing,2020,Full-Time,Charlotte,NC,USA
+994,Denise,Hamilton,denise.hamilton346@slu.edu,denise.hamilton271@yahoo.com,BS,Computer Science,2021,Full-Time,Colorado Springs,CO,USA
+995,Jamie,Stewart,jamie.stewart985@slu.edu,jamie.stewart502@outlook.com,BS,Information Systems,2022,OPT,Columbia,MO,USA
+996,Melissa,Ruiz,melissa.ruiz338@slu.edu,melissa.ruiz667@outlook.com,BS,Information Systems,2025,CPT,White Plains,NY,USA
+997,Danielle,Gordon,danielle.gordon488@slu.edu,danielle.gordon114@gmail.com,MS,Information Systems,2018,Full-Time,Harrisburg,PA,USA
+998,Catherine,Gonzalez,catherine.gonzalez370@slu.edu,catherine.gonzalez633@yahoo.com,BS,Software Engineering,2017,Full-Time,Orlando,FL,USA
+999,Taylor,Benjamin,taylor.benjamin163@slu.edu,taylor.benjamin102@yahoo.com,PhD,Business Analytics,2017,Full-Time,Dallas,TX,USA
+1000,Christopher,Clark,christopher.clark945@slu.edu,christopher.clark559@outlook.com,MBA,Biostatistics,2015,Full-Time,Ann Arbor,MI,USA
