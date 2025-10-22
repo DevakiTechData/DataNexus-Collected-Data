@@ -1,105 +1,62 @@
-# DataNexus SLU Alumni Connect – Synthetic Dataset  
-*Capstone Project | Saint Louis University (MS Information Systems)*  
+# 🎓 DataNexus SLU Alumni Connect – Synthetic Dataset
 
-## 📘 Overview  
-This repository contains a **synthetic, ethically generated dataset** created for the capstone project **DataNexus SLU Alumni Connect Platform**.  
-The project aims to analyze and visualize connections between **MS students, alumni, employers, and SLU administrators** using data-driven dashboards.  
-
-The dataset mirrors SLU’s student–alumni–employer ecosystem from **2015 to 2025**, helping the university track:  
-- Student visa/work phases (CPT, OPT, STEM-OPT)  
-- Alumni employment outcomes  
-- Employer partnerships and hiring trends  
-- Event participation and engagement metrics  
-
-All data in this repository is **synthetic** — no real or personal information is included.
+**Repository:** [DataNexus-Collected-Data](https://github.com/DevakiTechData/DataNexus-Collected-Data)  
+**Created by:** Group-2 (Devaki B, Keerthi A, Sri Lasya G, Harsha Priya C, Sanjeev Kumar B)  
+**University:** Saint Louis University  
+**Course:** IS-5960 – Master Research Project  
+**Instructor:** Maria Weber  
+**Date:** October 2025  
 
 ---
 
-## 🧩 Dataset Description  
-The dataset follows a **relational structure** aligned with the project’s **Entity Relationship Diagram (ERD)**.  
-Each table contains **1,000 records** and maintains referential integrity across all primary and foreign keys.
+## 📘 Project Overview
 
-| Table | Description | Key Fields |
-|-------|--------------|------------|
-| **students.csv** | Current MS students, their programs, visa/work status, and internships | `Student_ID (PK)`, `Current_Employer_ID (FK)` |
-| **alumni.csv** | SLU alumni records including graduation year, degree, location, and work phase | `Alumni_ID (PK)` |
-| **employers.csv** | Employer details such as company name, industry, city, and partnership level | `Employer_ID (PK)` |
-| **jobs.csv** | Job information connecting alumni to employers | `Job_ID (PK)`, `Alumni_ID (FK)`, `Employer_ID (FK)` |
-| **events.csv** | University and employer event details (type, date, location) | `Event_ID (PK)` |
-| **engagements.csv** | Records of alumni participation and feedback in events | `Engagement_ID (PK)`, `Alumni_ID (FK)`, `Event_ID (FK)` |
-| **data_dictionary.csv** | Column-level metadata and example values for all six tables | — |
+The **DataNexus SLU Alumni Connect Platform** is a research capstone project designed to help Saint Louis University (SLU) analyze and strengthen connections between **MS students, alumni, and employers**.  
+This dataset supports the analytical dashboards used in the project by providing realistic, ethically generated data that mimics SLU’s academic and employment ecosystem.
 
 ---
 
-## 🧠 Data Model  
-**Entity Relationships:**
-Students → Employers (via Current_Employer_ID)
-Alumni → Jobs (1-to-many)
-Employers→ Jobs (1-to-many)
-Alumni → Engagements (1-to-many)
-Events → Engagements (1-to-many)
+## 🎯 Objectives
 
-
-**Date Range:** 2015 – 2025  
-**Collection Date:** October 2025  
-**Data Type:** Structured, quantitative, synthetic  
+- Track **student progression** from enrollment to employment (CPT → OPT → STEM-OPT → Full-Time).  
+- Analyze **alumni outcomes**, technologies, and job trends.  
+- Explore **employer partnerships** and engagement patterns.  
+- Evaluate **university event participation** and its impact on student-employer relationships.  
 
 ---
 
-## 🛠️ Generation Method  
-The dataset was created using Python with the following libraries:
-- [Faker](https://faker.readthedocs.io/) – generates realistic names, emails, companies, and locations  
-- [NumPy](https://numpy.org/) – produces numeric and date distributions  
-- [Pandas](https://pandas.pydata.org/) – manages tabular structures and exports CSVs  
+## 🧩 Dataset Structure
 
-A verification script was executed to confirm:
-- ✅ 1,000 rows per table  
-- ✅ Unique primary keys  
-- ✅ Valid foreign-key relationships  
+| File Name | Description | Records | Key Fields |
+|------------|-------------|----------|-------------|
+| **students.csv** | Current MS students with enrollment, visa status, GPA, and internship details | 1,000 | `Student_ID` (PK), `Current_Employer_ID` (FK) |
+| **alumni.csv** | Alumni data including graduation year, work phase, employer, and technologies | 1,000 | `Alumni_ID` (PK) |
+| **employers.csv** | Employer and partnership information (industry, size, contact, location) | 1,000 | `Employer_ID` (PK) |
+| **jobs.csv** | Links alumni to employers with job details, salaries, technologies, and dates | 1,000 | `Job_ID` (PK), `Alumni_ID` (FK), `Employer_ID` (FK) |
+| **events.csv** | University and employer events (career fairs, workshops, meetups) | 1,000 | `Event_ID` (PK) |
+| **engagements.csv** | Alumni participation in events with feedback and engagement scores | 1,000 | `Engagement_ID` (PK), `Alumni_ID` (FK), `Event_ID` (FK) |
+| **data_dictionary.csv** | Metadata describing each column’s name, type, and example | — | — |
 
----
-
-## 📂 Folder Structure
-📁 DataNexus-SLU-Dataset/
-│
-├── students.csv
-├── alumni.csv
-├── employers.csv
-├── jobs.csv
-├── events.csv
-├── engagements.csv
-├── data_dictionary.csv
-└── README.md
-
+**Total Records:** ~6,000  
+**Variables per Table:** 20  
+**Format:** CSV (comma-separated)  
+**Structure:** Relational (normalized)  
 
 ---
 
-## 💡 Usage  
-You can load these CSV files into:
-- **Power BI / Tableau** for interactive dashboards  
-- **MySQL / PostgreSQL** for relational modeling  
-- **Python / Pandas** for analytics and visualization  
+## 🧠 Data Generation Details
 
-### Example (Python)
-```python
-import pandas as pd
+- **Data Source:** Synthetic dataset generated using **Python 3.13**, **Faker**, **NumPy**, and **Pandas**.  
+- **Collection Date:** October 2025  
+- **Date Range Covered:** 2015 – 2025 (student enrollment, alumni graduation, employment, and events).  
+- **Ethics & Privacy:** All data is **fictional**, with no personally identifiable or institutional information.
 
-students = pd.read_csv("students.csv")
-alumni = pd.read_csv("alumni.csv")
-jobs = pd.read_csv("jobs.csv")
+### Generation Steps
+1. Designed an **Entity Relationship Diagram (ERD)** defining six core entities.  
+2. Generated 1,000 records per entity using **Faker** for names, emails, and locations.  
+3. Created numeric and date fields using **NumPy** and **datetime** ranges.  
+4. Ensured **20 columns per table** with **no null or empty values**.  
+5. Verified all **primary/foreign key integrity** and unique IDs.  
+6. Compiled a **data dictionary** for column metadata.  
 
-print(students.head())
-
-⚖️ License & Ethics
-
-This dataset is synthetic and free for educational and research purposes.
-It contains no personally identifiable information (PII).
-© 2025 Devaki Bathalapalli | Saint Louis University
-
-🙌 Acknowledgements
-
-Course: IS 5960 – Masters Research Project
-
-Department of Information Systems, Saint Louis University
-
-Tools: Python 3.13 | Faker | NumPy | Pandas
+Verification output:
